@@ -1,0 +1,13 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791198381811",
+      "libCode": "111526",
+      "format": "json"
+    },
+    "result": {
+      "hasBook": "Y",
+      "loanAvailable": "N"
+    }
+  }
+}

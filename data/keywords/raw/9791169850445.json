@@ -1,0 +1,774 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791169850445",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "남에게 보여주려고 인생을 낭비하지 마라 :쇼펜하우어 소품집",
+      "authors": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+      "publisher": "Page2(페이지2북스)",
+      "publication_year": "2023",
+      "isbn13": "9791169850445",
+      "addition_symbol": "03100",
+      "vol": "",
+      "class_no": "165.47",
+      "class_nm": "철학 > 서양철학 > 독일, 오스트리아철학",
+      "description": "누구나 행복을 추구해야 한다는 ‘행복론’은 논쟁이 필요 없는 당연한 명제처럼 여겨진다. 하지만 쇼펜하우어는 이러한 전제에서 모든 불행이 생겨난다고 말한다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/32648/45/cover/k072935654_1.jpg",
+      "loanCnt": 21411
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 523,
+          "ranking": 2476
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 650,
+          "ranking": 1909
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 534,
+          "ranking": 2040
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 446,
+          "ranking": 2176
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 438,
+          "ranking": 2580
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 414,
+          "ranking": 2852
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 447,
+          "ranking": 3224
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 431,
+          "ranking": 2552
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 423,
+          "ranking": 2820
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 399,
+          "ranking": 3035
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 306,
+          "ranking": 4149
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 306,
+          "ranking": 3979
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 67,
+          "ranking": 283
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 25,
+          "ranking": 744
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 24,
+          "ranking": 715
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 19,
+          "ranking": 479
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 16,
+          "ranking": 268
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 9,
+          "ranking": 742
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 5,
+          "ranking": 312
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "쇼펜하우어",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "행복",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "철학",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영향",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "철학자",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "누구",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "추구",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "니체",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "톨스토이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소품과 부록",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사상가",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개인",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "의지와 표상으로서의 세계",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불행",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "태도",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자연에서의 의지에 관하여",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대하",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "페이지2 page2",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "진리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소유물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지혜",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아르투어 쇼펜하우어",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자신",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "외면",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "평가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아인슈타인",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "격언",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "의미",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교양 인문학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "박제헌  옮긴이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독일",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "명제",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "19세기",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무신론자",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문체",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "희망",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "냉소적",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가지",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강력",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기쁨",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "꼬리표",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "논쟁",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "논문",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "당신의 인생이 왜 힘들지 않아야 한다고 생각하십니까 :쇼펜하우어 아포리즘 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2023",
+          "isbn13": "9791192625553",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나를 소모하지 않는 현명한 태도에 관하여 ",
+          "authors": "마티아스 뇔케 지음 ;이미옥 옮김",
+          "publisher": "퍼스트펭귄",
+          "publication_year": "2024",
+          "isbn13": "9791198682505",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "authors": "벤저민 하디 지음 ;최은아 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "authors": "장재형 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2022",
+          "isbn13": "9791192300245",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "당신의 인생이 왜 힘들지 않아야 한다고 생각하십니까 :쇼펜하우어 아포리즘 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2023",
+          "isbn13": "9791192625553",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "삶이라는 지옥을 건너는 70가지 방법 :어제의 불행이 오늘의 행복이 되는 쇼펜하우어의 지혜 ",
+          "authors": "이동용 지음",
+          "publisher": "청림출판",
+          "publication_year": "2024",
+          "isbn13": "9791155402306",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "결코 나의 운명을 원망하지 않으리라 :쇼펜하우어의 인생에 대한 조언(1851) ",
+          "authors": "아르투어 쇼펜하우어 지음 ;김요한 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2024",
+          "isbn13": "9791192372655",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "쇼펜하우어 지금, 이 순간을 즐겨라",
+          "authors": "아르투어 쇼펜하우어 (지은이), 박재인 (편역)",
+          "publisher": "아름다운날",
+          "publication_year": "2022",
+          "isbn13": "9791167090119",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어차피 남들은 나에게 관심 없다 :쇼펜하우어의 인간관계 철학 ",
+          "authors": "글·그림: 강산",
+          "publisher": "알토북스",
+          "publication_year": "2024",
+          "isbn13": "9791198621405",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "깨진 틈이 있어야 그 사이로 빛이 들어온다 :차라투스트라는 이렇게 말했다 ",
+          "authors": "프리드리히 니체 지음 ;김신종 옮김",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2024",
+          "isbn13": "9791169850681",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼자일 수 없다면 나아갈 수 없다 :프리드리히 니체 아포리즘 ",
+          "authors": "프리드리히 니체 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506387",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(쇼펜하우어의) 고독한 행복 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;홍성광 옮김",
+          "publisher": "열림원",
+          "publication_year": "2024",
+          "isbn13": "9791170402688",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "쇼펜하우어의 말 - 인생을 살아내기 위한 철학, 에센셜판",
+          "authors": "아르투어 쇼펜하우어 (지은이), 가나모리 시게나리 (엮은이), 김재현 (옮긴이)",
+          "publisher": "빅피시",
+          "publication_year": "2024",
+          "isbn13": "9791193128831",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "지극히 인간적인 삶에 대하여 :쇼펜하우어 《인생론》으로 되찾는 삶의 의미 ",
+          "authors": "이동용 지음",
+          "publisher": "동녘",
+          "publication_year": "2015",
+          "isbn13": "9788972977322",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "당신의 인생이 왜 힘들지 않아야 한다고 생각하십니까 :쇼펜하우어 아포리즘 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2023",
+          "isbn13": "9791192625553",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나를 소모하지 않는 현명한 태도에 관하여 ",
+          "authors": "마티아스 뇔케 지음 ;이미옥 옮김",
+          "publisher": "퍼스트펭귄",
+          "publication_year": "2024",
+          "isbn13": "9791198682505",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(2500년 동안 사랑받은) 초역 부처의 말 :행복으로 가는 길은 없다 행복이 곧 길이다 ",
+          "authors": "코이케 류노스케 지음 ;박재현 옮김",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506516",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "위버멘쉬 :누구의 시선도 아닌, 내 의지대로 살겠다는 선언 ",
+          "authors": "프리디리히 니체 지음 ;어나니머스 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2025",
+          "isbn13": "9791192372730",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "authors": "벤저민 하디 지음 ;최은아 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389325",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

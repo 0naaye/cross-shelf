@@ -1,0 +1,814 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791190409124",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "똥볶이 할멈 :K-히어로 판타지",
+      "authors": "글: 강효미 ;그림: 김무연",
+      "publisher": "따끈따끈책방",
+      "publication_year": "2021",
+      "isbn13": "9791190409124",
+      "addition_symbol": "74810",
+      "vol": "1",
+      "class_no": "813.7",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "글을 쓴 강효미 작가는 작가 특유의 톡톡 튀는 유머 감각을 잘 살려 최초의 할머니 히어로인 ‘똥볶이 할멈’과 조수 ‘치즈’의 캐릭터를 완벽히 입체적으로 구현해 냈다. 동시에 작품 속 아이들의 고민을 결코 가볍지 않고 진중하게 다루었다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/27982/44/cover/k832734228_1.jpg",
+      "loanCnt": 76981
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1750,
+          "ranking": 111
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1823,
+          "ranking": 104
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1618,
+          "ranking": 97
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1329,
+          "ranking": 131
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1470,
+          "ranking": 118
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1468,
+          "ranking": 122
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1782,
+          "ranking": 100
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1443,
+          "ranking": 111
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1782,
+          "ranking": 52
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1664,
+          "ranking": 64
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1538,
+          "ranking": 85
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1464,
+          "ranking": 81
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 424,
+          "ranking": 80
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 243,
+          "ranking": 49
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 164,
+          "ranking": 107
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 155,
+          "ranking": 163
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 154,
+          "ranking": 212
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 85,
+          "ranking": 103
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 83,
+          "ranking": 114
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 76,
+          "ranking": 17
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 60,
+          "ranking": 48
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 55,
+          "ranking": 393
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 49,
+          "ranking": 537
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 40,
+          "ranking": 146
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "아이들",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "할멈",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "히어로",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "똥볶",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오랑우탄 인간의 최후",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흔한남매 안 흔한 일기 13",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "챗 걸",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "빵이당 대 구워뜨",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김무연",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강효미",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고민",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고양이네 미술관",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "할머니",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "떡볶이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기상천외",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국내창작동화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "슈퍼",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "학교",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "슈크림북",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "쉬우",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시원",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "입체적",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어른",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "입가",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "완벽",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "완성",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "운동화",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "운영",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유머",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일기",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우주",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "떡볶이집",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "거지",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그림",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "녀석",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "눈높이",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단호",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동국대학교",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동시",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "말이",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "매콤",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "목소리",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문예창작학과",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미소",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방귀",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방법",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "범인",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사이다",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409131",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409148",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409261",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409384",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447694",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791198511577",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447861",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448011",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "낭만 강아지 봉봉",
+          "authors": "홍민정 글 ;김무연 그림",
+          "publisher": "다산북스",
+          "publication_year": "2022",
+          "isbn13": "9791130679990",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448134",
+          "vol": "4"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409131",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409148",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409261",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409384",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791198511577",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409117",
+          "vol": "1-8 /"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791198948762",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "낭만 강아지 봉봉",
+          "authors": "홍민정 글 ;김무연 그림",
+          "publisher": "다산북스",
+          "publication_year": "2022",
+          "isbn13": "9791130679990",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(똥볶이 할멈의) 힘 주는 말 ",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2025",
+          "isbn13": "9791198948724",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "낭만 강아지 봉봉",
+          "authors": "홍민정 글 ;김무연 그림",
+          "publisher": "다산북스",
+          "publication_year": "2022",
+          "isbn13": "9791130622590",
+          "vol": "2"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409131",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409148",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409261",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409384",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791198511577",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791198948762",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448370",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448523",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448752",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447694",
+          "vol": "1"
+        }
+      }
+    ]
+  }
+}

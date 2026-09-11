@@ -1,0 +1,814 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791193506516",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "(2500년 동안 사랑받은) 초역 부처의 말 :행복으로 가는 길은 없다 행복이 곧 길이다",
+      "authors": "코이케 류노스케 지음 ;박재현 옮김",
+      "publisher": "콘텐츠그룹 포레스트",
+      "publication_year": "2024",
+      "isbn13": "9791193506516",
+      "addition_symbol": "03100",
+      "vol": "",
+      "class_no": "224.2",
+      "class_nm": "종교 > 불교 > 법어, 신앙록, 신앙생활",
+      "description": "2500년 동안 사람들에게 사랑받으며 회자되어 온 부처의 말을 코이케 류노스케 스님이 현대어로 재해석해 책으로 출간했다. 간결하게 축약된 핵심만을 담은 부처의 메시지는, 마음이 약해지고 어려움에 처한 사람들에게 힘과 용기를 불어넣어 준다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/33973/70/cover200/k682930444_1.jpg",
+      "loanCnt": 19668
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1898,
+          "ranking": 78
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1784,
+          "ranking": 114
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1708,
+          "ranking": 78
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1436,
+          "ranking": 102
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1432,
+          "ranking": 136
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1487,
+          "ranking": 115
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1529,
+          "ranking": 185
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1156,
+          "ranking": 246
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1336,
+          "ranking": 180
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1295,
+          "ranking": 193
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1216,
+          "ranking": 209
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1156,
+          "ranking": 208
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 219,
+          "ranking": 591
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 212,
+          "ranking": 87
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 115,
+          "ranking": 131
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 108,
+          "ranking": 123
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 64,
+          "ranking": 19
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 49,
+          "ranking": 170
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 28,
+          "ranking": 454
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 27,
+          "ranking": 544
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 24,
+          "ranking": 120
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 22,
+          "ranking": 372
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 15,
+          "ranking": 198
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 9,
+          "ranking": 742
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "부처",
+          "weight": "18"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "말이",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "간결",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "재해석",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아들러 심리학을 읽는 밤",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "현대어",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2500년",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "니체의 말",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "류노스케",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "의도",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인생",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서문",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "메시지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바람",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "박재현  옮긴이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방향",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "코이케",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "코이케 류노스케",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "해답",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "회자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "핵심",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "철학자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "철학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "축약",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "순간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "쇼펜하우어",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "용기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일어",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교양 인문학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단순",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "포레스트북스",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스님",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기획",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기분",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선택",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생활",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선한",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2부",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "12부",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독일",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "7부",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "8부",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "9부",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "리브스",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동시",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고전이 답했다 :마땅히 살아야 할 삶에 대하여 ",
+          "authors": "고명환 지음",
+          "publisher": "라곰",
+          "publication_year": "2024",
+          "isbn13": "9791193939130",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "석가모니 인생수업 :온전한 삶을 위한 석가모니의 가르침 ",
+          "authors": "석가모니 저 ;김지민 엮음",
+          "publisher": "Highest(하이스트)",
+          "publication_year": "2024",
+          "isbn13": "9791193282113",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(인생의 고비마다 답을 주는) 초역 채근담 ",
+          "authors": "홍자성 지음 ;박재현 옮김",
+          "publisher": "부키",
+          "publication_year": "2025",
+          "isbn13": "9791193528587",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "내 마음이 지옥일 때 부처가 말했다 :분노의 늪에서 나를 건지는 법 ",
+          "authors": "코이케 류노스케 지음 ;박수현 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2025",
+          "isbn13": "9788901297149",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부처님 말씀대로 살아보니 :인생이 가벼워지는 15가지 불교 수업 ",
+          "authors": "토니 페르난도 지음 ;강정선 옮김",
+          "publisher": "Wilma(윌마)",
+          "publication_year": "2026",
+          "isbn13": "9791199496651",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "초역 논어 :2500년 고전에서 찾는 인생의 진리 ",
+          "authors": "야스토미 아유무 지음 ;고운기 옮김",
+          "publisher": "Ready to dive(레디투다이브)",
+          "publication_year": "2024",
+          "isbn13": "9791198999108",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "법구경 마음공부 :걱정 많은 삶을 평온하게 바꾸는 법 ",
+          "authors": "정운 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2024",
+          "isbn13": "9791171830237",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "탁! 깨달음의 대화 :법륜 스님 즉문즉설 ",
+          "authors": "지은이: 법륜 ;그림: 한차연",
+          "publisher": "정토출판",
+          "publication_year": "2025",
+          "isbn13": "9791187297925",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "초역(超譯) 쇼펜하우어의 말 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;권용선 엮음",
+          "publisher": "지혜의숲",
+          "publication_year": "2025",
+          "isbn13": "9791193282311",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혁명가 붓다 :붓다의 시선으로, 그의 삶으로 ",
+          "authors": "법륜 지음",
+          "publisher": "정토출판",
+          "publication_year": "2025",
+          "isbn13": "9791187297826",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이제서야 이해되는 반야심경 :단숨에 읽히고 즐겁게 깨치는 원영 스님의 반야심경 ",
+          "authors": "원영 지음",
+          "publisher": "불광출판사",
+          "publication_year": "2024",
+          "isbn13": "9791193454923",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부처님 말씀대로 살아보니 :인생이 가벼워지는 15가지 불교 수업 ",
+          "authors": "토니 페르난도 지음 ;강정선 옮김",
+          "publisher": "Wilma(윌마)",
+          "publication_year": "2026",
+          "isbn13": "9791199496651",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "위버멘쉬 :누구의 시선도 아닌, 내 의지대로 살겠다는 선언 ",
+          "authors": "프리디리히 니체 지음 ;어나니머스 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2025",
+          "isbn13": "9791192372730",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

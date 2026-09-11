@@ -1,0 +1,798 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791158364120",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "꽁꽁꽁 캠핑 :윤정주 그림책",
+      "authors": "윤정주",
+      "publisher": "책읽는곰",
+      "publication_year": "2023",
+      "isbn13": "9791158364120",
+      "addition_symbol": "77810",
+      "vol": "",
+      "class_no": "813.7",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "윤정주 작가의 '꽁꽁꽁' 시리즈 다섯 번째 이야기. 솔이네 가족이 바닷가로 캠핑을 왔다. 그런데 솔이가 아이스박스 위에 놔둔 알이조아 초콜릿을 갈매기가 알인 줄 알고 휙 채 가 버린다. 알이조아는 갈매기가 잠든 새 살금살금 미역 줄기를 타고 탈출하려고 하는데….",
+      "bookImageURL": "https://image.aladin.co.kr/product/31914/91/cover/k092833847_1.jpg",
+      "loanCnt": 46249
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1777,
+          "ranking": 103
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1774,
+          "ranking": 116
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1490,
+          "ranking": 132
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1203,
+          "ranking": 196
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1319,
+          "ranking": 185
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1236,
+          "ranking": 231
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1391,
+          "ranking": 240
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1132,
+          "ranking": 258
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1263,
+          "ranking": 222
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1278,
+          "ranking": 200
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1147,
+          "ranking": 245
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1173,
+          "ranking": 195
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 288,
+          "ranking": 22
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 279,
+          "ranking": 298
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 131,
+          "ranking": 248
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 80,
+          "ranking": 11
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 71,
+          "ranking": 15
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 63,
+          "ranking": 21
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 57,
+          "ranking": 337
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "영유아",
+          "gender": "여성",
+          "loanCnt": 46,
+          "ranking": 13
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "영유아",
+          "gender": "남성",
+          "loanCnt": 45,
+          "ranking": 20
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 40,
+          "ranking": 751
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "꽁꽁꽁",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "갈매기",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "알이조아",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바닷가",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대왕",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문어",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바다",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "윤정주",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "게들",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "캠핑",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간 가게",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시골집이 살아났어요",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아카시아 파마",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "악몽 도둑",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연이네 서울 나들이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연이네 설맞이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "헌터걸",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최승호 시인의 말놀이 동시집",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "달래네 꽃놀이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "냠냠 빙수",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "꽁꽁꽁 피자",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "꽁꽁꽁 좀비",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "꽁꽁꽁 아이스크림",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "천하무적 조선 소방관",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가족",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "튜브",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그림책",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모래성",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그림",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이번",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "줄기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "집게발",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "짤각대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이스박스",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "타고",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "먹이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "초콜릿",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한국 그림책",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미역",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "책읽는곰",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "탈출",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다행",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "밤바",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "배가",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "물놀이",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보고",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 아이스크림 :윤정주 그림책 ",
+          "authors": "윤정주",
+          "publisher": "책읽는곰",
+          "publication_year": "2022",
+          "isbn13": "9791158363499",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 좀비 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2021",
+          "isbn13": "9791158362478",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 피자 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2020",
+          "isbn13": "9791158361907",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 댕댕 :윤정주 그림책 ",
+          "authors": "윤정주",
+          "publisher": "책읽는곰",
+          "publication_year": "2024",
+          "isbn13": "9791158364724",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "오싹오싹 편의점 :김영진 그림책 ",
+          "authors": "지은이: 김영진",
+          "publisher": "책읽는곰",
+          "publication_year": "2023",
+          "isbn13": "9791158364083",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2016",
+          "isbn13": "9791158360276",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "거짓말이 뿡뿡, 고무장갑! :유설화 그림책 ",
+          "authors": "유설화",
+          "publisher": "책읽는곰",
+          "publication_year": "2023",
+          "isbn13": "9791158364021",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "태양 왕 수바 :이지은 그림책 ",
+          "authors": "글·그림: 이지은",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901271323",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "두근두근 편의점 :김영진 그림책 ",
+          "authors": "지은이: 김영진",
+          "publisher": "책읽는곰",
+          "publication_year": "2022",
+          "isbn13": "9791158363178",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+          "authors": "유설화",
+          "publisher": "책읽는곰",
+          "publication_year": "2021",
+          "isbn13": "9791158362249",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 댕댕 :윤정주 그림책 ",
+          "authors": "윤정주",
+          "publisher": "책읽는곰",
+          "publication_year": "2024",
+          "isbn13": "9791158364724",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 피자 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2020",
+          "isbn13": "9791158361907",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 아이스크림 :윤정주 그림책 ",
+          "authors": "윤정주",
+          "publisher": "책읽는곰",
+          "publication_year": "2022",
+          "isbn13": "9791158363499",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 좀비 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2021",
+          "isbn13": "9791158362478",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2016",
+          "isbn13": "9791158360276",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "질투는 아웃, 야구 장갑! :유설화 그림책 ",
+          "authors": "유설화",
+          "publisher": "책읽는곰",
+          "publication_year": "2024",
+          "isbn13": "9791158364595",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "거짓말이 뿡뿡, 고무장갑! :유설화 그림책 ",
+          "authors": "유설화",
+          "publisher": "책읽는곰",
+          "publication_year": "2023",
+          "isbn13": "9791158364021",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "또 만나요, 달평 씨 :신민재 그림책 ",
+          "authors": "신민재",
+          "publisher": "책읽는곰",
+          "publication_year": "2023",
+          "isbn13": "9791158364267",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "냠냠 빙수 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2017",
+          "isbn13": "9791158360474",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "악몽 도둑 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2019",
+          "isbn13": "9791158361495",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 댕댕 :윤정주 그림책 ",
+          "authors": "윤정주",
+          "publisher": "책읽는곰",
+          "publication_year": "2024",
+          "isbn13": "9791158364724",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 아이스크림 :윤정주 그림책 ",
+          "authors": "윤정주",
+          "publisher": "책읽는곰",
+          "publication_year": "2022",
+          "isbn13": "9791158363499",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 좀비 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2021",
+          "isbn13": "9791158362478",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 피자 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2020",
+          "isbn13": "9791158361907",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "오싹오싹 편의점 :김영진 그림책 ",
+          "authors": "지은이: 김영진",
+          "publisher": "책읽는곰",
+          "publication_year": "2023",
+          "isbn13": "9791158364083",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽁꽁꽁 ",
+          "authors": "윤정주 글·그림",
+          "publisher": "책읽는곰",
+          "publication_year": "2016",
+          "isbn13": "9791158360276",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "거짓말이 뿡뿡, 고무장갑! :유설화 그림책 ",
+          "authors": "유설화",
+          "publisher": "책읽는곰",
+          "publication_year": "2023",
+          "isbn13": "9791158364021",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "몽글몽글 편의점 :김영진 그림책 ",
+          "authors": "김영진",
+          "publisher": "책읽는곰",
+          "publication_year": "2024",
+          "isbn13": "9791158364823",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "태양 왕 수바 :이지은 그림책 ",
+          "authors": "글·그림: 이지은",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901271323",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "질투는 아웃, 야구 장갑! :유설화 그림책 ",
+          "authors": "유설화",
+          "publisher": "책읽는곰",
+          "publication_year": "2024",
+          "isbn13": "9791158364595",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

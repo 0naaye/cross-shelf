@@ -1,0 +1,830 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791189327156",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기",
+      "authors": "룰루 밀러 지음 ;정지인 옮김",
+      "publisher": "곰출판",
+      "publication_year": "2021",
+      "isbn13": "9791189327156",
+      "addition_symbol": "03400",
+      "vol": "",
+      "class_no": "490.99",
+      "class_nm": "자연과학 > 동물학 > 동물학",
+      "description": "집착에 가까울 만큼 자연계에 질서를 부여하려 했던 19세기 어느 과학자의 삶을 흥미롭게 좇아가는 이 책은 어느 순간 독자들을 혼돈의 한복판으로 데려가서 우리가 믿고 있던 삶의 질서에 관해 한 가지 의문을 제기한다. “물고기가 존재하지 않는다는 것은 엄연한 하나의 사실이다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/28465/73/cover/k092835920_1.jpg",
+      "loanCnt": 80858
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1681,
+          "ranking": 123
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1551,
+          "ranking": 189
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1314,
+          "ranking": 223
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1163,
+          "ranking": 216
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1210,
+          "ranking": 251
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1410,
+          "ranking": 149
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1578,
+          "ranking": 161
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1243,
+          "ranking": 200
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1252,
+          "ranking": 225
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1210,
+          "ranking": 236
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1199,
+          "ranking": 215
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1178,
+          "ranking": 191
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 227,
+          "ranking": 60
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 218,
+          "ranking": 23
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 193,
+          "ranking": 829
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 106,
+          "ranking": 154
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 59,
+          "ranking": 32
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 49,
+          "ranking": 137
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 49,
+          "ranking": 13
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 43,
+          "ranking": 134
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 39,
+          "ranking": 99
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 38,
+          "ranking": 30
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 34,
+          "ranking": 411
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 25,
+          "ranking": 48
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 14,
+          "ranking": 229
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 6,
+          "ranking": 231
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "물고기는 존재하지 않는다",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "질서",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "밀러",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "피버디",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "혼돈",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "룰루",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방송계",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "퓰리처상",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마디",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Peabody",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "라디오랩 Radiolab",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "캐터펄트 Catapult",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Awards",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2020년",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최고",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선정",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "내서널퍼블릭라디오 NPR",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "집착",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전문기자",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "논픽션",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뉴요커",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오리온",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스미소니언",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "VQR",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "NPR",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시카고 트리뷴",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "워싱턴포스트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불리",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "북라이엇",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마키",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "막간극",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "말이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "룰루 밀러",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기원",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베스트셀러",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사다리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "관해",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기만",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사실",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기초과학 교양과학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "삽화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "꼬리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "19세기",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "authors": "지은이: 정해연",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681155",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "Giant Books(자이언트북스)",
+          "publication_year": "2021",
+          "isbn13": "9791191824001",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681179",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "authors": "지은이: 천선란",
+          "publisher": "허블",
+          "publication_year": "2020",
+          "isbn13": "9791190090261",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "자연에 이름 붙이기 :보이지 않던 세계가 보이기 시작할 때 ",
+          "authors": "캐럴 계숙 윤 지음 ;정지인 옮김",
+          "publisher": "윌북",
+          "publication_year": "2023",
+          "isbn13": "9791155816462",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우리가 작별 인사를 할 때마다 ",
+          "authors": "마거릿 렌클 지음 ;최정수 옮김",
+          "publisher": "을유문화사",
+          "publication_year": "2023",
+          "isbn13": "9788932475011",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "칵테일, 러브, 좀비 ",
+          "authors": "지은이: 조예은",
+          "publisher": "안전가옥",
+          "publication_year": "2020",
+          "isbn13": "9791190174756",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "다정한 것이 살아남는다 ",
+          "authors": "지은이: 브라이언 헤어,옮긴이: 이민아",
+          "publisher": "디플롯",
+          "publication_year": "2021",
+          "isbn13": "9791197413025",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부처스 크로싱 ",
+          "authors": "지은이: 존 윌리엄스 ;옮긴이: 정세윤",
+          "publisher": "구픽",
+          "publication_year": "2023",
+          "isbn13": "9791187886921",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "트러스트 :에르난 디아스 장편소설 ",
+          "authors": "지은이: 에르난 디아스 ;옮긴이: 강동혁",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954691673",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이토록 평범한 미래 :김연수 소설 ",
+          "authors": "지은이: 김연수",
+          "publisher": "문학동네",
+          "publication_year": "2022",
+          "isbn13": "9788954680004",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "철학은 날씨를 바꾼다 :삶을 쓰다듬는 위안의 책 ",
+          "authors": "서동욱 지음",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934971351",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 소망한다 내게 금지된 것을 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2019",
+          "isbn13": "9788998441074",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954695053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "authors": "지은이: 김금희",
+          "publisher": "창비",
+          "publication_year": "2024",
+          "isbn13": "9788936439651",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

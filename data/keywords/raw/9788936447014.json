@@ -1,0 +1,790 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788936447014",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "아홉 살 마음 사전",
+      "authors": "박성우 글 ;김효은 그림",
+      "publisher": "창비",
+      "publication_year": "2017",
+      "isbn13": "9788936447014",
+      "addition_symbol": "73710",
+      "vol": "",
+      "class_no": "181",
+      "class_nm": "철학 > 심리학 > 각론",
+      "description": "마음을 표현하는 80개의 단어를 담은 책이다. 구체적이고 실감 나는 그림과 친절한 설명을 통해 다양한 감정 표현을 익힘으로써 자기 마음을 정확하게 이해하고 표현하는 것은 물론, 더 다양한 감정을 느낄 수 있도록 돕는다.",
+      "bookImageURL": "http://image.aladin.co.kr/product/10537/49/cover/8936447017_1.jpg",
+      "loanCnt": 133544
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1441,
+          "ranking": 231
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1584,
+          "ranking": 173
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1019,
+          "ranking": 461
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 858,
+          "ranking": 542
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 858,
+          "ranking": 677
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 993,
+          "ranking": 436
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1538,
+          "ranking": 181
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1079,
+          "ranking": 291
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1473,
+          "ranking": 128
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1356,
+          "ranking": 161
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1184,
+          "ranking": 225
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1108,
+          "ranking": 241
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 332,
+          "ranking": 194
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 177,
+          "ranking": 165
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 118,
+          "ranking": 377
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 112,
+          "ranking": 563
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 94,
+          "ranking": 67
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 79,
+          "ranking": 129
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 32,
+          "ranking": 472
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 28,
+          "ranking": 412
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "영유아",
+          "gender": "여성",
+          "loanCnt": 16,
+          "ranking": 430
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "표현",
+          "weight": "31"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감정",
+          "weight": "24"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아홉 살 마음 사전",
+          "weight": "18"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이",
+          "weight": "17"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상황",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독자",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그림",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김효은",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "박성우",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자기",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사전",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시인",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구체적",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "도움",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "실감",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정확",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동시",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나는 지하철입니다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "간결",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이해",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소개",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "차이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무섭다",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최근",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "적절",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사실적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설명",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상식 교양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "활용",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감각적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국어 가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소통",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "조마조마하다",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "창비",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "난다",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대신",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단어",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뿌듯",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흐뭇하다",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단순",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "갈등",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교사",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다행",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "아홉 살 느낌 사전 ",
+          "authors": "박성우 글 ;김효은 그림",
+          "publisher": "창비",
+          "publication_year": "2019",
+          "isbn13": "9788936447397",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아홉 살 함께 사전 ",
+          "authors": "박성우 글 ;김효은 그림",
+          "publisher": "창비",
+          "publication_year": "2018",
+          "isbn13": "9788936447212",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447694",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만복이네 떡집 ",
+          "authors": "김리리 글 ;이승현 그림",
+          "publisher": "비룡소",
+          "publication_year": "2010",
+          "isbn13": "9788949161341",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447861",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448011",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "소원 떡집 ",
+          "authors": "김리리 글 ;이승현 그림",
+          "publisher": "비룡소",
+          "publication_year": "2020",
+          "isbn13": "9788949162058",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164131686",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448134",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "용기를 내, 비닐장갑! :유설화 그림책 ",
+          "authors": "유설화",
+          "publisher": "책읽는곰",
+          "publication_year": "2021",
+          "isbn13": "9791158362249",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "아홉 살 느낌 사전 ",
+          "authors": "박성우 글 ;김효은 그림",
+          "publisher": "창비",
+          "publication_year": "2019",
+          "isbn13": "9788936447397",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아홉 살 내 사전 :나만의 사전 만들기 ",
+          "authors": "글쓴이: 박성우 ;그린이: 김효은",
+          "publisher": "창비",
+          "publication_year": "2019",
+          "isbn13": "9788936447403",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아홉 살 함께 사전 ",
+          "authors": "박성우 글 ;김효은 그림",
+          "publisher": "창비",
+          "publication_year": "2018",
+          "isbn13": "9788936447212",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "알아서 해가 떴습니다 :정연철 동시집 ",
+          "authors": "지은이: 정연철 ;그린이: 김고은",
+          "publisher": "사계절",
+          "publication_year": "2018",
+          "isbn13": "9791160943481",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아기 토끼와 채송화 꽃 :권정생 동화집 ",
+          "authors": "지은이 :권정생 ;그린이: 정호선",
+          "publisher": "창비",
+          "publication_year": "2012",
+          "isbn13": "9788936451349",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "뜨고 지고! ",
+          "authors": "박남일 글 ;김우선 그림",
+          "publisher": "길벗어린이",
+          "publication_year": "2008",
+          "isbn13": "9788955820843",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "참 좋은 짝:손동연동시집",
+          "authors": "손동연 지음",
+          "publisher": "푸른책들",
+          "publication_year": "2004",
+          "isbn13": "9788957980248",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나무들이 재잘거리는 숲 이야기 =(The) forest story of chattering trees ",
+          "authors": "김남길 글 ;끌레몽 그림",
+          "publisher": "풀과바람",
+          "publication_year": "2014",
+          "isbn13": "9788983895264",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "누구를 보낼까요? ",
+          "authors": "글: 이형래 ;그림: 이철형",
+          "publisher": "국수",
+          "publication_year": "2023",
+          "isbn13": "9791190499460",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "께롱께롱 놀이 노래 :아침부터 잠잘때까지 부르는 전래동요 50곡 ",
+          "authors": "노래 엮은이: 편해문 ;그린이: 윤정주",
+          "publisher": "보리",
+          "publication_year": "2008",
+          "isbn13": "9788984285392",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "아홉 살 느낌 사전 ",
+          "authors": "박성우 글 ;김효은 그림",
+          "publisher": "창비",
+          "publication_year": "2019",
+          "isbn13": "9788936447397",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418844",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168417199",
+          "vol": "15"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448370",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168416369",
+          "vol": "14"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418011",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168415232",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448523",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "아홉 살 함께 사전 ",
+          "authors": "박성우 글 ;김효은 그림",
+          "publisher": "창비",
+          "publication_year": "2018",
+          "isbn13": "9788936447212",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "벚꽃 수영장 ",
+          "authors": "신현경 글 ;노예지 그림",
+          "publisher": "인플루엔셜",
+          "publication_year": "2024",
+          "isbn13": "9791168341753",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

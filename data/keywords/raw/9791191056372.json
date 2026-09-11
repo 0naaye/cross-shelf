@@ -1,0 +1,814 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791191056372",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가",
+      "authors": "모건 하우절 지음 ;이지연 옮김",
+      "publisher": "인플루엔셜",
+      "publication_year": "2021",
+      "isbn13": "9791191056372",
+      "addition_symbol": "03320",
+      "vol": "",
+      "class_no": "327.04",
+      "class_nm": "사회과학 > 경제학 > 금융",
+      "description": "월스트리트저널에서 10년 넘게 금융과 투자에 대한 글을 써온 칼럼니스트이자 콜라보레이티브 펀드 파트너로 활동중인 모건 하우절의 첫 책이다. 하나하나 실화와 실증에 바탕을 두되 이야기의 재미와 투자의 교훈을 빠짐없이 담아냈다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/25967/85/cover/k412737326_1.jpg",
+      "loanCnt": 70451
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1444,
+          "ranking": 228
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1439,
+          "ranking": 245
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1321,
+          "ranking": 220
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1439,
+          "ranking": 99
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1433,
+          "ranking": 134
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1428,
+          "ranking": 135
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1650,
+          "ranking": 129
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1508,
+          "ranking": 94
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1602,
+          "ranking": 90
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1589,
+          "ranking": 84
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1585,
+          "ranking": 75
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1479,
+          "ranking": 74
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 334,
+          "ranking": 192
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 192,
+          "ranking": 132
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 150,
+          "ranking": 66
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 119,
+          "ranking": 370
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 97,
+          "ranking": 1
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 88,
+          "ranking": 36
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 82,
+          "ranking": 203
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 59,
+          "ranking": 5
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 54,
+          "ranking": 81
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 24,
+          "ranking": 639
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 19,
+          "ranking": 117
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 6,
+          "ranking": 231
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "투자",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "돈의 심리학",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "금융",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부자",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "돈이 있다",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "분야",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아마존",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "월스트리트저널",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모건",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비즈니스",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기술",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "투자자",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "편향",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "칼럼니스트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "The",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부의",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "천재",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최고",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "페라리",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "파트너",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "콜라보레이티브",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리텔링",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Award",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "하우절",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기자",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "펀드",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "블로그",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "극찬",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수여",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "꼬리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "금융도서",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부유케",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1위를",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "별명답게",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "20개",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보고서",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "심리학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안전마진",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비밀",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세례",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가격표",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "간절",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "얼마",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개인",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경",
+          "publisher": "서삼독",
+          "publication_year": "2024",
+          "isbn13": "9791198517425",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판 ",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환",
+          "publisher": "민음인",
+          "publication_year": "2018",
+          "isbn13": "9791158883591",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "authors": "제임스 클리어 지음 ;이한이 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2019",
+          "isbn13": "9791162540640",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "authors": "벤저민 하디 지음 ;최은아 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "authors": "게리 켈러,구세희 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2013",
+          "isbn13": "9788997575169",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(EBS 다큐프라임) 자본주의 ",
+          "authors": "EBS MEDIA 기획 ;EBS <자본주의> 제작팀 지음",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2013",
+          "isbn13": "9788957365793",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경",
+          "publisher": "서삼독",
+          "publication_year": "2024",
+          "isbn13": "9791198517425",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 방정식 :돈을 지위와 성공의 기준, 그 이상으로 다루기 위한 21가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 박영준",
+          "publisher": "서삼독",
+          "publication_year": "2026",
+          "isbn13": "9791193904671",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "저스트. 킵. 바잉. :당신을 부자로 만들어줄 3개의 단어 ",
+          "authors": "닉 매기울리 지음 ;오수원 옮김",
+          "publisher": "서삼독",
+          "publication_year": "2022",
+          "isbn13": "9791165345471",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "행운에 속지 마라 :불확실한 시대에 살아남는 투자 생존법 ",
+          "authors": "지은이: 나심 니콜라스 탈렙 ;옮긴이: 이건",
+          "publisher": "중앙일보플러스",
+          "publication_year": "2016",
+          "isbn13": "9788927808121",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부에 이르는 가장 단순한 길 :경제적 독립과 자유를 위한 콜린스의 3원칙 ",
+          "authors": "JL 콜린스 지음 ;이준걸 옮김",
+          "publisher": "서삼독",
+          "publication_year": "2025",
+          "isbn13": "9791193904664",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부자의 언어 :어떻게 살아야 부자가 되는지 묻는 아들에게 ",
+          "authors": "존 소포릭 지음 ;이한이 옮김",
+          "publisher": "윌북",
+          "publication_year": "2020",
+          "isbn13": "9791155812594",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "모든 주식을 소유하라 :시장과 시간이 검증한 투자의 원칙 ",
+          "authors": "존 보글 지음 ;이은주 옮김",
+          "publisher": "한국물가정보",
+          "publication_year": "2019",
+          "isbn13": "9791188096923",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부의 심리학 :돈, 관계, 인생을 컨트롤하는 힘 ",
+          "authors": "바리 테슬러 지음 ;이영래 옮김",
+          "publisher": "유노북스",
+          "publication_year": "2020",
+          "isbn13": "9791189279912",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "주식시장의 17가지 미신 :왜 대다수의 투자자는 시장에서 돈을 잃는가 ",
+          "authors": "켄 피셔,이건 옮김",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2021",
+          "isbn13": "9791190977173",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈, 뜨겁게 사랑하고 차갑게 다루어라",
+          "authors": "앙드레 코스톨라니 (지은이), 한윤진 (옮긴이)",
+          "publisher": "미래의창",
+          "publication_year": "2023",
+          "isbn13": "9791192519883",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경",
+          "publisher": "서삼독",
+          "publication_year": "2024",
+          "isbn13": "9791198517425",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 방정식 :돈을 지위와 성공의 기준, 그 이상으로 다루기 위한 21가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 박영준",
+          "publisher": "서삼독",
+          "publication_year": "2026",
+          "isbn13": "9791193904671",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "박곰희 연금 부자 수업 :4개의 통장으로 월 300만원 만들기 ",
+          "authors": "박곰희 지음",
+          "publisher": "인플루엔셜",
+          "publication_year": "2025",
+          "isbn13": "9791168342941",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "authors": "벤저민 하디 지음 ;최은아 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "렛뎀 이론 :인생이 '나'로 충만해지는 내버려두기의 기술 ",
+          "authors": "멜 로빈스,윤효원 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2025",
+          "isbn13": "9791162544327",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

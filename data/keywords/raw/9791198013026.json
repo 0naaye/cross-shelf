@@ -1,0 +1,717 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791198013026",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업",
+      "authors": "김미경 지음",
+      "publisher": "엠케이유니버스",
+      "publication_year": "2023",
+      "isbn13": "9791198013026",
+      "addition_symbol": "03320",
+      "vol": "",
+      "class_no": "325.211",
+      "class_nm": "사회과학 > 경제학 > 경영관리",
+      "description": "대한민국 자기계발 멘토이자 160만 구독자를 보유한 MKTV 크리에이터이며, 온라인 지식 커뮤니티 MKYU 대표인 김미경이 ≪김미경의 리부트≫ 이후 3년 만에 출간하는 단독 저서다. 30대 여성들에게 독한 코칭과 인생 솔루션을 제안하며 김미경에게 국민 멘토, 국민 강사, 국민 언니라는 타이틀을 안겨주었던 ≪언니의 독설≫을 펴낸 지 12년 만이다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/30995/11/cover/k672831500_1.jpg",
+      "loanCnt": 41221
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 504,
+          "ranking": 2639
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 575,
+          "ranking": 2325
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 505,
+          "ranking": 2242
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 420,
+          "ranking": 2424
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 370,
+          "ranking": 3298
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 412,
+          "ranking": 2870
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 450,
+          "ranking": 3199
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 290,
+          "ranking": 4371
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 320,
+          "ranking": 4162
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 275,
+          "ranking": 5068
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 253,
+          "ranking": 5286
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 261,
+          "ranking": 4863
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "인생",
+          "weight": "22"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김미경",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불안",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "40대",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세대",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "퇴사",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이룬",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국민",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성장",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오늘",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "누구",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시절",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나이",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최고",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "것들",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "도전",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안정",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가지",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "열풍",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단단",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이유",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원씽",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "열심",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기대",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자기",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "당연",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "올해",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "언니",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "갓생",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강사",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "10년",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불황",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "근육",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우울",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1세대",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시대",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "멘토",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연결",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "남자",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이들",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연습",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "MKTV",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생각",
+          "weight": "3"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "authors": "김혜남 지음",
+          "publisher": "메이븐",
+          "publication_year": "2022",
+          "isbn13": "9791190538510",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "authors": "게리 켈러,구세희 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2013",
+          "isbn13": "9788997575169",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "김미경의 리부트 :코로나로 멈춘 나를 다시 일으켜 세우는 법 ",
+          "authors": "김미경 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2020",
+          "isbn13": "9788901243665",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "오늘부터 다시 스무 살입니다 - 공부하고 도전하고 꿈꾸는 나를 만나는 시간",
+          "authors": "김미경, 김미숙, 김민정, 김빛난, 김정민, 김정옥, 김현정, 도현주, 리키마루 사치코, 박경민, 박설희, 박재호, 서지은, 손서윤, 신민경, 안송이, 안영진, 엄선영, 엄수진, 이상주, 이선영, 이성희, 이은미, 이은선, 이현수, 임이랑, 정미선, 정숙영, 정애라, 조미정, 한정훈 (지은이)",
+          "publisher": "블루웨일",
+          "publication_year": "2022",
+          "isbn13": "9791197509605",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이 한마디가 나를 살렸다 :100번 넘어져도 101번 일으켜 세워준 김미경의 말 ",
+          "authors": "김미경 지음",
+          "publisher": "21세기북스",
+          "publication_year": "2020",
+          "isbn13": "9788950986919",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(열심히 살아봤지만 허무함에 지친 당신을 위한) 김미경의 딥마인드 ",
+          "authors": "김미경 지음",
+          "publisher": "엠케이유니버스",
+          "publication_year": "2024",
+          "isbn13": "9791198013088",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "김미경의 인생미답 :살다 보면 누구나 마주하는 작고 소소한 질문들 ",
+          "authors": "김미경 지음",
+          "publisher": "한경BP",
+          "publication_year": "2016",
+          "isbn13": "9788947540926",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "엄마의 자존감 공부 :천 번을 미안해도 나는 엄마다 ",
+          "authors": "김미경 지음",
+          "publisher": "북이십일",
+          "publication_year": "2017",
+          "isbn13": "9788950972226",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "웹 3.0 넥스트 이코노미 :불황 속 당신의 돈과 삶을 완전히 바꿀 생존경제 ",
+          "authors": "김미경,권헌영 지음",
+          "publisher": "Awakebooks(어웨이크북스)",
+          "publication_year": "2022",
+          "isbn13": "9791198013002",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세븐 테크 =3년 후 당신의 미래를 바꿀 7가지 기술 /Seven tech ",
+          "authors": "김미경,한재권 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901255712",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "지금까지 산 것처럼 앞으로도 살 건가요? :내 인생의 판을 바꿀 질문 ",
+          "authors": "김창옥 지음",
+          "publisher": "수오서재",
+          "publication_year": "2019",
+          "isbn13": "9791196588502",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "authors": "김혜남 지음",
+          "publisher": "메이븐",
+          "publication_year": "2022",
+          "isbn13": "9791190538510",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "만일 내가 인생을 다시 산다면 :벌써 마흔이 된 당신에게 해 주고 싶은 말들 42 ",
+          "authors": "김혜남 지음",
+          "publisher": "메이븐",
+          "publication_year": "2022",
+          "isbn13": "9791190538510",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "authors": "게리 켈러,구세희 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2013",
+          "isbn13": "9788997575169",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

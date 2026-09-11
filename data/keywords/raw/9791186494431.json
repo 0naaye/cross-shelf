@@ -1,0 +1,734 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791186494431",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "세상에서 제일 재밌는 종이접기 :색종이 한 장이면 장난감 뚝딱!",
+      "authors": "이원표 지음",
+      "publisher": "슬로래빗",
+      "publication_year": "2018",
+      "isbn13": "9791186494431",
+      "addition_symbol": "13630",
+      "vol": "",
+      "class_no": "634",
+      "class_nm": "예술 > 공예, 장식미술 > 목, 죽, 왕골공예",
+      "description": "세상에서 제일 쉬운 시리즈 6권. 종이접기를 처음 시작하는 유아부터 수준 높은 작품을 원하는 성인까지 온 가족이 함께 볼 수 있는 175개 작품을 수록한 종이접기 대백과이다. 도안이 어려운 과정은 생생한 사진과 동영상을 함께 수록하여 쉽게 따라 할 수 있고, 작품별 접는 방법과 횟수에 따라 등급을 구분하여 작품을 고르기도 편하다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/16236/65/cover/k972533242_1.jpg",
+      "loanCnt": 40039
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 536,
+          "ranking": 2373
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 559,
+          "ranking": 2436
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 400,
+          "ranking": 3220
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 332,
+          "ranking": 3447
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 399,
+          "ranking": 2976
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 425,
+          "ranking": 2726
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 492,
+          "ranking": 2835
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 377,
+          "ranking": 3066
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 372,
+          "ranking": 3401
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 369,
+          "ranking": 3436
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 361,
+          "ranking": 3293
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 340,
+          "ranking": 3440
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 22,
+          "ranking": 898
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "영유아",
+          "gender": "남성",
+          "loanCnt": 12,
+          "ranking": 813
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "종이접기",
+          "weight": "16"
+        }
+      },
+      {
+        "keyword": {
+          "word": "얼굴",
+          "weight": "16"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비행기",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "입체",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "네모아저씨",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다리",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "거북",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수록",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고양이",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "도안",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여우",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발달",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "색종이",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방법과",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상자",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "산타",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "토끼",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강아지",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "페이퍼",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제일",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "매미",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "처음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "몸통",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "175개",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가오리",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2차원",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "능력",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "메뚜기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3차원",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "두뇌",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "드래곤",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "날개",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뚜껑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "물가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개복치",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가족",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "돼지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공간지각력",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공룡",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공작",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무당벌레",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구분",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국내",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "금붕어",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기본",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "머리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개구리",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :색종이 3장이면 멋진 팽이가 내 것! ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2018",
+          "isbn13": "9791186494479",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 윙즈 =색종이 1장으로 접는 종이비행기의 완결판! /Paper wings ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2019",
+          "isbn13": "9791186494530",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 애니멀 :한 장으로 접는 입체 동물 40점 ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2020",
+          "isbn13": "9791186494592",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2019",
+          "isbn13": "9791186494561",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2020",
+          "isbn13": "9791186494615",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2021",
+          "isbn13": "9791186494714",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164135592",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :유닛의 경계를 넘어! 종이접기의 한계를 넘어!",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2022",
+          "isbn13": "9791186494837",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164134267",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164131686",
+          "vol": "1"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "더 커진 간단 종이접기 대백과 270 - 하루에 30분씩! 두뇌 트레이닝",
+          "authors": "주부의벗사 편집부",
+          "publisher": "봄봄스쿨",
+          "publication_year": "2018",
+          "isbn13": "9791158951214",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(남자들이 좋아하는) 종이접기 150 ",
+          "authors": "新宮文明 지음",
+          "publisher": "종이나라",
+          "publication_year": "2015",
+          "isbn13": "9788976227638",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(한 권으로 끝내는) 종이접기 ",
+          "authors": "주부의벗사 편집 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2016",
+          "isbn13": "9788962228960",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(한 권으로 끝내는) 종이접기 ",
+          "authors": "주부의벗사 편집 ;김정화 옮김",
+          "publisher": "길벗스쿨",
+          "publication_year": "2019",
+          "isbn13": "9791164061471",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "하루 한 장 오늘의 종이접기 ",
+          "authors": "이지은 지음",
+          "publisher": "Netmaru(넷마루)",
+          "publication_year": "2022",
+          "isbn13": "9791197209963",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(아이가 좋아하는) 종이접기 :아이큐 쑥쑥 재미 팡팡 ",
+          "authors": "이명희 지음",
+          "publisher": "작은우주",
+          "publication_year": "2018",
+          "isbn13": "9791187310112",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(조이!365+) 대한민국대표 종이접기 ",
+          "authors": "정규일 지음",
+          "publisher": "종이나라",
+          "publication_year": "2019",
+          "isbn13": "9788976227973",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(스피드스피릿!) 미니카 종이접기 :아빠와 함께 접는 우주 자동차 ",
+          "authors": "최광진 지음",
+          "publisher": "혜지원",
+          "publication_year": "2011",
+          "isbn13": "9788983797063",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 윙즈 =색종이 1장으로 접는 종이비행기의 완결판! /Paper wings ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2019",
+          "isbn13": "9791186494530",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 애니멀 :한 장으로 접는 입체 동물 40점 ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2020",
+          "isbn13": "9791186494592",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :유닛의 경계를 넘어! 종이접기의 한계를 넘어!",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2022",
+          "isbn13": "9791186494837",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418011",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168416369",
+          "vol": "14"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418844",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168415232",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168417199",
+          "vol": "15"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791173473968",
+          "vol": "19"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(네모아저씨의) 페이퍼 블레이드 :절제된 외형, 나아진 성능! 팽이의 본질을 되묻다! ",
+          "authors": "이원표 지음",
+          "publisher": "슬로래빗",
+          "publication_year": "2024",
+          "isbn13": "9791186494967",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168414471",
+          "vol": "12"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791173114038",
+          "vol": "18"
+        }
+      }
+    ]
+  }
+}

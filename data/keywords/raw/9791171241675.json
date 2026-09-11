@@ -1,0 +1,790 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791171241675",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+      "authors": "원작: 캐릭온TV ;그림: 조수현",
+      "publisher": "대원씨아이",
+      "publication_year": "2023",
+      "isbn13": "9791171241675",
+      "addition_symbol": "77810",
+      "vol": "1",
+      "class_no": "031",
+      "class_nm": "총류 > 백과사전 > 한국어",
+      "description": "상식 제로 포오의 우당탕탕 학교 적응기!타키 포오와 함께 초등 상식 완벽 마스터!허세 곰돌이 포오, 실상은 상식 제로?!타키와 함께 초등 상식 업그레이드 대작전!!뜨거운 불가마 사우나에서 화상을 입지 않는 이유는? 얼룩말은 흰 피부에 검은 줄무늬일까, 검은 피부에 흰 줄무늬일까? 공기가 없는 우주 공간에서도 살아남는 동물이 있다고?! 궁금한 것 투성이인 포오와 함께 상식스쿨로 GO GO!",
+      "bookImageURL": "https://image.aladin.co.kr/product/32444/24/cover/k332935299_2.jpg",
+      "loanCnt": 17930
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 991,
+          "ranking": 667
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1046,
+          "ranking": 651
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 907,
+          "ranking": 642
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 851,
+          "ranking": 559
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 932,
+          "ranking": 552
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 869,
+          "ranking": 654
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1049,
+          "ranking": 609
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 900,
+          "ranking": 534
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 880,
+          "ranking": 623
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 853,
+          "ranking": 672
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 852,
+          "ranking": 591
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 859,
+          "ranking": 497
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 195,
+          "ranking": 807
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 147,
+          "ranking": 200
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 122,
+          "ranking": 334
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 93,
+          "ranking": 773
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 71,
+          "ranking": 168
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 60,
+          "ranking": 261
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 37,
+          "ranking": 790
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 33,
+          "ranking": 391
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 26,
+          "ranking": 493
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "상식",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "포오",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "초등",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "타키",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "캐릭온  TV",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "학교",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생활",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "본문 학습 콘텐츠 소개",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리북",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "크리에이터",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "학습",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최고",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구독자",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제로",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "엉뚱",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정효해  감수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유튜브",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "캐릭온TV",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "콘텐츠",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "조수현",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대원키즈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "허세",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교과",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김언정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "캐릭온",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "곰돌이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발랄",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "TV",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상식 교양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국어",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "재치",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "진한",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이해심",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유쾌",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전학생",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생물",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사자성어",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "속담",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모험",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리텔러",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "업그레이드",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소풍",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마인크래프트",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마스터",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "레벨업하러",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대한민국",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대작전",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791171722747",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791172036669",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791172882167",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791142303814",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키 포오의 코믹 어드벤처 2 - 캐릭온TV 오리지널 코믹스",
+          "authors": "캐릭온TV (원작), 안도감 (글), 김규태 (그림)",
+          "publisher": "대원키즈",
+          "publication_year": "2023",
+          "isbn13": "9791169794886",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 코믹 어드벤처",
+          "authors": "원작: 캐릭온TV ;그림: 김규태",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791169794893",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(타키·포오의) 이세계 여행사",
+          "authors": "원작: 캐릭온TV ;그림: 이지운",
+          "publisher": "대원키즈",
+          "publication_year": "2023",
+          "isbn13": "9791170626633",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 코믹 어드벤처",
+          "authors": "원작: 캐릭온TV ;그림: 김규태",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791169794879",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(타키·포오의) 이세계 여행사",
+          "authors": "원작: 캐릭온TV ;그림: 이지운",
+          "publisher": "대원키즈",
+          "publication_year": "2023",
+          "isbn13": "9791170621270",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(타키·포오의) 이세계 여행사",
+          "authors": "원작: 캐릭온TV ;그림: 이지운",
+          "publisher": "대원키즈",
+          "publication_year": "2023",
+          "isbn13": "9791169794183",
+          "vol": "1"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791171722747",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791172036669",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791172882167",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791142303814",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791142316661",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791142324437",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791142339653",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키 포오의 코믹 어드벤처 6 - 캐릭온TV 오리지널 코믹스",
+          "authors": "캐릭온TV (원작), 안도감 (글), 김규태 (그림)",
+          "publisher": "대원키즈",
+          "publication_year": "2024",
+          "isbn13": "9791171249480",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키·포오 탐정사무소",
+          "authors": "원작: 캐릭온TV ;그림: 김규태",
+          "publisher": "대원씨아이",
+          "publication_year": "2024",
+          "isbn13": "9791172456597",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(허징의 수상한) 만물상점",
+          "authors": "원작: 캐릭온TV ;그림: 김기수",
+          "publisher": "대원씨아이",
+          "publication_year": "2024",
+          "isbn13": "9791172458577",
+          "vol": "3"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791171722747",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791172036669",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791172882167",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791142303814",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791142316661",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 얼렁뚱땅 상식스쿨",
+          "authors": "원작: 캐릭온TV ;그림: 조수현",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791142324437",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키·포오 탐정사무소",
+          "authors": "원작: 캐릭온TV ;그림: 김규태",
+          "publisher": "대원씨아이",
+          "publication_year": "2024",
+          "isbn13": "9791172456597",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 코믹 어드벤처",
+          "authors": "원작: 캐릭온TV ;그림: 김규태",
+          "publisher": "대원씨아이",
+          "publication_year": "2023",
+          "isbn13": "9791169794893",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키포오 코믹 어드벤처",
+          "authors": "원작: 캐릭온TV ;그림: 김규태",
+          "publisher": "대원씨아이",
+          "publication_year": "2024",
+          "isbn13": "9791171249466",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "타키 포오의 코믹 어드벤처 2 - 캐릭온TV 오리지널 코믹스",
+          "authors": "캐릭온TV (원작), 안도감 (글), 김규태 (그림)",
+          "publisher": "대원키즈",
+          "publication_year": "2023",
+          "isbn13": "9791169794886",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

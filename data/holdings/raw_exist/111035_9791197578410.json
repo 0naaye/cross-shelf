@@ -1,0 +1,13 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791197578410",
+      "libCode": "111035",
+      "format": "json"
+    },
+    "result": {
+      "hasBook": "Y",
+      "loanAvailable": "N"
+    }
+  }
+}

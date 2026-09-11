@@ -1,0 +1,717 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788959897179",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "트렌드 코리아 2024 :청룡을 타고 비상하는 2024를 기원하며!",
+      "authors": "지은이: 김난도,전다현",
+      "publisher": "미래의창",
+      "publication_year": "2023",
+      "isbn13": "9788959897179",
+      "addition_symbol": "13320",
+      "vol": "",
+      "class_no": "320.911",
+      "class_nm": "사회과학 > 경제학 > 경제학",
+      "description": "",
+      "bookImageURL": "https://image.aladin.co.kr/product/32443/92/cover/8959897175_1.jpg",
+      "loanCnt": 21884
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 141,
+          "ranking": 14860
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 112,
+          "ranking": 20580
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 102,
+          "ranking": 19523
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 111,
+          "ranking": 14778
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 89,
+          "ranking": 20960
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 69,
+          "ranking": 27525
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 50,
+          "ranking": 44479
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 25,
+          "ranking": 67171
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 30,
+          "ranking": 61204
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 32,
+          "ranking": 56813
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 32,
+          "ranking": 54005
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 18,
+          "ranking": 81052
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "트렌드",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김난도",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김난도의 트렌드 플러스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "트렌드 코리아",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "더현대 서울 인사이트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "럭셔리 코리아",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마켓컬리 인사이트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "명견만리",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래의창",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소비자와 시장",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "트렌드 차이나",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "디자인의 시대 트렌드의 시대",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소비자",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최지혜",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "KBS",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대한민국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소개",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한다혜",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "로드",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "트렌드 미래전망 일반",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "청룡",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이수진",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "출판사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이혜원",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "추예린",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공저",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이향은",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전다현",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이준영",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "권정윤",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전미영",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "FM",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "현명",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선택",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소비지도",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2008년",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소비자학과",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강좌",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "논문",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다수",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "도전",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "디자인",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뉴욕",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공개강좌",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고물가",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경쟁",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "격변",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "트렌드 코리아 2025 :2025 대한민국 소비트렌드 전망 ",
+          "authors": "지은이: 김난도,전다현",
+          "publisher": "미래의창",
+          "publication_year": "2024",
+          "isbn13": "9788959897223",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "트렌드 코리아 2023 :더 높은 도약을 준비하는 검은 토끼의 해 ",
+          "authors": "지은이: 김난도,추예린",
+          "publisher": "미래의창",
+          "publication_year": "2022",
+          "isbn13": "9788959897094",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "authors": "벤저민 하디 지음 ;최은아 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "머니 트렌드 2024 =57가지 키워드로 전망하는 대한민국 돈의 흐름 /Money trend ",
+          "authors": "지은이: 김도윤,홍춘욱",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891416",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "2024 비즈니스 트렌드 코리아 :월스트리트 출신 경제전문가의 매크로웨이브 산업 전망 ",
+          "authors": "권기대 지음",
+          "publisher": "베가북스",
+          "publication_year": "2023",
+          "isbn13": "9791192488431",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "트렌드 코리아 2025 :2025 대한민국 소비트렌드 전망 ",
+          "authors": "지은이: 김난도,전다현",
+          "publisher": "미래의창",
+          "publication_year": "2024",
+          "isbn13": "9788959897223",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "트렌드 코리아 2023 :더 높은 도약을 준비하는 검은 토끼의 해 ",
+          "authors": "지은이: 김난도,추예린",
+          "publisher": "미래의창",
+          "publication_year": "2022",
+          "isbn13": "9788959897094",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "머니 트렌드 2024 =57가지 키워드로 전망하는 대한민국 돈의 흐름 /Money trend ",
+          "authors": "지은이: 김도윤,홍춘욱",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891416",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "라이프 트렌드 2024 =당신이 미처 몰랐던 일상 속의 진짜 트렌드! /Life trend ",
+          "authors": "김용섭 지음",
+          "publisher": "부키",
+          "publication_year": "2023",
+          "isbn13": "9788960511330",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "트렌드 코리아 2022 =서울대 소비트렌드분석센터의 2022 전망 /Trend Korea ",
+          "authors": "지은이: 김난도,이혜원",
+          "publisher": "미래의창",
+          "publication_year": "2021",
+          "isbn13": "9788959897001",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "스태그플레이션 2024년 경제전망 :2024년을 결정지을 20대 경제트렌드 ",
+          "authors": "김광석 지음",
+          "publisher": "Eden House(이든하우스출판)",
+          "publication_year": "2023",
+          "isbn13": "9791197603662",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "2024 한국이 열광할 세계 트렌드 :KOTRA가 엄선한 비즈니스 게임 체인저 ",
+          "authors": "KOTRA 지음",
+          "publisher": "시공사",
+          "publication_year": "2023",
+          "isbn13": "9791171251902",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이코노미스트 2024 세계대전망 =The world ahead 2024 ",
+          "authors": "이코노미스트 지음 ;황성연 번역",
+          "publisher": "한경BP",
+          "publication_year": "2023",
+          "isbn13": "9788947549295",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "트렌드 코리아 2026 :2026 대한민국 소비트렌드 전망 ",
+          "authors": "지은이: 김난도,김나은",
+          "publisher": "미래의창",
+          "publication_year": "2025",
+          "isbn13": "9791193638859",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "트렌드 코리아 2025 :2025 대한민국 소비트렌드 전망 ",
+          "authors": "지은이: 김난도,전다현",
+          "publisher": "미래의창",
+          "publication_year": "2024",
+          "isbn13": "9788959897223",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "트렌드 코리아 2026 :2026 대한민국 소비트렌드 전망 ",
+          "authors": "지은이: 김난도,김나은",
+          "publisher": "미래의창",
+          "publication_year": "2025",
+          "isbn13": "9791193638859",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "트렌드 코리아 2023 :더 높은 도약을 준비하는 검은 토끼의 해 ",
+          "authors": "지은이: 김난도,추예린",
+          "publisher": "미래의창",
+          "publication_year": "2022",
+          "isbn13": "9788959897094",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "authors": "벤저민 하디 지음 ;최은아 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "머니 트렌드 2024 =57가지 키워드로 전망하는 대한민국 돈의 흐름 /Money trend ",
+          "authors": "지은이: 김도윤,홍춘욱",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891416",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

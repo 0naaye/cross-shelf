@@ -1,0 +1,717 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788927808121",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "행운에 속지 마라 :불확실한 시대에 살아남는 투자 생존법",
+      "authors": "지은이: 나심 니콜라스 탈렙 ;옮긴이: 이건",
+      "publisher": "중앙일보플러스",
+      "publication_year": "2016",
+      "isbn13": "9788927808121",
+      "addition_symbol": "03320",
+      "vol": "",
+      "class_no": "327.04",
+      "class_nm": "사회과학 > 경제학 > 금융",
+      "description": "탈렙은 월가의 괴짜 혹은 현자라고 불린다. ‘문제적’이라는 말만큼 그를 대변하는 말은 없다. 그는 전혀 예상치 못한 사건이 일어나는 현상을 말하는 ‘검은 백조’ 이론으로 세계적 스타가 됐다. 이후 이 이론을 탄생하게 만든 밑거름인 그의 초기작, '행운에 속지 마라'가 더욱더 집중적으로 주목을 받고 있다.",
+      "bookImageURL": "http://image.aladin.co.kr/product/9779/96/cover/8927808126_1.jpg",
+      "loanCnt": 13006
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 97,
+          "ranking": 22664
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 110,
+          "ranking": 20983
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 70,
+          "ranking": 29632
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 90,
+          "ranking": 18868
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 111,
+          "ranking": 16260
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 88,
+          "ranking": 21129
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 108,
+          "ranking": 20246
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 92,
+          "ranking": 19132
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 101,
+          "ranking": 18728
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 114,
+          "ranking": 16016
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 109,
+          "ranking": 15680
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 130,
+          "ranking": 12226
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "행운에 속지 마라",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "트레이더",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문제",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사회",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "월가",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이론",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "탈렙",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "확률",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시대",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "몬테카를로",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불확실성",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "행운",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "현자",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비대칭",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "귀납법",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부자",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인세르토",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정도",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주목",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "예상치",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불확실",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "필로스트라투스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "습격",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "현상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "백조",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사건",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마찬가지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "의미",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Swan",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "블랙 스완",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안티프래질",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불운",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Black",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "블랙 스완과 함께 가라",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생각",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불균형",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "관점",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "괴짜",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2016년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "희귀사건",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "거의",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베이컨",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문제적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부적자생존",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개인",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "브렉시트",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "검토",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "투자에 대한 생각 :월스트리트의 거인들이 가장 신뢰한 하워드 막스의 20가지 투자 철학 ",
+          "authors": "하워드 막스 지음 ;김경미 옮김",
+          "publisher": "한국물가정보",
+          "publication_year": "2012",
+          "isbn13": "9788962604658",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경",
+          "publisher": "서삼독",
+          "publication_year": "2024",
+          "isbn13": "9791198517425",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "하워드 막스 투자와 마켓 사이클의 법칙 :주식시장의 흐름을 꿰뚫어보는 단하나의 투자 바이블 ",
+          "authors": "하워드 막스 지음 ;이주영 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2018",
+          "isbn13": "9791162540466",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "거인의 어깨 =홍진채 해설로 통찰하는 주식 대가들의 투자법.Shoulders of giants ",
+          "authors": "홍진채 지음",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2022",
+          "isbn13": "9791192625133",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "현명한 투자자",
+          "authors": "벤저민 그레이엄,이건 옮김",
+          "publisher": "국일미디어",
+          "publication_year": "2020",
+          "isbn13": "9788957821305",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "찰리 멍거 바이블 :현인들의 현자 멍거가 알려주는 투자와 삶의 지혜 ",
+          "authors": "김재현,이건 엮고지음",
+          "publisher": "에프엔미디어",
+          "publication_year": "2022",
+          "isbn13": "9791188754748",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(나심 탈레브) 스킨 인 더 게임 :선택과 책임의 불균형이 가져올 위험한 미래에 대한 경고 ",
+          "authors": "나심 니콜라스 탈레브 지음 ;김원호 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2019",
+          "isbn13": "9791162540800",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "브라질에 비가 내리면 스타벅스 주식을 사라 :경제의 큰 흐름에서 기회를 잡는 매크로 투자 가이드 ",
+          "authors": "피터 나바로 지음 ;이창식 옮김",
+          "publisher": "에프엔미디어",
+          "publication_year": "2022",
+          "isbn13": "9791188754588",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "블랙 스완에 대비하라 :최악의 상황에서도 살아 남기 위한 10가지 원칙 ",
+          "authors": "나심 니콜라스 탈레브 지음 ;김현구 옮김",
+          "publisher": "동녘사이언스",
+          "publication_year": "2011",
+          "isbn13": "9788990247513",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(나심 탈레브) 스킨 인 더 게임 :선택과 책임의 불균형이 가져올 위험한 미래에 대한 경고 ",
+          "authors": "나심 니콜라스 탈레브 지음 ;김원호 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2019",
+          "isbn13": "9791162540800",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "블랙스완 :위험 가득한 세상에서 안전하게 살아남기 ",
+          "authors": "나심 니콜라스 탈레브 지음 ;김현구 옮김",
+          "publisher": "동녘사이언스",
+          "publication_year": "2018",
+          "isbn13": "9788990247674",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고객의 요트는 어디에 있는가 ",
+          "authors": "프레드 쉐드 지음 ;김상우 옮김",
+          "publisher": "한국투자교육연구소 부크온",
+          "publication_year": "2012",
+          "isbn13": "9788994491134",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "블랙 스완 :0.1%의 가능성이 모든 것을 바꾼다 ",
+          "authors": "나심 니콜라스 탈레브 지음 ;차익종 옮김",
+          "publisher": "동녘사이언스",
+          "publication_year": "2008",
+          "isbn13": "9788990247414",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "패자의 게임에서 승자가 되는 법 :내 돈을 지키는 성공 투자 전략 ",
+          "authors": "찰스 엘리스 지음;이혜경 옮김",
+          "publisher": "중앙일보플러스",
+          "publication_year": "2020",
+          "isbn13": "9788927811497",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소음과 투자 :소음의 바다 주식시장에서 알짜 정보만 걸러내는 법 ",
+          "authors": "리처드 번스타인 지음 ;이상민 옮김",
+          "publisher": "북돋음",
+          "publication_year": "2016",
+          "isbn13": "9791187691020",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "통섭과 투자 :찰리 멍거처럼 사고하고 투자하라 ",
+          "authors": "마이클 모부신 지음 ;오인석 옮김",
+          "publisher": "에프엔미디어",
+          "publication_year": "2018",
+          "isbn13": "9791188754069",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "투자의 네 기둥 ",
+          "authors": "윌리엄 번스타인 지음 ;박정태 옮김",
+          "publisher": "굿모닝북스",
+          "publication_year": "2009",
+          "isbn13": "9788991378193",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "투자에 대한 생각 :월스트리트의 거인들이 가장 신뢰한 하워드 막스의 20가지 투자 철학 ",
+          "authors": "하워드 막스 지음 ;김경미 옮김",
+          "publisher": "한국물가정보",
+          "publication_year": "2012",
+          "isbn13": "9788962604658",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경",
+          "publisher": "서삼독",
+          "publication_year": "2024",
+          "isbn13": "9791198517425",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 방정식 :돈을 지위와 성공의 기준, 그 이상으로 다루기 위한 21가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 박영준",
+          "publisher": "서삼독",
+          "publication_year": "2026",
+          "isbn13": "9791193904671",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "가난한 찰리의 연감 :버크셔 해서웨이의 전설, 찰리 멍거의 모든 것 ",
+          "authors": "찰리 멍거 지음 ;김태훈 옮김",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934911388",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "거인의 어깨 =홍진채 해설로 통찰하는 주식 대가들의 투자법.Shoulders of giants ",
+          "authors": "홍진채 지음",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2022",
+          "isbn13": "9791192625133",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "1%를 읽는 힘 :세상의 정보를 연결해서 기회를 포작하는 생각 혁신 ",
+          "authors": "메르 지음",
+          "publisher": "토네이도미디어그룹",
+          "publication_year": "2023",
+          "isbn13": "9791158512767",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왜 그들만 부자가 되는가 :부의 격차를 좁히는 진짜 돈의 모습 ",
+          "authors": "필립 바구스,배진아 옮김",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2025",
+          "isbn13": "9791193937396",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "주식 투자의 기쁨 :89세 현역 트레이더 시게루 할아버지의 흔들리지 않는 투자 철학 ",
+          "authors": "지은이: 후지모토 시게루 ;옮긴이: 오정화",
+          "publisher": "다산북스",
+          "publication_year": "2025",
+          "isbn13": "9791130668895",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "찰리 멍거 바이블 :현인들의 현자 멍거가 알려주는 투자와 삶의 지혜 ",
+          "authors": "김재현,이건 엮고지음",
+          "publisher": "에프엔미디어",
+          "publication_year": "2022",
+          "isbn13": "9791188754748",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "규칙파괴자 :20년간 45배 수익, 모틀리풀의 시장을 이기는 주식투자 ",
+          "authors": "데이비드 가드너 지음 ;김태훈 옮김",
+          "publisher": "국일증권경제연구소",
+          "publication_year": "2026",
+          "isbn13": "9788957822555",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

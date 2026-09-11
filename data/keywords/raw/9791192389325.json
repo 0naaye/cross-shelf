@@ -1,0 +1,798 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791192389325",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명",
+      "authors": "벤저민 하디 지음 ;최은아 옮김",
+      "publisher": "상상스퀘어",
+      "publication_year": "2023",
+      "isbn13": "9791192389325",
+      "addition_symbol": "03320",
+      "vol": "",
+      "class_no": "325.211",
+      "class_nm": "사회과학 > 경제학 > 경영관리",
+      "description": "‘미래의 나는 어떤 모습일까?’라는 질문은 우리가 인생에서 쉽게 놓치는 중요한 진실에 이르게 한다. 즉, 미래의 나와 연결될수록 현재 더 나은 삶을 살게 된다는 것이다. 이 책은 미래의 내가 어떤 모습일지 깊이 생각해보고, 지금 그 사람이 되는 방법을 구체적으로 알려주는 인생 지침서이다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/32354/81/cover/k342935366_1.jpg",
+      "loanCnt": 40369
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1573,
+          "ranking": 166
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1366,
+          "ranking": 284
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1238,
+          "ranking": 276
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1062,
+          "ranking": 287
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1040,
+          "ranking": 392
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1109,
+          "ranking": 325
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1075,
+          "ranking": 564
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 798,
+          "ranking": 771
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 749,
+          "ranking": 960
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 645,
+          "ranking": 1275
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 639,
+          "ranking": 1205
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 643,
+          "ranking": 1096
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 91,
+          "ranking": 203
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 48,
+          "ranking": 177
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 35,
+          "ranking": 650
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 26,
+          "ranking": 603
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 23,
+          "ranking": 695
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 23,
+          "ranking": 712
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 20,
+          "ranking": 175
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 14,
+          "ranking": 747
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 6,
+          "ranking": 693
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 4,
+          "ranking": 468
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "미래",
+          "weight": "50"
+        }
+      },
+      {
+        "keyword": {
+          "word": "진실",
+          "weight": "20"
+        }
+      },
+      {
+        "keyword": {
+          "word": "위협",
+          "weight": "20"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모습",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생각",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "목표",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성공",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "point",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "key",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "실패",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "분야",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "7가지",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뉴욕타임스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "결정",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전문가",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "포브스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "허핑턴 포스트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "하버드 비즈니스 리뷰",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "옵저버",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "혁명",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소파",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "당장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "당연",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부정적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단절",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사소",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기폭제",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "길이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "근시안적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발목",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "희망",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "7단계",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성공학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Part2",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "벤저민 하디",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사고",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가게",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "간편",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시급",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "건강",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "견해",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "결제",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경기장",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "authors": "게리 켈러,구세희 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2013",
+          "isbn13": "9788997575169",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경",
+          "publisher": "서삼독",
+          "publication_year": "2024",
+          "isbn13": "9791198517425",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "authors": "팀 페리스 지음 ;정지현 옮김",
+          "publisher": "Tornado(토네이도)",
+          "publication_year": "2017",
+          "isbn13": "9791158510619",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 작은 습관의 힘 :최고의 변화는 어떻게 만들어지는가 ",
+          "authors": "제임스 클리어 지음 ;이한이 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2019",
+          "isbn13": "9791162540640",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "놀라움의 힘 :내 삶을 바꾸는 놀라움의 비밀 ",
+          "authors": "마이클 루셀 지음 ;김지연 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2024",
+          "isbn13": "9791192389516",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "의학의 대가들 :심장병부터 출산까지 인류의 가장 위험한 적과 싸운 의사들의 이야기 ",
+          "authors": "앤드루 램 지음 ;서종민 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389400",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "강인함의 힘 :회복탄력성을 능가하는 강인함의 비밀 ",
+          "authors": "스티브 매그니스 지음 ;이주만 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2024",
+          "isbn13": "9791192389776",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "미래의 나를 만난 후 오늘이 달라졌다 :5년 뒤 나를 바꾸는 퓨처 셀프의 비밀 ",
+          "authors": "할 허시필드 지음 ;정윤미 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2024",
+          "isbn13": "9791162543726",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "10배 마인드셋 :10배가 2배보다 쉽다 ",
+          "authors": "벤저민 하디,심채원 옮김",
+          "publisher": "글의온도",
+          "publication_year": "2024",
+          "isbn13": "9791192005447",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "최고의 변화는 어떻게 만들어지는가 :쉽고 단순하게 나를 바꾸는 사람들의 비밀 ",
+          "authors": "벤저민 하디 지음 ;김미정 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2021",
+          "isbn13": "9791162542200",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "유연함의 힘 :유연함으로 쓰는 새로운 성장 공식 ",
+          "authors": "수잔 애쉬포드 지음 ;김정혜 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389073",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "최고의 변화는 어디서 시작되는가 :노력만 하는 독종은 모르는 성공의 법칙 ",
+          "authors": "벤저민 하디 지음 ;김미정 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2018",
+          "isbn13": "9791162540237",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "더 마인드 =무의식이 이끄는 부의 해답 /The mind ",
+          "authors": "하와이 대저택 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276571",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "일류의 조건 ",
+          "authors": "지은이: 사이토 다카시 ;옮긴이: 정현",
+          "publisher": "필름",
+          "publication_year": "2024",
+          "isbn13": "9791193262122",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경",
+          "publisher": "서삼독",
+          "publication_year": "2024",
+          "isbn13": "9791198517425",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "authors": "게리 켈러,구세희 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2013",
+          "isbn13": "9788997575169",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고전이 답했다 :마땅히 살아야 할 삶에 대하여 ",
+          "authors": "고명환 지음",
+          "publisher": "라곰",
+          "publication_year": "2024",
+          "isbn13": "9791193939130",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "듀얼 브레인 =AI 시대의 실용적 생존 가이드 /Dual brain ",
+          "authors": "이선 몰릭 지음 ;신동숙 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2025",
+          "isbn13": "9791194368175",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

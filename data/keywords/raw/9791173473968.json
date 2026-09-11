@@ -1,0 +1,870 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791173473968",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "흔한남매",
+      "authors": "원작: 흔한남매 ;그림: 유난희",
+      "publisher": "미래엔",
+      "publication_year": "2019",
+      "isbn13": "9791173473968",
+      "addition_symbol": "77810",
+      "vol": "19",
+      "class_no": "810",
+      "class_nm": "문학 > 한국문학 > 한국문학",
+      "description": "박진감 넘치는 웃음으로 흔한남매와 함께 스트레스 격파!태권도를 배우는 으뜸이와 에이미, 흔식이와의 첫 만남, 씁아저씨 집에 놀러 간 흔한남매, 소파에서 오래 버티기 대결, 흔한 일상 속 공감 포인트, 공포의 학교 안내 방송, 엄마와 우리의 흔한 차이점 등 활기찬 흔한남매의 일상을 통해 스트레스를 날려 보아요!유튜브 291만 구독 돌파! 인기 크리에이터 흔한남매‘흔한남매’는 유튜브 구독자 수가 291만 명, 누적 조회 수가 38억 회를 넘어서는 인기 크리에이터로, 흔한컴퍼니에 소속되어 있습니다. 상황극·콩트 등을 통해 어린이들에게 큰 사랑을 받고 있으며, 주로 남매 사이에서 일어날 수 있는 현실적인 에피소드를 코믹하게 그려 내어 웃음과 공감을 이끌어 내고 있습니다.“흔한남매를 읽고 까르르 웃을 때가 제일 행복한 시간이래요.” ‘유쾌한 우애’와 ‘순수한 웃음’, ‘따뜻한 공감’으로 어린이들의 마음을 사로잡은 No.",
+      "bookImageURL": "https://image.aladin.co.kr/product/36208/50/cover200/k712038303_1.jpg",
+      "loanCnt": 6715
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 2084,
+          "ranking": 42
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 2267,
+          "ranking": 37
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 2222,
+          "ranking": 30
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1966,
+          "ranking": 32
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 2278,
+          "ranking": 19
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 2296,
+          "ranking": 13
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 2542,
+          "ranking": 20
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 2186,
+          "ranking": 23
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 2323,
+          "ranking": 9
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 2389,
+          "ranking": 9
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 2355,
+          "ranking": 10
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 2122,
+          "ranking": 14
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 602,
+          "ranking": 12
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 331,
+          "ranking": 2
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 305,
+          "ranking": 2
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 267,
+          "ranking": 9
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 220,
+          "ranking": 68
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 137,
+          "ranking": 15
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 122,
+          "ranking": 13
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 122,
+          "ranking": 10
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 120,
+          "ranking": 20
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 68,
+          "ranking": 42
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 58,
+          "ranking": 46
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 57,
+          "ranking": 64
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 54,
+          "ranking": 28
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 29,
+          "ranking": 550
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 28,
+          "ranking": 454
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 16,
+          "ranking": 413
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 14,
+          "ranking": 229
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 12,
+          "ranking": 44
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 11,
+          "ranking": 467
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "흔한남매",
+          "weight": "24"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흔식",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일상",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공감",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공포",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "씁아저씨",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안내",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "엄마",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방송",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "포인트",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에이미",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만남",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대결",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소파",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "차이점",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "학교",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스트레스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "따뜻한 공감",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유쾌한 우애",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "순수한 웃음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "딸아이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "레시피",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "센터",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화 일반",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래엔아이세움",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유난희",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "알쏭달쏭",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미로",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "백난도",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "배우",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시크릿",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "03화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흔한컴퍼니  감수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "05화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "06화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "07화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "09화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "10화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유튜브",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전쟁",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그림",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "꼬불꼬불",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "으뜸이와",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "너튜브",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "놀러",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "잡기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대소동",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791173114038",
+          "vol": "18"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418844",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418011",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168417199",
+          "vol": "15"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168416369",
+          "vol": "14"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168414471",
+          "vol": "12"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168415232",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168412477",
+          "vol": "11"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168411685",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164139897",
+          "vol": "9"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791173479939",
+          "vol": "20"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791175484290",
+          "vol": "21"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791173114038",
+          "vol": "18"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791175484887",
+          "vol": "14"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418844",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이무기 :이해하면 무서운 이야기",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791173477263",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 흔한 게임 3",
+          "authors": "흔한남매 (원작), 권나혜 (글), 도니패밀리 (그림), 흔한컴퍼니 (감수)",
+          "publisher": "미래엔아이세움",
+          "publication_year": "2025",
+          "isbn13": "9791173479922",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791173471780",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 수수께끼 어드벤처 6",
+          "authors": "흔한남매 (원작), 노지영 (글), 도니패밀리 (그림), 흔한컴퍼니, 정재형 (감수)",
+          "publisher": "미래엔아이세움",
+          "publication_year": "2025",
+          "isbn13": "9791175483156",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 흔한 게임",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2024",
+          "isbn13": "9791173470660",
+          "vol": "2"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791173114038",
+          "vol": "18"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418844",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791173479939",
+          "vol": "20"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418011",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168417199",
+          "vol": "15"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168416369",
+          "vol": "14"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168414471",
+          "vol": "12"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168415232",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168412477",
+          "vol": "11"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168411685",
+          "vol": "10"
+        }
+      }
+    ]
+  }
+}

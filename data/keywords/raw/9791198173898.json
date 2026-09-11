@@ -1,0 +1,790 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791198173898",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "비가 오면 열리는 상점 =유영광 장편소설 /The rainbow goblin store",
+      "authors": "지은이: 유영광",
+      "publisher": "클레이하우스",
+      "publication_year": "2023",
+      "isbn13": "9791198173898",
+      "addition_symbol": "03810",
+      "vol": "",
+      "class_no": "813.7",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "",
+      "bookImageURL": "https://image.aladin.co.kr/product/31867/71/cover/k132833528_1.jpg",
+      "loanCnt": 33367
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 959,
+          "ranking": 733
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 923,
+          "ranking": 946
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 686,
+          "ranking": 1287
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 563,
+          "ranking": 1472
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 555,
+          "ranking": 1760
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 596,
+          "ranking": 1528
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 834,
+          "ranking": 1086
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 599,
+          "ranking": 1443
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 557,
+          "ranking": 1732
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 582,
+          "ranking": 1571
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 629,
+          "ranking": 1249
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 483,
+          "ranking": 1958
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 56,
+          "ranking": 494
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 52,
+          "ranking": 381
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 42,
+          "ranking": 89
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 39,
+          "ranking": 157
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 25,
+          "ranking": 501
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 11,
+          "ranking": 302
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 10,
+          "ranking": 588
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 9,
+          "ranking": 665
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 6,
+          "ranking": 231
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "비가 오면 열리는 상점",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "달러구트 꿈 백화점",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독자",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "해외",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불행",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신인",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감동",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "6개국",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "판권",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수상",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "폴란드",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "출판",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "러시아",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대만",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안내묘",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "포르투갈",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수출",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국내",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "판타지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이탈리아",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일본",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최초",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "괴물",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모금",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모험",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무더위",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미로",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성과",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문지기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마타",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상점",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "금액",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2023년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "4월",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Prologue",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가게",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "살롱",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고물상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공방",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "괴소문",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베스트셀러",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보르도",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "니콜",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대신",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세린",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "데스크",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "도깨비",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바다가 들리는 편의점 ",
+          "authors": "마치다 소노코 지음 ;황국영 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2023",
+          "isbn13": "9791192579504",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "연남동 빙굴빙굴 빨래방 :김지윤 장편소설 ",
+          "authors": "지은이: 김지윤",
+          "publisher": "팩토리나인",
+          "publication_year": "2023",
+          "isbn13": "9791165347734",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세상의 마지막 기차역 ",
+          "authors": "무라세 다케시 지음 ;김지연 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2022",
+          "isbn13": "9791191043754",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 사진관 =윤정은 장편소설 /Marigold mind photo studio ",
+          "authors": "글: 윤정은",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2024",
+          "isbn13": "9791198530325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나의 돈키호테 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2024",
+          "isbn13": "9791161571768",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "소원을 이루어주는 섬 :유영광 장편소설 ",
+          "authors": "지은이: 유영광",
+          "publisher": "클레이하우스",
+          "publication_year": "2025",
+          "isbn13": "9791193235423",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "제인의 마법 살롱 :박승희 장편소설 ",
+          "authors": "지은이: 박승희",
+          "publisher": "허블",
+          "publication_year": "2023",
+          "isbn13": "9791193078150",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마지막 마음이 들리는 공중전화 :이수연 장편소설 ",
+          "authors": "지은이: 이수연",
+          "publisher": "클레이하우스",
+          "publication_year": "2024",
+          "isbn13": "9791193235119",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "띵동! 당신의 눈물이 입금되었습니다 :최소망 장편소설 ",
+          "authors": "지은이: 최소망",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130699769",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "환상서점 :소서림 장편소설 ",
+          "authors": "지은이: 소서림",
+          "publisher": "해피북스투유",
+          "publication_year": "2023",
+          "isbn13": "9791164798926",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메모리얼 향수 가게 :진설라 장편소설 ",
+          "authors": "지은이: 진설라",
+          "publisher": "서랍의 날씨",
+          "publication_year": "2023",
+          "isbn13": "9791161692760",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 사진관 =윤정은 장편소설 /Marigold mind photo studio ",
+          "authors": "글: 윤정은",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2024",
+          "isbn13": "9791198530325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "중고나라 선녀님 :허태연 장편소설 ",
+          "authors": "지은이: 허태연",
+          "publisher": "다산북스",
+          "publication_year": "2024",
+          "isbn13": "9791130648590",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "수상한 한의원 :배명은 장편소설 ",
+          "authors": "지은이: 배명은",
+          "publisher": "투유드림",
+          "publication_year": "2024",
+          "isbn13": "9791193190036",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "퐁 카페의 마음 배달 고양이",
+          "authors": "시메노 나기 (지은이), 박정임 (옮긴이)",
+          "publisher": "놀",
+          "publication_year": "2024",
+          "isbn13": "9791130651682",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바다가 들리는 편의점 ",
+          "authors": "마치다 소노코 지음 ;황국영 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2023",
+          "isbn13": "9791192579504",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "나의 돈키호테 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2024",
+          "isbn13": "9791161571768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 사진관 =윤정은 장편소설 /Marigold mind photo studio ",
+          "authors": "글: 윤정은",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2024",
+          "isbn13": "9791198530325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "연남동 빙굴빙굴 빨래방 :김지윤 장편소설 ",
+          "authors": "지은이: 김지윤",
+          "publisher": "팩토리나인",
+          "publication_year": "2023",
+          "isbn13": "9791165347734",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세상의 마지막 기차역 ",
+          "authors": "무라세 다케시 지음 ;김지연 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2022",
+          "isbn13": "9791191043754",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

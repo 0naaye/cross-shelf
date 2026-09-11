@@ -1,0 +1,717 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788901090184",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "클루지 :생각의 역사를 뒤집는 기막힌 발견",
+      "authors": "지은이: 개리 마커스 ;옮긴이: 최호영",
+      "publisher": "웅진씽크빅",
+      "publication_year": "2008",
+      "isbn13": "9788901090184",
+      "addition_symbol": "03180",
+      "vol": "",
+      "class_no": "181.38",
+      "class_nm": "철학 > 심리학 > 각론",
+      "description": "세계가 주목하는 지성, 뉴욕대학교 심리학과 교수 개리 마커스는 인간의 마음이 '클루지(kluge)', 곧 서툴게 짜 맞춰진 기구라고 주장한다. 생존 때문에 최선의 선택을 방해받는 진화의 법칙, 즉 진화의 관성 때문에 우리들의 마음과 세계는 불완전하다는 것. 기억, 신념, 선택, 결정, 언어, 행복 등 인간의 삶을 구성하는 중요한 정신 영역을 두루 살피며, '클루지'한 우리의 마음을 파헤친다.",
+      "bookImageURL": "http://image.aladin.co.kr/product/285/55/cover/8890109017_1.jpg",
+      "loanCnt": 26129
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 150,
+          "ranking": 13796
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 165,
+          "ranking": 13212
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 144,
+          "ranking": 13028
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 110,
+          "ranking": 14942
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 119,
+          "ranking": 14992
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 113,
+          "ranking": 16004
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 133,
+          "ranking": 16007
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 113,
+          "ranking": 15128
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 113,
+          "ranking": 16545
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 125,
+          "ranking": 14444
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 120,
+          "ranking": 14015
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 123,
+          "ranking": 13042
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생각",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "진화",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개리 마커스",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "웅진씽크빅",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "클루지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방해",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이론 심리학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교양 심리학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최호영",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "함정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선택",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신념",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "언어",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사적",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영역",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "심리학",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "증명",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주장",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주목",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "조망",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제안",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제시",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정신",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정도",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지혜",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일상",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "장대",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생존",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기억",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기구",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "근본적",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구성",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교수",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "관성",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "곳곳",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경험적",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "효과적",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뉴욕대학교",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "살피",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불완전",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "법칙",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방식",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방법",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무기",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마커스",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "당대",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "정리하는 뇌 :디지털 시대, 정보와 선택 과부하로 뒤엉킨 머릿속과 일상을 정리하는 기술 ",
+          "authors": "대니얼 J. 레비틴 지음 ;김성훈 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937837654",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "authors": "팀 페리스 지음 ;정지현 옮김",
+          "publisher": "Tornado(토네이도)",
+          "publication_year": "2017",
+          "isbn13": "9791158510619",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "인스타 브레인 =몰입을 빼앗긴 시대, 똑똑한 뇌 사용법 /Insta brain ",
+          "authors": "안데르스 한센 지음 ;김아영 옮김",
+          "publisher": "동양북스",
+          "publication_year": "2020",
+          "isbn13": "9791157686179",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "뇌, 욕망의 비밀을 풀다 :인간의 소비심리를 지배하는 뇌과학의 비밀 ",
+          "authors": "한스-게오르크 호이젤 지음 ;한윤진 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2019",
+          "isbn13": "9791162541029",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "authors": "게리 켈러,구세희 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2013",
+          "isbn13": "9788997575169",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 4시간만 일한다 :디지털 노마드 시대 완전히 새로운 삶의 방식 ",
+          "authors": "팀 페리스 지음 ;윤동준 옮김",
+          "publisher": "빛과향기",
+          "publication_year": "2017",
+          "isbn13": "9791185584454",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부자의 그릇 :남을 위해 돈 쓰는 능력을 키우는 법 ",
+          "authors": "이즈미 마사토 지음 ;김윤수 옮김",
+          "publisher": "다산북스",
+          "publication_year": "2015",
+          "isbn13": "9791130604787",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "지능의 사생활 ",
+          "authors": "가나자와 사토시 지음 ;김영선 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2012",
+          "isbn13": "9788901150970",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "지능의 역설 :우리가 몰랐던 지능의 사생활 ",
+          "authors": "가나자와 사토시 지음 ;김준 옮김",
+          "publisher": "연필",
+          "publication_year": "2020",
+          "isbn13": "9791162766521",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "러쉬 :우리는 왜 도전과 경쟁을 즐기는가 ",
+          "authors": "토드 부크홀츠 지음 ;장석훈 옮김",
+          "publisher": "청림출판",
+          "publication_year": "2012",
+          "isbn13": "9788935209194",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "뇌, 욕망의 비밀을 풀다 :인간의 소비심리를 지배하는 뇌 속 'big-3'의 비밀 ",
+          "authors": "한스-게오르크 호이젤 지음 ;배진아 옮김",
+          "publisher": "흐름출판",
+          "publication_year": "2008",
+          "isbn13": "9788990872517",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "정리하는 뇌 :디지털 시대, 정보와 선택 과부하로 뒤엉킨 머릿속과 일상을 정리하는 기술 ",
+          "authors": "대니얼 J. 레비틴 지음 ;김성훈 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937837654",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "뇌, 욕망의 비밀을 풀다 :인간의 소비심리를 지배하는 뇌과학의 비밀 ",
+          "authors": "한스-게오르크 호이젤 지음 ;한윤진 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2019",
+          "isbn13": "9791162541029",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "욕망의 진화 :사랑, 연애, 섹스, 결혼 남녀의 엇갈린 욕망에 담긴 진실 ",
+          "authors": "지은이: 데이비드 버스 ;옮긴이: 전중환",
+          "publisher": "사이언스북스",
+          "publication_year": "2010",
+          "isbn13": "9788983712073",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "최강의 인생 :세상의 뻔한 공식을 깨부순 게임 체인저들의 44가지 법칙 ",
+          "authors": "데이브 아스프리 지음 ;신솔잎 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2019",
+          "isbn13": "9791162540909",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "미치지 않고서야 :일본 천재 편집자가 들려주는 새로운 시대, 일하기 혁명 ",
+          "authors": "미노와 고스케 지음 ;구수영 옮김",
+          "publisher": "21세기북스",
+          "publication_year": "2019",
+          "isbn13": "9788950981839",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "장사의 神 ",
+          "authors": "우노 다카시 지음 ;김문정 옮김",
+          "publisher": "쌤앤파커스",
+          "publication_year": "2012",
+          "isbn13": "9788965700890",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역행자 :확장판 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901272580",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "authors": "벤저민 하디 지음 ;최은아 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경",
+          "publisher": "서삼독",
+          "publication_year": "2024",
+          "isbn13": "9791198517425",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "정리하는 뇌 :디지털 시대, 정보와 선택 과부하로 뒤엉킨 머릿속과 일상을 정리하는 기술 ",
+          "authors": "대니얼 J. 레비틴 지음 ;김성훈 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2014",
+          "isbn13": "9788937837654",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "인스타 브레인 =몰입을 빼앗긴 시대, 똑똑한 뇌 사용법 /Insta brain ",
+          "authors": "안데르스 한센 지음 ;김아영 옮김",
+          "publisher": "동양북스",
+          "publication_year": "2020",
+          "isbn13": "9791157686179",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고전이 답했다 :마땅히 살아야 할 삶에 대하여 ",
+          "authors": "고명환 지음",
+          "publisher": "라곰",
+          "publication_year": "2024",
+          "isbn13": "9791193939130",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "사장학개론 ",
+          "authors": "지은이: 김승호",
+          "publisher": "스노우폭스북스",
+          "publication_year": "2023",
+          "isbn13": "9791188331888",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,717 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788934951278",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "(아이들도 잘 모르고 어른들은 더 모르는) 신기한 현상 사전",
+      "authors": "코코로사 글 ;이소담 옮김",
+      "publisher": "김영사",
+      "publication_year": "2022",
+      "isbn13": "9788934951278",
+      "addition_symbol": "73300",
+      "vol": "",
+      "class_no": "033",
+      "class_nm": "총류 > 백과사전 > 일본어",
+      "description": "‘절대 열어 보지 마시오.’라는 문구가 보이는 순간 왜 더 열어 보고 싶은 걸까? 공부하려고 했는데 공부하라는 소리를 들으면 갑자기 공부가 하기 싫어지는 이유는 뭐지? 팥빙수를 허겁지겁 먹으면 머리가 지끈 아픈 이유는 뭘까? 우리가 일상 속에서 겪었을 법한 다양한 현상의 원인과 이름을 알려 주는... ",
+      "bookImageURL": "https://image.aladin.co.kr/product/28883/18/cover/8934951273_1.jpg",
+      "loanCnt": 27082
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 495,
+          "ranking": 2732
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 542,
+          "ranking": 2577
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 407,
+          "ranking": 3134
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 371,
+          "ranking": 2940
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 376,
+          "ranking": 3251
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 379,
+          "ranking": 3258
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 478,
+          "ranking": 2938
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 390,
+          "ranking": 2909
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 343,
+          "ranking": 3802
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 359,
+          "ranking": 3563
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 312,
+          "ranking": 4041
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 322,
+          "ranking": 3719
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "현상",
+          "weight": "18"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공부",
+          "weight": "17"
+        }
+      },
+      {
+        "keyword": {
+          "word": "친구",
+          "weight": "15"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신기",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "순간",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생기",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이름",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이유가 있어요",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소리",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이게 정말 사과일까",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이유",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보고",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "퀴즈",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부모님",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보너스",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선생님",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "글자",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그림",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연필",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어른",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원래",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "청소",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그것만 있을 리가 없잖아",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만약의 세계",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이게 정말 천국일까",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이게 정말 마음일까",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이게 정말 나일까",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "벗지 말걸 그랬어",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문구",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "심심해 심심해",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "평소",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원인",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "요시타케",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불만이 있어요",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "누구",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신스케",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이들",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "더우면 벗으면 되지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "도망치고 찾고",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수업",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소개",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소중",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "(애매한 것을 속 시원하게 알려 주는) 알쏭달쏭 상담소 ",
+          "authors": "이케가야 유지 글 ;엄혜숙 옮김",
+          "publisher": "블루무스",
+          "publication_year": "2021",
+          "isbn13": "9791191426090",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164138197",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164136261",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164137527",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164139897",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168414471",
+          "vol": "12"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164135592",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168411685",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168412477",
+          "vol": "11"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168415232",
+          "vol": "13"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "(애매한 것을 속 시원하게 알려 주는) 알쏭달쏭 상담소 ",
+          "authors": "이케가야 유지 글 ;엄혜숙 옮김",
+          "publisher": "블루무스",
+          "publication_year": "2021",
+          "isbn13": "9791191426090",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "멋지다! ",
+          "authors": "글: 쓰쓰이 도모미 ;옮김: 김숙",
+          "publisher": "북뱅크",
+          "publication_year": "2020",
+          "isbn13": "9788966351176",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "만약의 세계 ",
+          "authors": "요시타케 신스케 글·그림 ;양지연 옮김",
+          "publisher": "주니어김영사",
+          "publication_year": "2020",
+          "isbn13": "9788934992622",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "과학의 관점 :나만의 '의문'을 찾아내자!",
+          "authors": "[편]: NHK「과학의 관점」제작진 ;옮긴이: 권효정",
+          "publisher": "Yuna(유나)",
+          "publication_year": "2021",
+          "isbn13": "9791188364268",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "선생님, 있잖아요 ",
+          "authors": "엮음: 가시마 가즈오 ;옮김: 김윤수",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934921325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "개가 말하는 친구 사용법 ",
+          "authors": "기타야마 요코 글·그림 ;고향옥 옮김",
+          "publisher": "위즈덤하우스 미디어그룹",
+          "publication_year": "2018",
+          "isbn13": "9788962479171",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254069",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254120",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254113",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "머리는 이렇게 부스스해도 ",
+          "authors": "요시타케 신스케 글·그림 ;권남희 옮김",
+          "publisher": "김영사",
+          "publication_year": "2022",
+          "isbn13": "9788934942566",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "별별 직업 상담소 ",
+          "authors": "요시타케 신스케 글·그림 ;권남희 옮김",
+          "publisher": "김영사",
+          "publication_year": "2025",
+          "isbn13": "9791173320927",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메멘과 모리 ",
+          "authors": "요시타케 신스케 글·그림 ;권남희 옮김",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934920991",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(애매한 것을 속 시원하게 알려 주는) 알쏭달쏭 상담소 ",
+          "authors": "이케가야 유지 글 ;엄혜숙 옮김",
+          "publisher": "블루무스",
+          "publication_year": "2021",
+          "isbn13": "9791191426090",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 감정 표현 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2024",
+          "isbn13": "9791158682842",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168415232",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계 여행 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682798",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168417199",
+          "vol": "15"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415034",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418011",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168414471",
+          "vol": "12"
+        }
+      }
+    ]
+  }
+}

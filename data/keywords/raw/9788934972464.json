@@ -1,0 +1,846 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788934972464",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문",
+      "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱",
+      "publisher": "김영사",
+      "publication_year": "2015",
+      "isbn13": "9788934972464",
+      "addition_symbol": "03900",
+      "vol": "",
+      "class_no": "909",
+      "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+      "description": "재레드 다이아몬드, 대니얼 카너먼, 마크 저커버그가 격찬한 베스트셀러. 멀고먼 인류의 시원부터 인지혁명, 농업혁명, 과학혁명을 거쳐 끊임없이 진화해온 인간의 역사를 다양하고 생생한 시각으로 조명한 전인미답의 문제작.",
+      "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/097/807/09780781.jpg?type=m1&udate=20180721",
+      "loanCnt": 175481
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1330,
+          "ranking": 290
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1274,
+          "ranking": 345
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1182,
+          "ranking": 316
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1096,
+          "ranking": 259
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1082,
+          "ranking": 336
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1257,
+          "ranking": 214
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1330,
+          "ranking": 276
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1113,
+          "ranking": 273
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1106,
+          "ranking": 322
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1070,
+          "ranking": 331
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1048,
+          "ranking": 322
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 960,
+          "ranking": 361
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 184,
+          "ranking": 924
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 118,
+          "ranking": 377
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 94,
+          "ranking": 193
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 79,
+          "ranking": 57
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 67,
+          "ranking": 16
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 55,
+          "ranking": 74
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 53,
+          "ranking": 9
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 43,
+          "ranking": 490
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 42,
+          "ranking": 199
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 39,
+          "ranking": 17
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 33,
+          "ranking": 209
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 24,
+          "ranking": 52
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 23,
+          "ranking": 229
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 19,
+          "ranking": 953
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 9,
+          "ranking": 103
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 6,
+          "ranking": 693
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "인간",
+          "weight": "34"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사피엔스",
+          "weight": "31"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사",
+          "weight": "23"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "호모",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인류",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "행복",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한국",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "종교",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학혁명",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인지혁명",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "농업혁명",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사회",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "종이",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독자",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지구",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발전",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "하라리",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수렵채집",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유발",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "권력",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기술",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지배",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전의",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사실",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오늘날",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "혁명",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "허구",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베스트셀러",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서울대",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동물",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "진화",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우리 학문이 가야할 길",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독일",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "완전",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이유",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간 미완의 기획",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다이아몬드",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여전",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인문학 명강 서양고전",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "알렉산드로스의 영혼 이론",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마크",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모순",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문명",
+          "weight": "3"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "코스모스 :특별판 ",
+          "authors": "칼 세이건 지음 ;홍승수 옮김",
+          "publisher": "사이언스북스",
+          "publication_year": "2006",
+          "isbn13": "9788983711892",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "총, 균, 쇠 :무기·병균·금속은 인류의 운명을 어떻게 바꿨는가 ",
+          "authors": "재레드 다이아몬드 지음 ;김진준 옮김",
+          "publisher": "문학사상사",
+          "publication_year": "2005",
+          "isbn13": "9788970127248",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "호모 데우스 :미래의 역사 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 김명주",
+          "publisher": "김영사",
+          "publication_year": "2017",
+          "isbn13": "9788934977841",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "사피엔스 :그래픽 히스토리",
+          "authors": "원작·각색: 유발 하라리 ;옮긴이: 김명주",
+          "publisher": "김영사",
+          "publication_year": "2020",
+          "isbn13": "9788934991328",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "이기적 유전자 ",
+          "authors": "리처드 도킨스 지음 ;이상임 옮김",
+          "publisher": "을유문화사",
+          "publication_year": "2018",
+          "isbn13": "9788932473901",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "authors": "룰루 밀러 지음 ;정지인 옮김",
+          "publisher": "곰출판",
+          "publication_year": "2021",
+          "isbn13": "9791189327156",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "호모 데우스 :미래의 역사 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 김명주",
+          "publisher": "김영사",
+          "publication_year": "2017",
+          "isbn13": "9788934977841",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "극한의 경험 :유발 하라리의 전쟁 문화사 ",
+          "authors": "유발 하라리 지음 ;김희주 옮김",
+          "publisher": "옥당",
+          "publication_year": "2017",
+          "isbn13": "9788993952858",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "21세기를 위한 21가지 제언 :더 나은 오늘은 어떻게 가능한가 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 전병근",
+          "publisher": "김영사",
+          "publication_year": "2018",
+          "isbn13": "9788934982975",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "초예측 :세계 석학 8인에게 인류의 미래를 묻다 ",
+          "authors": "유발 하라리,정현옥 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2019",
+          "isbn13": "9788901229614",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "사피엔스 :그래픽 히스토리",
+          "authors": "원작·각색: 유발 하라리 ;옮긴이: 김명주",
+          "publisher": "김영사",
+          "publication_year": "2020",
+          "isbn13": "9788934991328",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "사피엔스 :그래픽 히스토리",
+          "authors": "원작·각색: 유발 하라리 ;옮긴이: 김명주",
+          "publisher": "김영사",
+          "publication_year": "2020",
+          "isbn13": "9788934944188",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "사피엔스 :큰글자책 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱",
+          "publisher": "김영사",
+          "publication_year": "2020",
+          "isbn13": "9788934992059",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "사피엔스 :큰글자책 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱",
+          "publisher": "김영사",
+          "publication_year": "2020",
+          "isbn13": "9788934992042",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "사피엔스 :출간 10주년 기념 양장 특별판 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934943235",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "총, 균, 쇠 :무기·병균·금속은 인류의 운명을 어떻게 바꿨는가 ",
+          "authors": "재레드 다이아몬드 지음 ;김진준 옮김",
+          "publisher": "문학사상사",
+          "publication_year": "2005",
+          "isbn13": "9788970127248",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "넥서스 :석기시대부터 AI까지, 정보 네트워크로 보는 인류 역사 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 김명주",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9791194330424",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경",
+          "publisher": "서삼독",
+          "publication_year": "2024",
+          "isbn13": "9791198517425",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

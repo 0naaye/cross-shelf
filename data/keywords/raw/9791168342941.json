@@ -1,0 +1,806 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791168342941",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "박곰희 연금 부자 수업 :4개의 통장으로 월 300만원 만들기",
+      "authors": "박곰희 지음",
+      "publisher": "인플루엔셜",
+      "publication_year": "2025",
+      "isbn13": "9791168342941",
+      "addition_symbol": "03320",
+      "vol": "",
+      "class_no": "327.8",
+      "class_nm": "사회과학 > 경제학 > 금융",
+      "description": "베스트셀러 《박곰희 투자법》 출간 5년 만에 돌아온 금융 유튜버 박곰희가 이번엔 연금으로 평생 월급 받는 비밀을 공개한다. 절실한 질문들에 대한 현실적이고 구체적인 답변을 《박곰희 연금 부자 수업》에 녹여냈다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/36661/52/cover200/k972030181_1.jpg",
+      "loanCnt": 1434
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 371,
+          "ranking": 4160
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1043,
+          "ranking": 660
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1380,
+          "ranking": 182
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1479,
+          "ranking": 85
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1708,
+          "ranking": 67
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1828,
+          "ranking": 44
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1966,
+          "ranking": 67
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1709,
+          "ranking": 54
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1916,
+          "ranking": 42
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1961,
+          "ranking": 41
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1927,
+          "ranking": 38
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1785,
+          "ranking": 41
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 541,
+          "ranking": 27
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 299,
+          "ranking": 10
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 215,
+          "ranking": 83
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 144,
+          "ranking": 176
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 114,
+          "ranking": 16
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 56,
+          "ranking": 39
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 52,
+          "ranking": 381
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 43,
+          "ranking": 185
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 36,
+          "ranking": 267
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 19,
+          "ranking": 117
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 14,
+          "ranking": 339
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "연금",
+          "weight": "31"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노후",
+          "weight": "19"
+        }
+      },
+      {
+        "keyword": {
+          "word": "투자",
+          "weight": "16"
+        }
+      },
+      {
+        "keyword": {
+          "word": "준비",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "박곰희 연금 부자 수업",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Chapter",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "평생",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "통장",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "박곰희",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "박곰희 투자법",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부자",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "절세",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3억",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Part",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비밀",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "얼마",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "ETF",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "TV",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마르지",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전략",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수령",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "포트폴리오",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "현실적",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "월급",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자산",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "55세",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방법",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "월배당",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "투자금",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시나리오",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수익",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "은퇴",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노벨재단",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "목표",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "계좌",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유튜버",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인출",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가능",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노벨상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안전",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연금저축",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "50대",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "로드맵",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "5억",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베스트셀러",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "평범",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세팅",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "금융",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생활",
+          "weight": "3"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "(한 번 배워서 평생 써먹는) 박곰희 투자법 ",
+          "authors": "박곰희 지음",
+          "publisher": "인플루엔셜",
+          "publication_year": "2020",
+          "isbn13": "9791191056334",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 3개의 미국 ETF로 은퇴하라 :원하는 삶을 앞당기는 돈 자동 사냥 시스템 ",
+          "authors": "김지훈 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2025",
+          "isbn13": "9788901294179",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "ETF 투자의 모든 것 :배당수익과 주가수익 다 잡는 제2의 소득 파이프라인 ",
+          "authors": "문일호 지음",
+          "publisher": "매경출판",
+          "publication_year": "2025",
+          "isbn13": "9791164847983",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 미국 월배당 ETF로 40대에 은퇴한다 :7천만 원으로 월 2백만 원 받는 연 30% 이상 초고배당의 비밀! ",
+          "authors": "최영민 지음",
+          "publisher": "지음미디어",
+          "publication_year": "2024",
+          "isbn13": "9791193780084",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "배당 ETF로 월 400만 원 현금흐름 만들기 :AI도, 은퇴도 이기는 가장 확실한 투자 시스템 ",
+          "authors": "서대리 지음",
+          "publisher": "첨단",
+          "publication_year": "2026",
+          "isbn13": "9788960306486",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "평생 월 500만 원 받는 월배당 ETF :한 달에 두 번 따박따박 월급받는 투자법 ",
+          "authors": "배당의만장 지음",
+          "publisher": "노티스",
+          "publication_year": "2026",
+          "isbn13": "9791199747302",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(돈 걱정 없는 인생을 만드는) 나의 첫 월배당 ETF ",
+          "authors": "김정란 지음",
+          "publisher": "토네이도미디어그룹",
+          "publication_year": "2026",
+          "isbn13": "9791158513405",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(한 번 배워서 평생 써먹는) 박곰희 투자법 ",
+          "authors": "박곰희 지음",
+          "publisher": "인플루엔셜",
+          "publication_year": "2020",
+          "isbn13": "9791191056334",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "1,000만 원으로 3년 안에 300만 원 월배당 만들기 :미국 ETF 초간단 인컴 포트폴리오 전략 ",
+          "authors": "인생업 지음",
+          "publisher": "사이다경제",
+          "publication_year": "2026",
+          "isbn13": "9791194508700",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(한 권으로 끝내는) 연금 포트폴리오 :AI 자동투자 기업 '콴텍'이 알려주는 복리 마법의 퇴직연금 만들기 ",
+          "authors": "AI 콴텍 LAB 지음",
+          "publisher": "비즈니스북스",
+          "publication_year": "2025",
+          "isbn13": "9791162544075",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "ETF 투자의 모든 것 :배당수익과 주가수익 다 잡는 제2의 소득 파이프라인 ",
+          "authors": "문일호 지음",
+          "publisher": "매경출판",
+          "publication_year": "2025",
+          "isbn13": "9791164847983",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 3개의 미국 ETF로 은퇴하라 :원하는 삶을 앞당기는 돈 자동 사냥 시스템 ",
+          "authors": "김지훈 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2025",
+          "isbn13": "9788901294179",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "직장인 연금저축으로 1억 모으기 :연금저축, IPR, ISA 절세삼총사와 ETF를 활용한 연금부자 시크릿 ",
+          "authors": "미즈쑤 지음",
+          "publisher": "푸른향기",
+          "publication_year": "2025",
+          "isbn13": "9788967822347",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "달러 자산 1억으로 평생 월급 완성하라 :집 한 채에 갇힐 것인가, 현금 부자로 살 것인가 ",
+          "authors": "채부심 지음",
+          "publisher": "Mons(몽스북)",
+          "publication_year": "2025",
+          "isbn13": "9791199229976",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "(한 번 배워서 평생 써먹는) 박곰희 투자법 ",
+          "authors": "박곰희 지음",
+          "publisher": "인플루엔셜",
+          "publication_year": "2020",
+          "isbn13": "9791191056334",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 3개의 미국 ETF로 은퇴하라 :원하는 삶을 앞당기는 돈 자동 사냥 시스템 ",
+          "authors": "김지훈 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2025",
+          "isbn13": "9788901294179",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "ETF 투자의 모든 것 :배당수익과 주가수익 다 잡는 제2의 소득 파이프라인 ",
+          "authors": "문일호 지음",
+          "publisher": "매경출판",
+          "publication_year": "2025",
+          "isbn13": "9791164847983",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 방정식 :돈을 지위와 성공의 기준, 그 이상으로 다루기 위한 21가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 박영준",
+          "publisher": "서삼독",
+          "publication_year": "2026",
+          "isbn13": "9791193904671",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "트렌드 코리아 2026 :2026 대한민국 소비트렌드 전망 ",
+          "authors": "지은이: 김난도,김나은",
+          "publisher": "미래의창",
+          "publication_year": "2025",
+          "isbn13": "9791193638859",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

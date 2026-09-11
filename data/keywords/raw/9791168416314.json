@@ -1,0 +1,854 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791168416314",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "흔한남매 이상한 나라의 고전 읽기",
+      "authors": "최재훈 글 ;정주연 그림",
+      "publisher": "미래엔",
+      "publication_year": "2022",
+      "isbn13": "9791168416314",
+      "addition_symbol": "74810",
+      "vol": "4",
+      "class_no": "813.5",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "우리 아이가 읽는 첫 번째 고전 문학, 『흔한남매 이상한 나라의 고전 읽기』 시리즈!흔한남매와 함께하는 환상적인 고전 읽기 여행 이제 출발합니다!한가로운 주말, 상쾌한 가을바람을 맞으며 자전거를 타던 흔한남매! 하지만 얼마 못 가 지친 몸을 이끌고 영화관으로 들어간다. 영화의 주인공으로 활약하면 상품을 주는 이벤트에 참여하기로 한 으뜸이와 에이미는 어떤 스님의 목탁 소리를 들으며 화면으로 빨려 들어가는데…….",
+      "bookImageURL": "https://image.aladin.co.kr/product/32387/47/cover/k882935883_1.jpg",
+      "loanCnt": 42880
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 2070,
+          "ranking": 45
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 2162,
+          "ranking": 47
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1838,
+          "ranking": 53
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1614,
+          "ranking": 58
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1840,
+          "ranking": 43
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1770,
+          "ranking": 52
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 2040,
+          "ranking": 52
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1687,
+          "ranking": 57
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1713,
+          "ranking": 61
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1623,
+          "ranking": 73
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1589,
+          "ranking": 73
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1511,
+          "ranking": 65
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 431,
+          "ranking": 75
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 234,
+          "ranking": 26
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 216,
+          "ranking": 44
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 177,
+          "ranking": 96
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 137,
+          "ranking": 336
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 132,
+          "ranking": 19
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 100,
+          "ranking": 45
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 99,
+          "ranking": 61
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 83,
+          "ranking": 95
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 45,
+          "ranking": 202
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 40,
+          "ranking": 146
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 34,
+          "ranking": 213
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 33,
+          "ranking": 212
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 29,
+          "ranking": 522
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 26,
+          "ranking": 693
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 17,
+          "ranking": 364
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 5,
+          "ranking": 312
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "고전",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독서",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일기",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흔한남매",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Who",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Why",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에이미",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상상력",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기존",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래엔아이세움",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흔한컴퍼니  감수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주인공",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정주연",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "학습",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최재훈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이를 위한 고전",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이들",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스님",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수록",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소리",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선조",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생소",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "반읽기물",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보드게임",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상쾌",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시대",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상품",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구운몽",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "LIVE",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가지",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가치",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강추",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "거부감",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "게임",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구성",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구운몽 금방울전 김원전",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "금방울전",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김원전",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "깊이",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "내용",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대표작",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "도전",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "등장",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415034",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168413955",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415331",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168412248",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168418950",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168416369",
+          "vol": "14"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168415232",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168411685",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168412477",
+          "vol": "11"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168414471",
+          "vol": "12"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415331",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415034",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168418950",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168413955",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791173473869",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168412248",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 별난 세계 여행",
+          "authors": "흔한남매 원작 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791168416628",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168412255",
+          "vol": "1-8 /"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 별난 세계 여행",
+          "authors": "흔한남매 원작 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791173470615",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 별난 세계 여행",
+          "authors": "흔한남매 원작 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791168418424",
+          "vol": "3"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415034",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415331",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168413955",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168412248",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168418950",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791173473869",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168416369",
+          "vol": "14"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418011",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168415232",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168411685",
+          "vol": "10"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,726 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788934965404",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기",
+      "authors": "나민애 지음",
+      "publisher": "김영사",
+      "publication_year": "2024",
+      "isbn13": "9788934965404",
+      "addition_symbol": "13590",
+      "vol": "",
+      "class_no": "375.471",
+      "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+      "description": "부모들의 국어 공부 고민을 친절하고 명쾌하게 해결해준다. 입시를 이기는 독서 전략, 서울대학교 학생들의 국어 공부 방법, 학령별 가이드까지 한 권에 꾹꾹 눌러담았다. 우리 아이를 더 즐겁고 쉽게 국어 달인으로 만들어보자.",
+      "bookImageURL": "https://image.aladin.co.kr/product/33600/46/cover/8934965401_1.jpg",
+      "loanCnt": 21065
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 981,
+          "ranking": 687
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 926,
+          "ranking": 937
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 869,
+          "ranking": 724
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 654,
+          "ranking": 1059
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 807,
+          "ranking": 799
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 791,
+          "ranking": 842
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 872,
+          "ranking": 993
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 609,
+          "ranking": 1398
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 672,
+          "ranking": 1180
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 646,
+          "ranking": 1269
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 507,
+          "ranking": 1903
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 527,
+          "ranking": 1660
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 223,
+          "ranking": 564
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "국어",
+          "weight": "18"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독서",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "초등",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "달인",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서울대학교",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "학생",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국어 잘하는 아이가 이깁니다",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공부",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나민애",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교수",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전략",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "글쓰기",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "학원",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고등",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한자",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "프로젝트",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "활용",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어휘력",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전략적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선생님",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마오",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만들어보자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "심심",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부모",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "머리말",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "읽어보기 전자책",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방법",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부모님",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인공지능",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "점검",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기초",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "효과",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시절",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고등학교",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "입시",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고민",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "중학교",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교육",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국어가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기본기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가이드",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김영사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다독",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단어",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "나는 다정한 관찰자가 되기로 했다 :불안에 휘둘리지 않는 단단한 태도에 관하여 ",
+          "authors": "이은경 지음",
+          "publisher": "서교책방",
+          "publication_year": "2024",
+          "isbn13": "9791198752406",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447694",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "내 아이를 위한 사교육은 없다 :사교육을 이기고 상위 1%로 도약하는 힘 ",
+          "authors": "김현주 지음",
+          "publisher": "청림출판",
+          "publication_year": "2024",
+          "isbn13": "9791193842010",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "긴긴밤 ",
+          "authors": "루리 글·그림",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954677158",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "수학 잘하는 아이는 이렇게 공부합니다 :수학이 어려운 엄마를 위한 전략적 학습 로드맵 ",
+          "authors": "류승재 지음",
+          "publisher": "블루무스",
+          "publication_year": "2021",
+          "isbn13": "9791196848194",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "똥볶이 할멈 :K-히어로 판타지",
+          "authors": "글: 강효미 ;그림: 김무연",
+          "publisher": "따끈따끈책방",
+          "publication_year": "2021",
+          "isbn13": "9791190409124",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936448370",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "authors": "지은이: 유은실",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949123493",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "나민애의 다시 만난 국어 :나의 두 번째 교과서 ",
+          "authors": "나민애 지음",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2024",
+          "isbn13": "9791169851169",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "내 아이를 위한 사교육은 없다 :사교육을 이기고 상위 1%로 도약하는 힘 ",
+          "authors": "김현주 지음",
+          "publisher": "청림출판",
+          "publication_year": "2024",
+          "isbn13": "9791193842010",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "수학 진짜 잘하는 법을 알려줄게요. - 수학 지도가 어려운 초등 학부모를 위한 전략적 수학 학습 로드맵",
+          "authors": "주단 (지은이)",
+          "publisher": "북북북",
+          "publication_year": "2025",
+          "isbn13": "9791197748578",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(성적 초격차를 만드는) 독서력 수업 :읽고, 쓰고, 생각하는 공부머리, 초등에서 완성하라 ",
+          "authors": "김수미 지음",
+          "publisher": "빅피시",
+          "publication_year": "2025",
+          "isbn13": "9791194033585",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "의대생의 초등 비밀과외 :내 아이 공부 정서를 위한 실전 학부모 수업 ",
+          "authors": "임민찬 지음",
+          "publisher": "체인지업(체인지업북스)",
+          "publication_year": "2025",
+          "isbn13": "9791191378658",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "초3부터 SKY는 시작됩니다 :기적의 최상위 초중고 공부 전략서 ",
+          "authors": "하지원 지음",
+          "publisher": "다산북스",
+          "publication_year": "2024",
+          "isbn13": "9791130654577",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "초등 영어 문해력이 답이다 :20년간 영어 1등급을 만들어낸 최적의 커리큘럼 ",
+          "authors": "김수민 지음",
+          "publisher": "한경BP",
+          "publication_year": "2025",
+          "isbn13": "9788947549974",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "사교육 없이 명문대 가는 집공부 전략 :입시 고수맘 노을커피의 압도적 초중등 학습 로드맵 ",
+          "authors": "신은정 지음",
+          "publisher": "북라이프",
+          "publication_year": "2024",
+          "isbn13": "9791191013801",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어머님, 의대생은 초등 6년을 이렇게 보냅니다 :전교 1등 의대생이 알려 주는 최고의 공부법과 최상의 자기관리법 ",
+          "authors": "임민찬 지음",
+          "publisher": "카시오페아(카시오페아 출판사)",
+          "publication_year": "2024",
+          "isbn13": "9791168271678",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "대치동 아이들은 이렇게 공부합니다 :4세부터 SKY로 직행하는 초등 공부 최강의 전략 ",
+          "authors": "글로리아쌤 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2024",
+          "isbn13": "9788901287195",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "나는 다정한 관찰자가 되기로 했다 :불안에 휘둘리지 않는 단단한 태도에 관하여 ",
+          "authors": "이은경 지음",
+          "publisher": "서교책방",
+          "publication_year": "2024",
+          "isbn13": "9791198752406",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나민애의 다시 만난 국어 :나의 두 번째 교과서 ",
+          "authors": "나민애 지음",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2024",
+          "isbn13": "9791169851169",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(성적 초격차를 만드는) 독서력 수업 :읽고, 쓰고, 생각하는 공부머리, 초등에서 완성하라 ",
+          "authors": "김수미 지음",
+          "publisher": "빅피시",
+          "publication_year": "2025",
+          "isbn13": "9791194033585",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447694",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "부모의 어휘력 :정확히 말할수록 아이의 세상이 커지는 필수 어휘 126 ",
+          "authors": "김종원 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2024",
+          "isbn13": "9791168271999",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "내 아이를 위한 사교육은 없다 :사교육을 이기고 상위 1%로 도약하는 힘 ",
+          "authors": "김현주 지음",
+          "publisher": "청림출판",
+          "publication_year": "2024",
+          "isbn13": "9791193842010",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "긴긴밤 ",
+          "authors": "루리 글·그림",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954677158",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "수학 잘하는 아이는 이렇게 공부합니다 :수학이 어려운 엄마를 위한 전략적 학습 로드맵 ",
+          "authors": "류승재 지음",
+          "publisher": "블루무스",
+          "publication_year": "2021",
+          "isbn13": "9791196848194",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "다시, 공부머리 독서법",
+          "authors": "최승필 지음",
+          "publisher": "책구루",
+          "publication_year": "2025",
+          "isbn13": "9791196316860",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

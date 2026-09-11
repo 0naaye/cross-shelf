@@ -1,0 +1,774 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791130696614",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+      "authors": "글: 박정효 ;김기수",
+      "publisher": "다산북스",
+      "publication_year": "2023",
+      "isbn13": "9791130696614",
+      "addition_symbol": "77810",
+      "vol": "1",
+      "class_no": "219",
+      "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+      "description": "그리스 로마 신화보다 한국 신화가 더 낯선 어린이들을 위해 쉽고 재미있는 만화로 우리 신화를 알려 주는 책이다. 신화학자 이경덕의 검증을 거친 스토리와 세련된 만화 스타일로 누구든 순식간에 한국 신화에 빠져들게 한다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/31484/41/cover/k842832622_1.jpg",
+      "loanCnt": 17779
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 790,
+          "ranking": 1190
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 834,
+          "ranking": 1201
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 761,
+          "ranking": 1028
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 664,
+          "ranking": 1031
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 754,
+          "ranking": 929
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 691,
+          "ranking": 1124
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 830,
+          "ranking": 1101
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 668,
+          "ranking": 1161
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 647,
+          "ranking": 1273
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 674,
+          "ranking": 1173
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 603,
+          "ranking": 1363
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 636,
+          "ranking": 1131
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 189,
+          "ranking": 882
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 106,
+          "ranking": 657
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 104,
+          "ranking": 620
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 44,
+          "ranking": 566
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 36,
+          "ranking": 892
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 29,
+          "ranking": 567
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 19,
+          "ranking": 953
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "신화",
+          "weight": "16"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화 한국 신화",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한국",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문화",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인문학",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그리스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "로마",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신과함께",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이경덕",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단군",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뿌리",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "권수영",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김기수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신화학자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이경덕  기획",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우리나라",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스타일",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "박정효",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다산어린이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아들",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정체성",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신화 종교",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세련",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모험",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "등장인물",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만나러",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3장",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "딱딱",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1장",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "환웅",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동화책",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "4장",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "9장",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강력",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "거친",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "검증",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경쟁",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "계기",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "곳곳",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교과",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교사",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "결혼식",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "SBS",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "MBC",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "KBS",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698182",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698434",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698441",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698458",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130644097",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130662909",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791191496949",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791198179982",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791191496628",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031209",
+          "vol": "4"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698182",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698434",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698441",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698458",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130644097",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130662909",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 8 : 특급 저승사자 강림",
+          "authors": "박정효 (지은이), 권수영, 김기수 (그림), 이경덕 (기획)",
+          "publisher": "다산어린이",
+          "publication_year": "2025",
+          "isbn13": "9791130666303",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 9 : 우리 집 수호신, 성주신과 조왕신",
+          "authors": "박정효 (지은이), 권수영, 김기수 (그림), 이경덕 (기획)",
+          "publisher": "다산어린이",
+          "publication_year": "2025",
+          "isbn13": "9791130670393",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(곽재식의) 한국사 괴물 수사대",
+          "authors": "글: 곽재식,김수연",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934946779",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "김영하의 세계문학 원정대",
+          "authors": "기획 및 해설: 김영하 ;정보 글: 김지혜",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934911302",
+          "vol": "4"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698182",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698434",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698441",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698458",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130644097",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 :어린이를 위한 우리 인문학",
+          "authors": "글: 박정효 ;김기수",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130662909",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 8 : 특급 저승사자 강림",
+          "authors": "박정효 (지은이), 권수영, 김기수 (그림), 이경덕 (기획)",
+          "publisher": "다산어린이",
+          "publication_year": "2025",
+          "isbn13": "9791130666303",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "만화 한국 신화 9 : 우리 집 수호신, 성주신과 조왕신",
+          "authors": "박정효 (지은이), 권수영, 김기수 (그림), 이경덕 (기획)",
+          "publisher": "다산어린이",
+          "publication_year": "2025",
+          "isbn13": "9791130670393",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031711",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791194616054",
+          "vol": "11"
+        }
+      }
+    ]
+  }
+}

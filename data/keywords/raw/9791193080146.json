@@ -1,0 +1,717 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791193080146",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "느리게 나이 드는 습관 :노년내과 의사가 알려주는 감속노화 실천법",
+      "authors": "정희원 지음",
+      "publisher": "한빛라이프",
+      "publication_year": "2023",
+      "isbn13": "9791193080146",
+      "addition_symbol": "03510",
+      "vol": "",
+      "class_no": "511.1689",
+      "class_nm": "기술과학 > 의학 > 기초의학",
+      "description": "서울아산병원 노년내과 전문의가 작심하고 전하는 감속노화 실천법. 생애 주기에 따라 생활의 요소를 조절해 노화 속도를 느리게 만들고 내재역량을 강화할 수 있는 구체적인 방법을 이야기한다. 누구나 아프지 않고 건강하게, 또래보다 느리게 나이 들 수 있다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/32941/79/cover/k032936148_2.jpg",
+      "loanCnt": 19484
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 733,
+          "ranking": 1390
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 748,
+          "ranking": 1471
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 599,
+          "ranking": 1636
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 532,
+          "ranking": 1623
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 415,
+          "ranking": 2801
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 353,
+          "ranking": 3563
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 243,
+          "ranking": 7606
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 168,
+          "ranking": 9334
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 163,
+          "ranking": 10628
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 111,
+          "ranking": 16500
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 121,
+          "ranking": 13891
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 112,
+          "ranking": 14569
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "노화",
+          "weight": "32"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나이",
+          "weight": "15"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "14"
+        }
+      },
+      {
+        "keyword": {
+          "word": "습관",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "건강",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생활",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노인",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노쇠",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "PLUS",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "PAGE",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이해",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스트레스",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "PART",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "필요",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "속도",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "식사",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "운동",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생물학적",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노력",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수명",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가속노화",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노년내과",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "악순환",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사회적",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세바시",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "결과",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "근육",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상태",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "내재역량",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "목표",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "관리",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영양제",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "관계",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모습",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감속노화",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수면",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정도",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단백질",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유 퀴즈 온 더 블록",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "섭취",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "MIND",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3차원",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자세",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방법",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "절식",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "AGMR",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서울아산병원",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "걷기",
+          "weight": "3"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "당신도 느리게 나이 들 수 있습니다 :나이가 들어도 몸의 시간을 젊게 ",
+          "authors": "정희원 지음",
+          "publisher": "길벗",
+          "publication_year": "2023",
+          "isbn13": "9791140702589",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "저속노화 식사법 :노년내과 의사가 알려주는 기적의 식단 혁명 ",
+          "authors": "정희원 지음",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141606862",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "내 몸 혁명 :뱃살과 질병 없이 살려면 숫자보다 몸을 바꿔라 ",
+          "authors": "박용우 지음",
+          "publisher": "루미너스",
+          "publication_year": "2024",
+          "isbn13": "9791198553317",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "authors": "벤저민 하디 지음 ;최은아 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "지속가능한 나이듦 :노화와 질병, 거스를 수 없다면 미리 준비하라 ",
+          "authors": "정희원 지음",
+          "publisher": "두리반",
+          "publication_year": "2023",
+          "isbn13": "9791188719204",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "지속가능한 나이듦 :노년의 질병, 어떻게 대비할 것인가 ",
+          "authors": "정희원 지음",
+          "publisher": "두리반",
+          "publication_year": "2021",
+          "isbn13": "9791188719167",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "당신도 느리게 나이 들 수 있습니다 :나이가 들어도 몸의 시간을 젊게 ",
+          "authors": "정희원 지음",
+          "publisher": "길벗",
+          "publication_year": "2023",
+          "isbn13": "9791140702589",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "저속노화 식사법 :노년내과 의사가 알려주는 기적의 식단 혁명 ",
+          "authors": "정희원 지음",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141606862",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왜 우리는 매일 거대도시로 향하는가 :교통지옥에 갇힌 도시생활자의 기쁨과 슬픔 ",
+          "authors": "지은이: 정희원,전현우",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934935001",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "저속노화 마인드셋 :노년내과 의사가 알려주는, 내 몸의 주도권을 되찾고 무너진 삶을 회복하는 법 ",
+          "authors": "정희원 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2025",
+          "isbn13": "9791194627074",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "80에도 뇌가 늙지 않는 사람은 이렇게 합니다 :뇌과학자가 알려주는 최강의 두뇌 건강 비법 ",
+          "authors": "니시 다케유키 지음 ;정미애 옮김",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2023",
+          "isbn13": "9791168127876",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "최고의 노후 :질병 없이 건강하게, 행복한 노년을 만드는 비밀 ",
+          "authors": "야마다 유지 지음 ;김동연 옮김",
+          "publisher": "루미너스",
+          "publication_year": "2024",
+          "isbn13": "9791197376696",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "100세 시대 두 발 혁명 :정형외과 족부전문의가 알려주는 발 건강 바이블 ",
+          "authors": "지은이: 김범수",
+          "publisher": "헬스조선",
+          "publication_year": "2024",
+          "isbn13": "9791158464134",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "완전 소화 :아프지 않고 오래 사는 최고의 식사법 ",
+          "authors": "류은경 지음",
+          "publisher": "다산북스",
+          "publication_year": "2024",
+          "isbn13": "9791130651415",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "당신도 느리게 나이 들 수 있습니다 :나이가 들어도 몸의 시간을 젊게 ",
+          "authors": "정희원 지음",
+          "publisher": "길벗",
+          "publication_year": "2023",
+          "isbn13": "9791140702589",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "저속노화 식사법 :노년내과 의사가 알려주는 기적의 식단 혁명 ",
+          "authors": "정희원 지음",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141606862",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "저속노화 마인드셋 :노년내과 의사가 알려주는, 내 몸의 주도권을 되찾고 무너진 삶을 회복하는 법 ",
+          "authors": "정희원 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2025",
+          "isbn13": "9791194627074",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "내 몸 혁명 :뱃살과 질병 없이 살려면 숫자보다 몸을 바꿔라 ",
+          "authors": "박용우 지음",
+          "publisher": "루미너스",
+          "publication_year": "2024",
+          "isbn13": "9791198553317",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고전이 답했다 :마땅히 살아야 할 삶에 대하여 ",
+          "authors": "고명환 지음",
+          "publisher": "라곰",
+          "publication_year": "2024",
+          "isbn13": "9791193939130",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

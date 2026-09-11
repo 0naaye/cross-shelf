@@ -1,0 +1,742 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791198381811",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "대충 봐도 머리에 남는 어린이 야구 상식 :야구의 재미를 제대로 알게 하는 알쏭달쏭 야구의 모든 것",
+      "authors": "글: 김양희 ;그림: 나인완",
+      "publisher": "블루무스어린이",
+      "publication_year": "2023",
+      "isbn13": "9791198381811",
+      "addition_symbol": "77690",
+      "vol": "",
+      "class_no": "695",
+      "class_nm": "예술 > 오락, 운동 > 구기",
+      "description": "어린이는 물론 야구를 제대로 알고 싶은 어른까지, 모든 이들을 위한 재미있는 야구책이 나왔다. 익살스러운 8컷 만화와 친절한 설명을 따라가면 금방 야구를 이해하게 된다. 단순히 야구 상식을 쉬운 말로 설명하는 책이 아니라 알쏭달쏭 궁금한 것에 관한 질문에 쉽고 재미있게 답해준다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/32452/50/cover/k792935394_1.jpg",
+      "loanCnt": 13396
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 776,
+          "ranking": 1250
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 846,
+          "ranking": 1155
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 650,
+          "ranking": 1429
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 592,
+          "ranking": 1328
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 592,
+          "ranking": 1588
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 534,
+          "ranking": 1867
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 532,
+          "ranking": 2529
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 418,
+          "ranking": 2660
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 436,
+          "ranking": 2683
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 538,
+          "ranking": 1831
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 565,
+          "ranking": 1549
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 570,
+          "ranking": 1415
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 116,
+          "ranking": 467
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 88,
+          "ranking": 967
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 21,
+          "ranking": 783
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "야구",
+          "weight": "45"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뭐예",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "투수",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경기",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "프로야구",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "야구장",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "타자",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "PART",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "처음",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선수",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상식",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그라운드",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "얼마",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정보",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "야구공",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기본",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제대",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "질문",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "포수",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유니폼",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "규칙",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "야구가 뭐라고",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기록",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한겨레신문",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주자",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오각형",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김양희",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "리틀빅 야구왕",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "9회",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스포츠 투데이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "말이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "크기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나인완",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "플레이트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "심판",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "블루무스어린이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설명",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "순서",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "히트",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "쏙쏙",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나라",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베테랑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2아웃부터",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "쓸모",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공격",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시즌",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "알쏭달쏭",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "앤드",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "관중석",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "번호",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어! ",
+          "authors": "익뚜 지음",
+          "publisher": "Who's Got My Tail(후즈갓마이테일)",
+          "publication_year": "2022",
+          "isbn13": "9791190007245",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "야구 잘하는 50가지 비밀 :진짜 진짜 야구 잘하고 싶은 어린이만 보는 책! ",
+          "authors": "지은이: 구보 요이치 ;번역: 김정환",
+          "publisher": "부즈펌",
+          "publication_year": "2016",
+          "isbn13": "9791186073995",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682538",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168411685",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계 여행 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682798",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "축구 만화 도감 :재밌을 줄 알았는데 멋있어! ",
+          "authors": "익뚜 지음",
+          "publisher": "Who's Got My Tail(후즈갓마이테일)",
+          "publication_year": "2022",
+          "isbn13": "9791190007320",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "생각하는 야구 교과서 :어린이를 위한 야구의 모든 것 ",
+          "authors": "스포츠문화연구소,이창우 그림",
+          "publisher": "휴먼어린이",
+          "publication_year": "2016",
+          "isbn13": "9788965913085",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168413955",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164139897",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 별난 세계 여행",
+          "authors": "흔한남매 원작 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791168415355",
+          "vol": "1"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "생각하는 야구 교과서 :어린이를 위한 야구의 모든 것 ",
+          "authors": "스포츠문화연구소,이창우 그림",
+          "publisher": "휴먼어린이",
+          "publication_year": "2016",
+          "isbn13": "9788965913085",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(김종진 감독의) 어린이 야구 설명서 ",
+          "authors": "김종진 지음",
+          "publisher": "파란정원",
+          "publication_year": "2017",
+          "isbn13": "9791158681203",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "재미있고 공부가 되는 어린이 야구상식",
+          "authors": "콘텐츠랩 (지은이)",
+          "publisher": "혜민북스",
+          "publication_year": "2024",
+          "isbn13": "9791157327133",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "알고 즐기는 메이저리그 :MLB 야구의 모든 것 ",
+          "authors": "글·그림: 케빈 실베스터 ;옮긴이: 권혁정",
+          "publisher": "나무처럼",
+          "publication_year": "2016",
+          "isbn13": "9788992877381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(월드클래스 코리안 몬스터) 류현진이랑 야구하자! ",
+          "authors": "지은이: 베가북스 편집부",
+          "publisher": "Vegabooks(베가북스)",
+          "publication_year": "2019",
+          "isbn13": "9791190242202",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "야구 잘하는 50가지 비밀 :진짜 진짜 야구 잘하고 싶은 어린이만 보는 책! ",
+          "authors": "지은이: 구보 요이치 ;번역: 김정환",
+          "publisher": "부즈펌",
+          "publication_year": "2016",
+          "isbn13": "9791186073995",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(치고, 던지고, 달리는) 야구의 모든 것 ",
+          "authors": "김성호 글 ;박재현 그림",
+          "publisher": "사계절",
+          "publication_year": "2017",
+          "isbn13": "9791160940824",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 야구를 만화로 배웠어요",
+          "authors": "엮음: 세이토샤 편집부 ;옮김: 문기업",
+          "publisher": "부즈펌",
+          "publication_year": "2019",
+          "isbn13": "9791187504955",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어! ",
+          "authors": "익뚜 지음",
+          "publisher": "Who's Got My Tail(후즈갓마이테일)",
+          "publication_year": "2022",
+          "isbn13": "9791190007245",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어!",
+          "authors": "익뚜 지음",
+          "publisher": "Who's Got My Tail(후즈갓마이테일)",
+          "publication_year": "2025",
+          "isbn13": "9791190007726",
+          "vol": "2"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어! ",
+          "authors": "익뚜 지음",
+          "publisher": "Who's Got My Tail(후즈갓마이테일)",
+          "publication_year": "2022",
+          "isbn13": "9791190007245",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "야구 잘하는 50가지 비밀 :진짜 진짜 야구 잘하고 싶은 어린이만 보는 책! ",
+          "authors": "지은이: 구보 요이치 ;번역: 김정환",
+          "publisher": "부즈펌",
+          "publication_year": "2016",
+          "isbn13": "9791186073995",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "야구 만화 도감 :어려울 줄 알았는데 재밌어!",
+          "authors": "익뚜 지음",
+          "publisher": "Who's Got My Tail(후즈갓마이테일)",
+          "publication_year": "2025",
+          "isbn13": "9791190007726",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계 여행 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682798",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791173473968",
+          "vol": "19"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682538",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "Who? 김도영 =Kim Do Yeong ",
+          "authors": "글: 김한조 ;그림: 이유철",
+          "publisher": "다산북스",
+          "publication_year": "2025",
+          "isbn13": "9791130665849",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168411685",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "축구 만화 도감 :재밌을 줄 알았는데 멋있어! ",
+          "authors": "익뚜 지음",
+          "publisher": "Who's Got My Tail(후즈갓마이테일)",
+          "publication_year": "2022",
+          "isbn13": "9791190007320",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 감정 표현 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2024",
+          "isbn13": "9791158682842",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

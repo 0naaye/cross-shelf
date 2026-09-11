@@ -1,0 +1,416 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791192372655",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "결코 나의 운명을 원망하지 않으리라 :쇼펜하우어의 인생에 대한 조언(1851)",
+      "authors": "아르투어 쇼펜하우어 지음 ;김요한 옮김",
+      "publisher": "Rise(떠오름코퍼레이션)",
+      "publication_year": "2024",
+      "isbn13": "9791192372655",
+      "addition_symbol": "03100",
+      "vol": "",
+      "class_no": "165.47",
+      "class_nm": "철학 > 서양철학 > 독일, 오스트리아철학",
+      "description": "쇼펜하우어의 〈Counsels and Maxims〉를 옮긴 것으로, 아무 주석 없이 원문 그대로 실었다. 그 이유는 ‘쇼펜하우어 붐’으로 다양한 책이 출간되었지만, 쇼펜하우어의 철학보다는 저자의 재해석이 주를 이룬 책이 많기 때문이다. 물론 쇼펜하우어의 원문을 쉽게 풀었지만, 고전 철학책의 특징상 읽기 편하지는 않다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/34168/66/cover200/k052931917_1.jpg",
+      "loanCnt": 1590
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 116,
+          "ranking": 18537
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 103,
+          "ranking": 22577
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 100,
+          "ranking": 19990
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 74,
+          "ranking": 23519
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 82,
+          "ranking": 22913
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 94,
+          "ranking": 19604
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 78,
+          "ranking": 28910
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 72,
+          "ranking": 25091
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 70,
+          "ranking": 27886
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 71,
+          "ranking": 26805
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 58,
+          "ranking": 30819
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 51,
+          "ranking": 33503
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "당신의 인생이 왜 힘들지 않아야 한다고 생각하십니까 :쇼펜하우어 아포리즘 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2023",
+          "isbn13": "9791192625553",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "남에게 보여주려고 인생을 낭비하지 마라 :쇼펜하우어 소품집 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2023",
+          "isbn13": "9791169850445",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "쇼펜하우어 인생수업 :한 번뿐인 삶 이렇게 살아라 ",
+          "authors": "쇼펜하우어 저 ;김지민 엮음",
+          "publisher": "Highest(하이스트)",
+          "publication_year": "2024",
+          "isbn13": "9791193282045",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왜 너는 편하게 살고자 하는가 ",
+          "authors": "프리드리히 니체 지음 ;김요한 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2024",
+          "isbn13": "9791192372600",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(2500년 동안 사랑받은) 초역 부처의 말 :행복으로 가는 길은 없다 행복이 곧 길이다 ",
+          "authors": "코이케 류노스케 지음 ;박재현 옮김",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506516",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "니체 인생수업 :니체가 세상에 남긴 66가지 인생지혜 ",
+          "authors": "프리드리히 니체 저 ;김지민 엮음",
+          "publisher": "Highest(하이스트그로우)",
+          "publication_year": "2024",
+          "isbn13": "9791193282069",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어차피 남들은 나에게 관심 없다 :쇼펜하우어의 인간관계 철학 ",
+          "authors": "글·그림: 강산",
+          "publisher": "알토북스",
+          "publication_year": "2024",
+          "isbn13": "9791198621405",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼자일 수 없다면 나아갈 수 없다 :프리드리히 니체 아포리즘 ",
+          "authors": "프리드리히 니체 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506387",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "authors": "장재형 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2022",
+          "isbn13": "9791192300245",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "쇼펜하우어, 홀로서기 인생철학 :균형 있는 삶을 위하여 ",
+          "authors": "서경홍 지음",
+          "publisher": "굿모닝미디어",
+          "publication_year": "2024",
+          "isbn13": "9788989874508",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "쇼펜하우어의 슬기로운 철학수업 ",
+          "authors": "아르투어 쇼펜하우어 [지음] ;김미조 편역",
+          "publisher": "파랑새",
+          "publication_year": "2024",
+          "isbn13": "9788961555302",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나이 들어도 행복해지는 연습 ",
+          "authors": "엔젤레스 에리언 지음 ;이순미 옮김",
+          "publisher": "드림셀러",
+          "publication_year": "2025",
+          "isbn13": "9791192788364",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "쇼펜하우어의 논쟁 대화법 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;김시형 옮김",
+          "publisher": "사람과나무사이",
+          "publication_year": "2024",
+          "isbn13": "9791188635955",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(쇼펜하우어의) 고독한 행복 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;홍성광 옮김",
+          "publisher": "열림원",
+          "publication_year": "2024",
+          "isbn13": "9791170402688",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세상 속에 있지만 세상에 속하지 않는 ",
+          "authors": "데이비드 호킨스 지음 ;박찬준 옮김",
+          "publisher": "판미동",
+          "publication_year": "2024",
+          "isbn13": "9791170525325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(니체의) 위대한 자유 ",
+          "authors": "프리드리히 니체 지음 ;홍성광 옮김",
+          "publisher": "열림원",
+          "publication_year": "2024",
+          "isbn13": "9791170402824",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마음이 소모되기 전에 생각할 것들 :불안, 허무, 자책에서 자유로워지는 빅터 프랭클 심리학 ",
+          "authors": "모로토미 요시히코 지음 ;나지윤 옮김",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2024",
+          "isbn13": "9791171830497",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "인생의 짧음에 관하여 ",
+          "authors": "딘 리클스 지음 ;허윤정 옮김",
+          "publisher": "을유문화사",
+          "publication_year": "2024",
+          "isbn13": "9788932475196",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나와 내 삶의 의미 :진정한 나를 찾기 위한 헤르만 헤세의 인생 수업 ",
+          "authors": "장재형 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2025",
+          "isbn13": "9791171830862",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "당신의 인생이 왜 힘들지 않아야 한다고 생각하십니까 :쇼펜하우어 아포리즘 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2023",
+          "isbn13": "9791192625553",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "남에게 보여주려고 인생을 낭비하지 마라 :쇼펜하우어 소품집 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2023",
+          "isbn13": "9791169850445",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "쇼펜하우어 인생수업 :한 번뿐인 삶 이렇게 살아라 ",
+          "authors": "쇼펜하우어 저 ;김지민 엮음",
+          "publisher": "Highest(하이스트)",
+          "publication_year": "2024",
+          "isbn13": "9791193282045",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왜 너는 편하게 살고자 하는가 ",
+          "authors": "프리드리히 니체 지음 ;김요한 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2024",
+          "isbn13": "9791192372600",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "위버멘쉬 :누구의 시선도 아닌, 내 의지대로 살겠다는 선언 ",
+          "authors": "프리디리히 니체 지음 ;어나니머스 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2025",
+          "isbn13": "9791192372730",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(2500년 동안 사랑받은) 초역 부처의 말 :행복으로 가는 길은 없다 행복이 곧 길이다 ",
+          "authors": "코이케 류노스케 지음 ;박재현 옮김",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506516",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "니체 인생수업 :니체가 세상에 남긴 66가지 인생지혜 ",
+          "authors": "프리드리히 니체 저 ;김지민 엮음",
+          "publisher": "Highest(하이스트그로우)",
+          "publication_year": "2024",
+          "isbn13": "9791193282069",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어차피 남들은 나에게 관심 없다 :쇼펜하우어의 인간관계 철학 ",
+          "authors": "글·그림: 강산",
+          "publisher": "알토북스",
+          "publication_year": "2024",
+          "isbn13": "9791198621405",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼자일 수 없다면 나아갈 수 없다 :프리드리히 니체 아포리즘 ",
+          "authors": "프리드리히 니체 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506387",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

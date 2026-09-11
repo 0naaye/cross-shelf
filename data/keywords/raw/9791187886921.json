@@ -1,0 +1,717 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791187886921",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "부처스 크로싱",
+      "authors": "지은이: 존 윌리엄스 ;옮긴이: 정세윤",
+      "publisher": "구픽",
+      "publication_year": "2023",
+      "isbn13": "9791187886921",
+      "addition_symbol": "03840",
+      "vol": "",
+      "class_no": "843.5",
+      "class_nm": "문학 > 영미문학 > 소설",
+      "description": "덴버 대학교에서 문학을 가르치던 시절 존 윌리엄스가 발표한 그의 첫 번째 ‘장편소설’로 에머슨의 자연주의 철학에 심취한 주인공 앤드루스가 캔자스 주 가상의 산골 마을 부처스 크로싱에 도착해 겪는 인간의 폭력성과 자연의 냉엄함, 그리고 반서구주의를 다룬 소설이다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/32020/44/cover/k152834675_1.jpg",
+      "loanCnt": 5581
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 162,
+          "ranking": 12514
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 164,
+          "ranking": 13300
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 123,
+          "ranking": 15727
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 111,
+          "ranking": 14778
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 121,
+          "ranking": 14696
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 116,
+          "ranking": 15508
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 132,
+          "ranking": 16155
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 110,
+          "ranking": 15622
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 89,
+          "ranking": 21499
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 109,
+          "ranking": 16896
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 120,
+          "ranking": 14015
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 86,
+          "ranking": 19613
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "부처스 크로싱",
+          "weight": "21"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아우구스투스",
+          "weight": "15"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토너",
+          "weight": "15"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오직 밤뿐인",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "윌리엄스",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "덴버",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "앤드루스",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대학교",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "II",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "III",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "IV",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발표",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "크로싱",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부처스",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "캔자스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에머슨",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "도착",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "산골",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "밀러",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자연주의",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마을",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "들소",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문학",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "심취",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "VIII",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서부",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1965년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1960년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1972년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1948년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시집",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1870년대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영미소설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미출간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마지막",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "VII",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사냥꾼",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3부",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2부",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구픽",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "VI",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1부",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생활",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "냉엄",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "트러스트 :에르난 디아스 장편소설 ",
+          "authors": "지은이: 에르난 디아스 ;옮긴이: 강동혁",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954691673",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698199",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954695053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "authors": "지은이: 김기태",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9788954697941",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흐르는 강물처럼",
+          "authors": "셸리 리드 (지은이), 김보람 (옮긴이)",
+          "publisher": "다산책방",
+          "publication_year": "2024",
+          "isbn13": "9791130649672",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "스토너 :존 윌리엄스 장편소설 ",
+          "authors": "지은이: 존 윌리엄스 ;옮긴이: 김승욱",
+          "publisher": "RHK(알에이치코리아)",
+          "publication_year": "2015",
+          "isbn13": "9788925554990",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우연은 비켜 가지 않는다 :줄리언 반스 장편소설 ",
+          "authors": "지은이: 줄리언 반스 ;옮긴이: 정영목",
+          "publisher": "다산북스",
+          "publication_year": "2024",
+          "isbn13": "9791130655925",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "authors": "지은이: 김금희",
+          "publisher": "창비",
+          "publication_year": "2024",
+          "isbn13": "9788936439651",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "오직 밤뿐인 :존 윌리엄스 소설 ",
+          "authors": "지은이: 존 윌리엄스 ;옮긴이: 정세윤",
+          "publisher": "구픽",
+          "publication_year": "2020",
+          "isbn13": "9791187886471",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아우구스투스 :존 윌리엄스 장편소설 ",
+          "authors": "지은이: 존 윌리엄스 ;옮긴이: 조영학",
+          "publisher": "구픽",
+          "publication_year": "2016",
+          "isbn13": "9791195651474",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우리가 작별 인사를 할 때마다 ",
+          "authors": "마거릿 렌클 지음 ;최정수 옮김",
+          "publisher": "을유문화사",
+          "publication_year": "2023",
+          "isbn13": "9788932475011",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "운명의 꼭두각시 :윌리엄 트레버 장편소설 ",
+          "authors": "지은이: 윌리엄 트레버 ;옮긴이: 김연",
+          "publisher": "한겨레엔",
+          "publication_year": "2023",
+          "isbn13": "9791160405835",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "알려진 세계 :장편소설 ",
+          "authors": "지은이: 에드워드 P. 존스 ;옮긴이: 이승학",
+          "publisher": "섬과 달",
+          "publication_year": "2024",
+          "isbn13": "9791198042026",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바닷가의 루시 :엘리자베스 스트라우트 장편소설 ",
+          "authors": "지은이: 엘리자베스 스트라우트 ;옮긴이: 정연희",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141606787",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "트러스트 :에르난 디아스 장편소설 ",
+          "authors": "지은이: 에르난 디아스 ;옮긴이: 강동혁",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954691673",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이주하는 인류 :인구 대이동과 그들이 써내려간 역동의 세계사 ",
+          "authors": "샘 밀러 지음 ;최정숙 옮김",
+          "publisher": "미래의창",
+          "publication_year": "2023",
+          "isbn13": "9791192519135",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "추락 :J.M. 쿳시 장편소설 ",
+          "authors": "지은이: J.M. 쿳시 ;옮긴이: 왕은철",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141600150",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "핫 밀크 :데버라 리비 장편소설 ",
+          "authors": "지은이: 데버라 리비 ;옮긴이: 권경희",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934954408",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "트러스트 :에르난 디아스 장편소설 ",
+          "authors": "지은이: 에르난 디아스 ;옮긴이: 강동혁",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954691673",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698199",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954695053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우연은 비켜 가지 않는다 :줄리언 반스 장편소설 ",
+          "authors": "지은이: 줄리언 반스 ;옮긴이: 정영목",
+          "publisher": "다산북스",
+          "publication_year": "2024",
+          "isbn13": "9791130655925",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "그녀를 지키다 :장바티스트 앙드레아 장편소설 ",
+          "authors": "지은이: 장바티스트 앙드레아 ;옮긴이: 정혜용",
+          "publisher": "열린책들",
+          "publication_year": "2025",
+          "isbn13": "9788932924984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "authors": "지은이: 김기태",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9788954697941",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "authors": "지은이: 김금희",
+          "publisher": "창비",
+          "publication_year": "2024",
+          "isbn13": "9788936439651",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흐르는 강물처럼",
+          "authors": "셸리 리드 (지은이), 김보람 (옮긴이)",
+          "publisher": "다산책방",
+          "publication_year": "2024",
+          "isbn13": "9791130649672",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

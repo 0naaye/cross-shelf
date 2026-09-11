@@ -1,0 +1,806 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791196893118",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "설민석의 세계사 대모험",
+      "authors": "글: 설민석,그림: 박성일",
+      "publisher": "단꿈아이",
+      "publication_year": "2019",
+      "isbn13": "9791196893118",
+      "addition_symbol": "77900",
+      "vol": "4",
+      "class_no": "909",
+      "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+      "description": "독자들이 재미와 감동이 있는 이야기로 자연스럽게 세계사를 배울 수 있도록 구성한 역사만화이다. 램프 원정대와 함께 넓디넓은 세계를 탐험하며 주요한 세계사 사건을 생생하게 경험하고, 하나의 사건을 다양한 관점으로 바라볼 수 있는 눈을 키울 수 있다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/22692/88/cover/k942636037_1.jpg",
+      "loanCnt": 82383
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1086,
+          "ranking": 515
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1132,
+          "ranking": 506
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 978,
+          "ranking": 528
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 816,
+          "ranking": 612
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 944,
+          "ranking": 530
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 968,
+          "ranking": 475
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1257,
+          "ranking": 337
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 975,
+          "ranking": 394
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 879,
+          "ranking": 625
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 829,
+          "ranking": 727
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 812,
+          "ranking": 681
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 735,
+          "ranking": 786
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 219,
+          "ranking": 591
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 125,
+          "ranking": 361
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 105,
+          "ranking": 602
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 60,
+          "ranking": 261
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 48,
+          "ranking": 586
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 45,
+          "ranking": 58
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 43,
+          "ranking": 643
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 41,
+          "ranking": 643
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 29,
+          "ranking": 319
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 12,
+          "ranking": 687
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 11,
+          "ranking": 467
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "세계사",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "램프",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석의 세계사 대모험",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원정대",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "리더",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "로마",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구성",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이현세 세계사 넓게 보기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경험",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사건",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화로 보는 북유럽 신화",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이탈리아",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생생",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "데이지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "박성일",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "탐험",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "덕목",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "튼튼",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여행",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설쌤",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "약재",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단꿈아이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "알라딘",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2화",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비밀",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가족",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "배우",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사실",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상대",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "4화",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대마법사",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대상",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대성",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "눈썹",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "답안",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "확장",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공정",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공부",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고대",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893132",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893170",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791189001322",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈드림",
+          "publication_year": "2019",
+          "isbn13": "9791189001278",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893187",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791189001261",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893194",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791191496017",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791191496055",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791191496147",
+          "vol": "11"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893132",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791189001322",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2020",
+          "isbn13": "9791196893156",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2020",
+          "isbn13": "9791196893149",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈드림",
+          "publication_year": "2019",
+          "isbn13": "9791189001278",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893170",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893187",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791189001261",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2020",
+          "isbn13": "9791196893125",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893194",
+          "vol": "8"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893132",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893170",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791189001322",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893187",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791196893194",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈드림",
+          "publication_year": "2019",
+          "isbn13": "9791189001278",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791191496017",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791191496055",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791189001261",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 세계사 대모험",
+          "authors": "글: 설민석,그림: 박성일",
+          "publisher": "단꿈아이",
+          "publication_year": "2019",
+          "isbn13": "9791191496000",
+          "vol": "13"
+        }
+      }
+    ]
+  }
+}

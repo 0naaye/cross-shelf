@@ -1,0 +1,782 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791198682550",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "너에게 들려주는 단단한 말",
+      "authors": "김종원 지음",
+      "publisher": "퍼스트펭귄",
+      "publication_year": "2024",
+      "isbn13": "9791198682550",
+      "addition_symbol": "43190",
+      "vol": "",
+      "class_no": "199",
+      "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+      "description": "청소년을 위한 인생철학 에세이다. ‘나’라는 존재와 친구와의 관계, 공부와 성적, 꿈과 진로 등에 관한 고민이 커지는 청소년기는 인생이란 여정에서 어둡고 막막한 터널을 처음으로 마주하는 시기다. 어떤 생각을 키우고, 어떤 마음을 갖느냐에 따라 앞으로 펼쳐질 삶의 모양이 달라질 수도 있기에 저자는 단어 하나, 문장 하나에도 온 마음을 담았다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/34233/47/cover200/k212931234_1.jpg",
+      "loanCnt": 17429
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1460,
+          "ranking": 220
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1420,
+          "ranking": 260
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1347,
+          "ranking": 200
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1095,
+          "ranking": 261
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1026,
+          "ranking": 405
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 988,
+          "ranking": 445
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1090,
+          "ranking": 539
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 824,
+          "ranking": 707
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 916,
+          "ranking": 552
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 917,
+          "ranking": 543
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 755,
+          "ranking": 827
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 587,
+          "ranking": 1337
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 271,
+          "ranking": 325
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 47,
+          "ranking": 683
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 24,
+          "ranking": 210
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 20,
+          "ranking": 852
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 16,
+          "ranking": 162
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 12,
+          "ranking": 382
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 6,
+          "ranking": 693
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 4,
+          "ranking": 468
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "33"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생각",
+          "weight": "16"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인생",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "너에게 들려주는 단단한 말",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "태도",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "청소년",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "처음",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "집필",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "하루",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "멘토",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인문학",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자신",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "관계",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문장",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고민",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소통",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "친구",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모양",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단단",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "터널",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "반복",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "존재",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강연",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "7가지",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대학",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "결국",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "순간",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부모 인문학 수업",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "각종",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감정",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부모",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단체",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "년간",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우리 아이 첫 인문학 사전",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대한민국",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마주",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "66일 공부머리 대화법",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "누적",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에세이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "당당",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간은 노력하는 한 방황한다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "막막",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "망치",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인문교육",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여정",
+          "weight": "3"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "authors": "지은이: 유은실",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949123493",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부모의 어휘력 :정확히 말할수록 아이의 세상이 커지는 필수 어휘 126 ",
+          "authors": "김종원 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2024",
+          "isbn13": "9791168271999",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "죽이고 싶은 아이 :이꽃님 장편소설 ",
+          "authors": "지은이: 이꽃님",
+          "publisher": "우리학교",
+          "publication_year": "2021",
+          "isbn13": "9791190337755",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "여름을 한 입 베어 물었더니 :이꽃님 장편소설 ",
+          "authors": "글쓴이: 이꽃님",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954694575",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "너에게 들려주는 꿋꿋한 말 ",
+          "authors": "김종원 지음",
+          "publisher": "퍼스트펭귄",
+          "publication_year": "2025",
+          "isbn13": "9791199349209",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 그림을 보며 어른이 되었다 :오답노트 같았던 삶에 그림이 알려준 것들 ",
+          "authors": "이유리 지음",
+          "publisher": "수오서재",
+          "publication_year": "2024",
+          "isbn13": "9791193238455",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "탱탱볼 :강이라 장편소설 ",
+          "authors": "지은이: 강이라",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141607135",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "살아갈 날들을 위한 괴테의 시 ",
+          "authors": "지은이: 김종원 ;일러스트: 황예나",
+          "publisher": "퍼스트펭귄",
+          "publication_year": "2025",
+          "isbn13": "9791199040311",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부모의 질문력 :스스로 생각하고 답을 찾는 아이로 키우는 인문학 질문 100 ",
+          "authors": "김종원 지음",
+          "publisher": "다산북스",
+          "publication_year": "2025",
+          "isbn13": "9791130663135",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부모의 어휘력 :정확히 말할수록 아이의 세상이 커지는 필수 어휘 126 ",
+          "authors": "김종원 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2024",
+          "isbn13": "9791168271999",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "김종원의 진짜 부모 공부 - 부모와 아이 모두 행복해지는 하루 10분 필사의 기적",
+          "authors": "김종원 (지은이), 미세스 손그림 (삽화)",
+          "publisher": "북로그컴퍼니",
+          "publication_year": "2023",
+          "isbn13": "9791168030688",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "신화의 숲 :신비로운 옛 신전이 품은 26가지 이야기 씨앗 ",
+          "authors": "김헌 지음",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506448",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "지금 사랑한다고 말하세요 :당신에게 들려주고 싶은 80가지 짧은 이야기 ",
+          "authors": "김창옥 지음",
+          "publisher": "수오서재",
+          "publication_year": "2024",
+          "isbn13": "9791193238363",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바빌론의 부자 멘토와 꼬마 제자 :철학이 있는 부자가 들려주는 돈에 대한 가르침 ",
+          "authors": "조지 S. 클레이슨 지음 ;김용준 옮김",
+          "publisher": "퍼스트펭귄(퍼스트펭귄 콘텐츠)",
+          "publication_year": "2024",
+          "isbn13": "9791198682529",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "너에게 들려주는 꿋꿋한 말 ",
+          "authors": "김종원 지음",
+          "publisher": "퍼스트펭귄",
+          "publication_year": "2025",
+          "isbn13": "9791199349209",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "authors": "지은이: 유은실",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949123493",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부모의 어휘력 :정확히 말할수록 아이의 세상이 커지는 필수 어휘 126 ",
+          "authors": "김종원 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2024",
+          "isbn13": "9791168271999",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

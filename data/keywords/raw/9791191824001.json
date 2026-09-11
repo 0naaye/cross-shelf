@@ -1,0 +1,822 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791191824001",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "지구 끝의 온실 :김초엽 장편소설",
+      "authors": "지은이: 김초엽",
+      "publisher": "Giant Books(자이언트북스)",
+      "publication_year": "2021",
+      "isbn13": "9791191824001",
+      "addition_symbol": "03810",
+      "vol": "",
+      "class_no": "813.7",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "첫 작품집 『우리가 빛의 속도로 갈 수 없다면』을 통해 이미 폭넓은 독자층을 형성하며 열렬한 사랑을 받고 있는 김초엽 작가는 더스트로 멸망한 이후의 세계를 첫 장편소설의 무대로 삼았다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/27692/63/cover/k082733434_1.jpg",
+      "loanCnt": 91714
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1929,
+          "ranking": 72
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1800,
+          "ranking": 108
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1587,
+          "ranking": 105
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1406,
+          "ranking": 112
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1322,
+          "ranking": 182
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1358,
+          "ranking": 166
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1712,
+          "ranking": 115
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1352,
+          "ranking": 150
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1348,
+          "ranking": 172
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1249,
+          "ranking": 213
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1352,
+          "ranking": 144
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1179,
+          "ranking": 190
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 272,
+          "ranking": 321
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 262,
+          "ranking": 14
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 183,
+          "ranking": 153
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 117,
+          "ranking": 5
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 84,
+          "ranking": 238
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 81,
+          "ranking": 21
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 57,
+          "ranking": 4
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 37,
+          "ranking": 332
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 36,
+          "ranking": 17
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 29,
+          "ranking": 319
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 21,
+          "ranking": 162
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 19,
+          "ranking": 105
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 8,
+          "ranking": 126
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "김초엽",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "장편소설",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정원",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "놀이터는 24시",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "내일은 초인간",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모스바나",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지구 끝의 온실",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "빙글빙글 우주군",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한국 과학소설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기묘",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "식물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "멸망",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "덩굴식물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Giant Books 자이언트북스",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구성",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아영",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "명의",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생명력",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "멀리",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "매료",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "형성",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상상력",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "배명훈",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무대",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방치",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무성",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문장",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발표",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "반년",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문제",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노인",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2017년",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2019년",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "247",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2장",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "387",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "390",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3장",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "8월",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학자",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "괴담",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그다운",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김중혁",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2021년",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단편소설",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "더스트",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "더스트생태연구센터",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "우리가 빛의 속도로 갈 수 없다면 :김초엽 소설 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "허블",
+          "publication_year": "2019",
+          "isbn13": "9791190090018",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "authors": "지은이: 천선란",
+          "publisher": "허블",
+          "publication_year": "2020",
+          "isbn13": "9791190090261",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681179",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "authors": "지은이: 정해연",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681155",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "authors": "지은이: 이미예",
+          "publisher": "팩토리나인",
+          "publication_year": "2020",
+          "isbn13": "9791165341909",
+          "vol": "1-2 :"
+        }
+      },
+      {
+        "book": {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "authors": "룰루 밀러 지음 ;정지인 옮김",
+          "publisher": "곰출판",
+          "publication_year": "2021",
+          "isbn13": "9791189327156",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "방금 떠나온 세계 :김초엽 소설집 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "한겨레엔",
+          "publication_year": "2021",
+          "isbn13": "9791160406504",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "므레모사 :김초엽 소설 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "H(현대문학)",
+          "publication_year": "2021",
+          "isbn13": "9791167900821",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "행성어 서점 :김초엽 짧은 소설 ",
+          "authors": "지은이: 김초엽 ;그린이: 최인호",
+          "publisher": "마음산책",
+          "publication_year": "2021",
+          "isbn13": "9788960907003",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우리가 빛의 속도로 갈 수 없다면 :김초엽 소설 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "허블",
+          "publication_year": "2019",
+          "isbn13": "9791190090018",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "파견자들 :김초엽 장편소설 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "퍼블리온",
+          "publication_year": "2023",
+          "isbn13": "9791191587524",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "지구에서 한아뿐 :친환경 SF 러브 로망 ",
+          "authors": "지은이: 정세랑",
+          "publisher": "자음과모음",
+          "publication_year": "2012",
+          "isbn13": "9788954427159",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "칵테일, 러브, 좀비 ",
+          "authors": "지은이: 조예은",
+          "publisher": "안전가옥",
+          "publication_year": "2020",
+          "isbn13": "9791190174756",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어떤 물질의 사랑 :천선란 소설집 ",
+          "authors": "지은이: 천선란",
+          "publisher": "아작",
+          "publication_year": "2020",
+          "isbn13": "9791165508340",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "지구에서 한아뿐 :정세랑 장편소설 ",
+          "authors": "지은이: 정세랑",
+          "publisher": "난다",
+          "publication_year": "2019",
+          "isbn13": "9791188862290",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "해저도시 타코야키 :김청귤 연작소설집 ",
+          "authors": "지은이: 김청귤",
+          "publisher": "인플루엔셜",
+          "publication_year": "2023",
+          "isbn13": "9791168340930",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "우리가 빛의 속도로 갈 수 없다면 :김초엽 소설 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "허블",
+          "publication_year": "2019",
+          "isbn13": "9791190090018",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "천 개의 파랑 :천선란 장편소설 ",
+          "authors": "지은이: 천선란",
+          "publisher": "허블",
+          "publication_year": "2020",
+          "isbn13": "9791190090261",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "양면의 조개껍데기 :김초엽 소설집 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "인플루엔셜",
+          "publication_year": "2025",
+          "isbn13": "9791168343108",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

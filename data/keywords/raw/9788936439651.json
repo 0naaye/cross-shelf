@@ -1,0 +1,830 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788936439651",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "대온실 수리 보고서 :김금희 장편소설",
+      "authors": "지은이: 김금희",
+      "publisher": "창비",
+      "publication_year": "2024",
+      "isbn13": "9788936439651",
+      "addition_symbol": "03810",
+      "vol": "",
+      "class_no": "813.7",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "창경궁 대온실을 둘러싼 가슴 저릿한 역사와 미완으로 남은 인간의 소망을 재건하는 아름다운 시도 마침내 탄생한 김금희의 역작!이야기의 아름다움을 증명해온 소설가 김금희가 장편소설 『대온실 수리 보고서』를 선보인다. 살아남은 역사의 잔재인 창경궁 대온실을 배경으로 한 가슴 아픈 역사와 인간에 대한 믿음을 저버리지 않으려는 신념을 감동적으로 보여주는 작품으로, 김금희 소설세계를 한차원 새롭게 열며 근래 보기 드문 풍성한 장편소설의 진면목을 보여주는 대작이다. 30대 여성 ‘영두’가 창경궁 대온실 보수공사의 백서를 기록하는 일을 맡게 되면서 이야기는 시작된다. 영두는 석모도 출신으로, 중학생 때 창덕궁 담장을 따라 형성된 서울의 동네인 원서동에서 유학을 한 경험이 있다. 어떤 이유 때문인지 ‘창경궁’이라는 말을 듣고는 마음이 서늘해지는 것을 느끼며 처음엔 백서를 기록하는 일을 맡기를 꺼린다. 그곳에서 아주 크게 인생이 꺾이는 일이 있었다는 듯이.",
+      "bookImageURL": "https://image.aladin.co.kr/product/34712/24/cover200/8936439650_2.jpg",
+      "loanCnt": 19372
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 2307,
+          "ranking": 35
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 2251,
+          "ranking": 38
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 2005,
+          "ranking": 38
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1728,
+          "ranking": 41
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1697,
+          "ranking": 69
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1809,
+          "ranking": 46
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 2039,
+          "ranking": 54
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1661,
+          "ranking": 63
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1646,
+          "ranking": 73
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1553,
+          "ranking": 92
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1391,
+          "ranking": 135
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1304,
+          "ranking": 136
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 278,
+          "ranking": 301
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 222,
+          "ranking": 67
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 190,
+          "ranking": 37
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 172,
+          "ranking": 56
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 59,
+          "ranking": 83
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 40,
+          "ranking": 153
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 30,
+          "ranking": 519
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 27,
+          "ranking": 544
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 22,
+          "ranking": 789
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 18,
+          "ranking": 143
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 16,
+          "ranking": 268
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 11,
+          "ranking": 406
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 10,
+          "ranking": 958
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 7,
+          "ranking": 174
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "김금희",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "창경궁",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대온실 수리 보고서",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대온실",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "장편소설",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "백서",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영두",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기록",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가슴",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "잔재",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소설세계",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인생",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "석모도",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서울",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "중학생",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여성",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "형성",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "출신",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "처음",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아주",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아름다움",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "창덕궁",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신념",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서늘",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보수공사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "증명",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이유",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경험",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "근래",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2000년대 이후 한국소설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "담장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대작",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동네",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "진면목",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원서동에",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "30대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "배경",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "믿음",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한차원",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "창비",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역작",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2015년",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2020년",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김승옥문학상",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보고서",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "authors": "지은이: 김기태",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9788954697941",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "첫 여름, 완주 :김금희 장편소설 ",
+          "authors": "저자 : 김금희",
+          "publisher": "무제",
+          "publication_year": "2025",
+          "isbn13": "9791197221989",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "급류 :정대건 장편소설 ",
+          "authors": "지은이: 정대건",
+          "publisher": "민음사",
+          "publication_year": "2022",
+          "isbn13": "9788937473401",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "authors": "지은이: 정해연",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681155",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954695053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "나의 폴라 일지 :김금희 산문 ",
+          "authors": "지은이: 김금희",
+          "publisher": "한겨레엔",
+          "publication_year": "2025",
+          "isbn13": "9791172132057",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "명랑한 이시봉의 짧고 투쟁 없는 삶 :이기호 장편소설 ",
+          "authors": "지은이: 이기호",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141610869",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우연은 비켜 가지 않는다 :줄리언 반스 장편소설 ",
+          "authors": "지은이: 줄리언 반스 ;옮긴이: 정영목",
+          "publisher": "다산북스",
+          "publication_year": "2024",
+          "isbn13": "9791130655925",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "첫 여름, 완주 :김금희 장편소설 ",
+          "authors": "저자 : 김금희",
+          "publisher": "무제",
+          "publication_year": "2025",
+          "isbn13": "9791197221989",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "노 피플 존 :정이현 소설 ",
+          "authors": "지은이: 정이현",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141613433",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "그녀를 지키다 :장바티스트 앙드레아 장편소설 ",
+          "authors": "지은이: 장바티스트 앙드레아 ;옮긴이: 정혜용",
+          "publisher": "열린책들",
+          "publication_year": "2025",
+          "isbn13": "9788932924984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "authors": "지은이: 김기태",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9788954697941",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "빛과 멜로디 :조해진 장편소설 ",
+          "authors": "지은이: 조해진",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141607241",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "오직 그녀의 것 :김혜진 장편소설 ",
+          "authors": "지은이: 김혜진",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602628",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "봄밤의 모든 것 :백수린 소설집 ",
+          "authors": "지은이: 백수린",
+          "publisher": "문학과지성사",
+          "publication_year": "2025",
+          "isbn13": "9788932043500",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "첫 여름, 완주 :김금희 장편소설 ",
+          "authors": "저자 : 김금희",
+          "publisher": "무제",
+          "publication_year": "2025",
+          "isbn13": "9791197221989",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "authors": "지은이: 김기태",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9788954697941",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "급류 :정대건 장편소설 ",
+          "authors": "지은이: 정대건",
+          "publisher": "민음사",
+          "publication_year": "2022",
+          "isbn13": "9788937473401",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "authors": "지은이: 정해연",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681155",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

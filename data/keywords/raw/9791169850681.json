@@ -1,0 +1,726 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791169850681",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "깨진 틈이 있어야 그 사이로 빛이 들어온다 :차라투스트라는 이렇게 말했다",
+      "authors": "프리드리히 니체 지음 ;김신종 옮김",
+      "publisher": "Page2(페이지2북스)",
+      "publication_year": "2024",
+      "isbn13": "9791169850681",
+      "addition_symbol": "03100",
+      "vol": "",
+      "class_no": "165.77",
+      "class_nm": "철학 > 서양철학 > 독일, 오스트리아철학",
+      "description": "“그대들의 희망이 삶을 밝히는 등불이 되게 하라”철학자들의 철학자 니체가 전하는 삶의 지혜* “현대 철학은 대부분 니체 덕으로 살아왔고, 여전히 니체 적으로 살아가고 있다.”_질 들뢰즈* “이 책은 철학과 문학, 예언이 일체를 이룬 예술작품이다.”_칼 야스퍼스* “우리의 질문은 니체를 어떻게 진지하게 써먹을 수 있는가가 되어야 한다.” _미셸 푸코『깨진 틈이 있어야 그 사이로 빛이 들어온다(원제: 차라투스트라는 이렇게 말했다)』는 서양철학의 전통을 뿌리째 뒤흔들고, 20세기 이후의 사상적 흐름에 선구자적인 역할을 한 혁명적인 사상가 ‘망치를 든 철학자’ 니체의 대표작이다.기존의 엄정한 철학서와는 달리 문학적 설정을 취하고 있는 이 작품은 은둔자 차라투스트라가 10년 동안 산속에서 고행하며 얻은 깨달음을 전하기 위해 산에서 내려오면서 이야기가 시작된다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/33511/66/cover/k182938550_1.jpg",
+      "loanCnt": 6030
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 172,
+          "ranking": 11635
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 166,
+          "ranking": 13113
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 150,
+          "ranking": 12389
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 124,
+          "ranking": 12903
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 131,
+          "ranking": 13409
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 157,
+          "ranking": 10740
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 175,
+          "ranking": 11582
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 134,
+          "ranking": 12416
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 126,
+          "ranking": 14561
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 143,
+          "ranking": 12258
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 123,
+          "ranking": 13627
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 115,
+          "ranking": 14128
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 4,
+          "ranking": 468
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "대하",
+          "weight": "48"
+        }
+      },
+      {
+        "keyword": {
+          "word": "니체",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "차라투스트라",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "철학",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "철학자",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노래",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비극의 탄생",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자신",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "프리드리히 니체",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자들",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "차라투스트라는 이렇게 말했다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고독",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이 사람을 보라",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간적인 너무나도 인간적인",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "반시대적 고찰",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "권력에의 의지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "산속",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선악의 저편",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사상가",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "의지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "도덕의 계보학",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "20세기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방랑자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사상적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사유",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기존",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김신종  옮긴이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개의",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "깨달음",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "엄정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뿌리째",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "쇼펜하우어",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "목표",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서판",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선구자적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "은둔자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역할",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아바타",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서양철학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "위대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "들뢰즈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "희망",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "망치",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "남에게 보여주려고 인생을 낭비하지 마라 :쇼펜하우어 소품집 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2023",
+          "isbn13": "9791169850445",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼자일 수 없다면 나아갈 수 없다 :프리드리히 니체 아포리즘 ",
+          "authors": "프리드리히 니체 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506387",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나를 소모하지 않는 현명한 태도에 관하여 ",
+          "authors": "마티아스 뇔케 지음 ;이미옥 옮김",
+          "publisher": "퍼스트펭귄",
+          "publication_year": "2024",
+          "isbn13": "9791198682505",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "당신의 인생이 왜 힘들지 않아야 한다고 생각하십니까 :쇼펜하우어 아포리즘 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2023",
+          "isbn13": "9791192625553",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "authors": "장재형 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2022",
+          "isbn13": "9791192300245",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(2500년 동안 사랑받은) 초역 부처의 말 :행복으로 가는 길은 없다 행복이 곧 길이다 ",
+          "authors": "코이케 류노스케 지음 ;박재현 옮김",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506516",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 세속적인 지혜 :400년 동안 사랑받은 인생의 고전 ",
+          "authors": "발타자르 그라시안 지음 ;강정선 옮김",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2023",
+          "isbn13": "9791169850179",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "혼자일 수 없다면 나아갈 수 없다 :프리드리히 니체 아포리즘 ",
+          "authors": "프리드리히 니체 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506387",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "삶이라는 지옥을 건너는 70가지 방법 :어제의 불행이 오늘의 행복이 되는 쇼펜하우어의 지혜 ",
+          "authors": "이동용 지음",
+          "publisher": "청림출판",
+          "publication_year": "2024",
+          "isbn13": "9791155402306",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "시간의 지배자 :사피엔스를 지구의 정복자로 만든 예지의 과학",
+          "authors": "토머스 서든도프,조은영 옮김",
+          "publisher": "디플롯",
+          "publication_year": "2024",
+          "isbn13": "9791193591123",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왜 너는 편하게 살고자 하는가 ",
+          "authors": "프리드리히 니체 지음 ;김요한 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2024",
+          "isbn13": "9791192372600",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "니체: 《차라투스트라는 이렇게 말했다》 해설서 ",
+          "authors": "정동호 지음",
+          "publisher": "책세상",
+          "publication_year": "2021",
+          "isbn13": "9791159316869",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "몽테뉴의 살아있는 생각 ",
+          "authors": "앙드레 지드 지음 ;오웅석 옮김",
+          "publisher": "서교책방",
+          "publication_year": "2025",
+          "isbn13": "9791198944023",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "니체의 인간학 =약함, 비열함, 선량함과 싸우는 까칠한 철학자 /The anthropology of friedrich Nietzsche ",
+          "authors": "나카지마 요시미치 지음 ;이지수 옮김",
+          "publisher": "다산북스",
+          "publication_year": "2016",
+          "isbn13": "9791130609508",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "인생에 한번은 차라투스트라 :니체와 함께 내 삶의 리듬을 찾는 '차라투스트라' 인문학 강의 ",
+          "authors": "이진우 지음",
+          "publisher": "휴머니스트출판그룹",
+          "publication_year": "2020",
+          "isbn13": "9791160804607",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바꿀 수 없는 것에 인생을 소모하지 마라 :세네카 인생 학교 ",
+          "authors": "알베르트 키츨러 지음 ;최지수 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2025",
+          "isbn13": "9788901294711",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "결코 나의 운명을 원망하지 않으리라 :쇼펜하우어의 인생에 대한 조언(1851) ",
+          "authors": "아르투어 쇼펜하우어 지음 ;김요한 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2024",
+          "isbn13": "9791192372655",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "남에게 보여주려고 인생을 낭비하지 마라 :쇼펜하우어 소품집 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;박제헌 옮김",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2023",
+          "isbn13": "9791169850445",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼자일 수 없다면 나아갈 수 없다 :프리드리히 니체 아포리즘 ",
+          "authors": "프리드리히 니체 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506387",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나를 소모하지 않는 현명한 태도에 관하여 ",
+          "authors": "마티아스 뇔케 지음 ;이미옥 옮김",
+          "publisher": "퍼스트펭귄",
+          "publication_year": "2024",
+          "isbn13": "9791198682505",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "당신의 인생이 왜 힘들지 않아야 한다고 생각하십니까 :쇼펜하우어 아포리즘 ",
+          "authors": "아르투어 쇼펜하우어 지음 ;김욱 편역",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2023",
+          "isbn13": "9791192625553",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "위버멘쉬 :누구의 시선도 아닌, 내 의지대로 살겠다는 선언 ",
+          "authors": "프리디리히 니체 지음 ;어나니머스 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2025",
+          "isbn13": "9791192372730",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(2500년 동안 사랑받은) 초역 부처의 말 :행복으로 가는 길은 없다 행복이 곧 길이다 ",
+          "authors": "코이케 류노스케 지음 ;박재현 옮김",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506516",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 니체 =지금 이순간을 살기 위한 철학 수업 /Nietzsche ",
+          "authors": "장재형 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2022",
+          "isbn13": "9791192300245",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

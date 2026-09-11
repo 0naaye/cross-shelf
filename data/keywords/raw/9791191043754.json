@@ -1,0 +1,846 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791191043754",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "세상의 마지막 기차역",
+      "authors": "무라세 다케시 지음 ;김지연 옮김",
+      "publisher": "바이포엠 스튜디오",
+      "publication_year": "2022",
+      "isbn13": "9791191043754",
+      "addition_symbol": "03830",
+      "vol": "",
+      "class_no": "833.6",
+      "class_nm": "문학 > 일본문학 > 소설",
+      "description": "봄이 시작되는 3월, 급행열차 한 대가 탈선해 절벽 아래로 떨어졌다. 수많은 중상자를 낸 이 대형 사고 때문에 유가족은 순식간에 사랑하는 가족, 연인을 잃었다. 그렇게 두 달이 흘렀을까. 사람들 사이에서 이상한 소문이 돌기 시작하는데….",
+      "bookImageURL": "https://image.aladin.co.kr/product/29442/51/cover/k762837520_1.jpg",
+      "loanCnt": 62309
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1615,
+          "ranking": 149
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1386,
+          "ranking": 275
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1140,
+          "ranking": 343
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 979,
+          "ranking": 365
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1073,
+          "ranking": 343
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1301,
+          "ranking": 193
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1644,
+          "ranking": 130
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1404,
+          "ranking": 127
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1386,
+          "ranking": 159
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1137,
+          "ranking": 286
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1127,
+          "ranking": 255
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 989,
+          "ranking": 332
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 283,
+          "ranking": 282
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 129,
+          "ranking": 396
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 105,
+          "ranking": 9
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 94,
+          "ranking": 755
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 91,
+          "ranking": 13
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 88,
+          "ranking": 181
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 68,
+          "ranking": 27
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 66,
+          "ranking": 374
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 41,
+          "ranking": 12
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 37,
+          "ranking": 19
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 35,
+          "ranking": 381
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 28,
+          "ranking": 65
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 26,
+          "ranking": 529
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 25,
+          "ranking": 4
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 22,
+          "ranking": 789
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 19,
+          "ranking": 189
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "세상의 마지막 기차역",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사고",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "판타지",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "열차",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유령",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "니시유이가하마",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "좋은 아침입니다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연인",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마지막",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유가족",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "킹 오브 콩트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "틱톡",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감동",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소개",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "폭소 레드카펫",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독자",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "중상자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "처음",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "외국판타지 환상소설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무라세 다케시",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바이포엠 스튜디오",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아픔",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "절벽",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "탈선",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대형",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가면",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "입소문",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가족",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소문",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "현실",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "규칙",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "급행열차",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김지연",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일본",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자신",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3월",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "데뷔작",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "浅草は今日もにぎやかです",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경고",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "휴머니즘",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단숨",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "달쯤",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "돌기",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바다가 들리는 편의점 ",
+          "authors": "마치다 소노코 지음 ;황국영 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2023",
+          "isbn13": "9791192579504",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "오늘 밤, 세계에서 이 사랑이 사라진다 해도 ",
+          "authors": "이치조 미사키 지음 ;권영주 옮김",
+          "publisher": "바이포엠",
+          "publication_year": "2021",
+          "isbn13": "9791191043297",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어느 날, 내 죽음에 네가 들어왔다 ",
+          "authors": "세이카 료겐 지음 ;김윤경 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2022",
+          "isbn13": "9791191043723",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다 ",
+          "authors": "지은이: 이미예",
+          "publisher": "팩토리나인",
+          "publication_year": "2020",
+          "isbn13": "9791165341909",
+          "vol": "1-2 :"
+        }
+      },
+      {
+        "book": {
+          "bookname": "오늘 밤, 세계에서 이 눈물이 사라진다 해도 ",
+          "authors": "이치조 미사키 지음 ;김윤경 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2022",
+          "isbn13": "9791191043976",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "어느 날, 내 죽음에 네가 들어왔다 ",
+          "authors": "세이카 료겐 지음 ;김윤경 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2022",
+          "isbn13": "9791191043723",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세상의 마지막 우체국 ",
+          "authors": "무라세 다케시 지음 ;김지연 옮김",
+          "publisher": "오팬하우스",
+          "publication_year": "2025",
+          "isbn13": "9791175770348",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별의 건너편 ",
+          "authors": "시미즈 하루키 지음 ;김지연 옮김",
+          "publisher": "모모",
+          "publication_year": "2023",
+          "isbn13": "9791192579689",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "네가 유성처럼 스러지는 모습을 지켜볼 운명이었다 ",
+          "authors": "미나토 쇼 지음 ;황누리 옮김",
+          "publisher": "필름",
+          "publication_year": "2024",
+          "isbn13": "9791193262214",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "네가 마지막으로 남긴 노래 ",
+          "authors": "이치조 미사키 지음 ;김윤경 옮김",
+          "publisher": "바이포엠",
+          "publication_year": "2021",
+          "isbn13": "9791191043532",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별의 건너편 ",
+          "authors": "시미즈 하루키 지음 ;김지연 옮김",
+          "publisher": "모모",
+          "publication_year": "2023",
+          "isbn13": "9791193358092",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "오늘 밤, 세계에서 이 눈물이 사라진다 해도 ",
+          "authors": "이치조 미사키 지음 ;김윤경 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2022",
+          "isbn13": "9791191043976",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나와 너의 365일 :유이하 장편소설 ",
+          "authors": "지은이: 유이하 ;옮긴이: 김지연",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2023",
+          "isbn13": "9791192579450",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이별하는 방법을 가르쳐줘 ",
+          "authors": "이치조 미사키 지음 ;김윤경 옮김",
+          "publisher": "오팬하우스",
+          "publication_year": "2024",
+          "isbn13": "9791194293415",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "오늘 밤, 세계에서 이 사랑이 사라진다 해도 ",
+          "authors": "이치조 미사키 지음 ;권영주 옮김",
+          "publisher": "바이포엠",
+          "publication_year": "2021",
+          "isbn13": "9791191043297",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "바다가 들리는 편의점 ",
+          "authors": "마치다 소노코 지음 ;황국영 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2023",
+          "isbn13": "9791192579504",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "오늘 밤, 세계에서 이 사랑이 사라진다 해도 ",
+          "authors": "이치조 미사키 지음 ;권영주 옮김",
+          "publisher": "바이포엠",
+          "publication_year": "2021",
+          "isbn13": "9791191043297",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나의 돈키호테 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2024",
+          "isbn13": "9791161571768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어느 날, 내 죽음에 네가 들어왔다 ",
+          "authors": "세이카 료겐 지음 ;김윤경 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2022",
+          "isbn13": "9791191043723",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바다가 들리는 편의점",
+          "authors": "마치다 소노코 지음 ;황국영 옮김",
+          "publisher": "오팬하우스",
+          "publication_year": "2023",
+          "isbn13": "9791192579887",
+          "vol": "2"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,790 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791158883591",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "부자 아빠 가난한 아빠 :20주년 특별 기념판",
+      "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환",
+      "publisher": "민음인",
+      "publication_year": "2018",
+      "isbn13": "9791158883591",
+      "addition_symbol": "03320",
+      "vol": "",
+      "class_no": "327.04",
+      "class_nm": "사회과학 > 경제학 > 금융",
+      "description": "『부자 아빠 가난한 아빠 1』의 내용에 세계 금융 변화에 맞춘 41개의 ‘20년 전 그리고 오늘’과 토론과 실천을 위한 10가지 ‘스터디세션’ 등 원고지 500매 분량이 추가된 업그레이드 에디션.",
+      "bookImageURL": "http://image.aladin.co.kr/product/13492/56/cover/k162532501_1.jpg",
+      "loanCnt": 82115
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 995,
+          "ranking": 655
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1006,
+          "ranking": 743
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 997,
+          "ranking": 499
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 996,
+          "ranking": 348
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 967,
+          "ranking": 496
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 937,
+          "ranking": 543
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1057,
+          "ranking": 597
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 821,
+          "ranking": 716
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 832,
+          "ranking": 735
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 810,
+          "ranking": 761
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 795,
+          "ranking": 720
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 739,
+          "ranking": 776
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 121,
+          "ranking": 448
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 82,
+          "ranking": 203
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 72,
+          "ranking": 10
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 56,
+          "ranking": 494
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 36,
+          "ranking": 46
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 32,
+          "ranking": 451
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 11,
+          "ranking": 467
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 8,
+          "ranking": 481
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 6,
+          "ranking": 231
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "부자",
+          "weight": "26"
+        }
+      },
+      {
+        "keyword": {
+          "word": "투자",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "금융",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부자 아빠 가난한 아빠 1",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "20년",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아빠",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Session",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Study",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가난",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교훈",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "내용",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부자 아빠 가난한 아빠",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Chapter",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아버지",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자산",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "변화",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오늘",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "분량",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "10가지",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시장",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "추가",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부채",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교육",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "500매",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기술",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "실천",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세월",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "토론",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정보",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "재테크 투자 일반",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독자",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세금",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스터디세션",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기존",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "20년간",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "민음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오늘날",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사고방식",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국내",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발견",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에디션",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "래리 킹 라이브",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "USA  투데이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "업그레이드",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상식",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "분야",
+          "weight": "3"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부자 아빠 가난한 아빠 =부자들이 들려주는 돈 관리 7가지 방법.Rich dad poor dad ",
+          "authors": "로버트 기요사키,형선호 옮김",
+          "publisher": "황금가지",
+          "publication_year": "2000",
+          "isbn13": "9788982732508",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부의 추월차선 :부자들이 말해 주지 않는 진정한 부를 얻는 방법 ",
+          "authors": "엠제이 드마코 지음 ;신소영 옮김",
+          "publisher": "북새통",
+          "publication_year": "2013",
+          "isbn13": "9788994702346",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "원씽 :복잡한 세상을 이기는 단순함의 힘 ",
+          "authors": "게리 켈러,구세희 옮김",
+          "publisher": "비즈니스북스",
+          "publication_year": "2013",
+          "isbn13": "9788997575169",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "타이탄의 도구들 :1만 시간의 법칙을 깬 거인들의 61가지 전략 ",
+          "authors": "팀 페리스 지음 ;정지현 옮김",
+          "publisher": "Tornado(토네이도)",
+          "publication_year": "2017",
+          "isbn13": "9791158510619",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(EBS 다큐프라임) 자본주의 ",
+          "authors": "EBS MEDIA 기획 ;EBS <자본주의> 제작팀 지음",
+          "publisher": "가나문화콘텐츠",
+          "publication_year": "2013",
+          "isbn13": "9788957365793",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부의 추월차선 :부자들이 말해 주지 않는 진정한 부를 얻는 방법 ",
+          "authors": "엠제이 드마코 지음 ;신소영 옮김",
+          "publisher": "북새통",
+          "publication_year": "2022",
+          "isbn13": "9791187444725",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "부자 아빠 가난한 아빠 =부자들이 들려주는 돈 관리 7가지 방법.Rich dad poor dad ",
+          "authors": "로버트 기요사키,형선호 옮김",
+          "publisher": "황금가지",
+          "publication_year": "2000",
+          "isbn13": "9788982732508",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(부자 아빠의) 세컨드 찬스 :위기야말로 두 번째 기회다 ",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환",
+          "publisher": "민음인",
+          "publication_year": "2017",
+          "isbn13": "9791158882242",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(부자 아빠의)투자 가이드",
+          "authors": "로버트 기요사키;형선호 옮김",
+          "publisher": "황금가지",
+          "publication_year": "2000",
+          "isbn13": "9788982732645",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부자의 조건, 금융 IQ ",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 김현정",
+          "publisher": "황금가지",
+          "publication_year": "2011",
+          "isbn13": "9788994210728",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(부자 아빠의) 자녀 교육법",
+          "authors": "로버트 기요사키,형선호 옮김",
+          "publisher": "황금가지",
+          "publication_year": "2007",
+          "isbn13": "9788982732997",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왜 A학생은 C학생 밑에서 일하게 되는가 그리고 왜 B학생은 공무원이 되는가 :부자 아빠가 들려주는 자녀의 인생을 변화시키는 법 ",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 안진환",
+          "publisher": "민음인",
+          "publication_year": "2014",
+          "isbn13": "9788960173651",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(부자 아빠 기요사키가 말하는) 부자들의 음모 ",
+          "authors": "로버트 기요사키 지음 ;윤영삼 옮김",
+          "publisher": "흐름출판",
+          "publication_year": "2010",
+          "isbn13": "9788990872968",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "페이크 :가짜 뉴스와 정보에서 진짜 돈과 자산을 지켜라 ",
+          "authors": "지은이: 로버트 기요사키 ;옮긴이: 박슬라",
+          "publisher": "민음인",
+          "publication_year": "2019",
+          "isbn13": "9791158885342",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부의 추월차선 :부자들이 말해 주지 않는 진정한 부를 얻는 방법 ",
+          "authors": "엠제이 드마코 지음 ;신소영 옮김",
+          "publisher": "북새통",
+          "publication_year": "2022",
+          "isbn13": "9791187444725",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부의 추월차선 :부자들이 말해 주지 않는 진정한 부를 얻는 방법 ",
+          "authors": "엠제이 드마코 지음 ;신소영 옮김",
+          "publisher": "북새통",
+          "publication_year": "2013",
+          "isbn13": "9788994702346",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "돈의 속성 :최상위 부자가 말하는 돈에 대한 모든 것 ",
+          "authors": "지은이: 김승호",
+          "publisher": "Snowfox(스노우폭스북스)",
+          "publication_year": "2020",
+          "isbn13": "9791188331796",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세이노의 가르침 :피보다 진하게 살아라 ",
+          "authors": "세이노 지음",
+          "publisher": "데이원",
+          "publication_year": "2023",
+          "isbn13": "9791168473690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 심리학 :당신은 왜 부자가 되지 못했는가 ",
+          "authors": "모건 하우절 지음 ;이지연 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056372",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불변의 법칙 :절대 변하지 않는 것들에 대한 23가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 이수경",
+          "publisher": "서삼독",
+          "publication_year": "2024",
+          "isbn13": "9791198517425",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈은 좋지만 재테크는 겁나는 너에게 ",
+          "authors": "뿅글이 지음",
+          "publisher": "첨단",
+          "publication_year": "2023",
+          "isbn13": "9788960306134",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "퓨처 셀프 :현재와 미래가 달라지는 놀라운 혁명 ",
+          "authors": "벤저민 하디 지음 ;최은아 옮김",
+          "publisher": "상상스퀘어",
+          "publication_year": "2023",
+          "isbn13": "9791192389325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "박곰희 연금 부자 수업 :4개의 통장으로 월 300만원 만들기 ",
+          "authors": "박곰희 지음",
+          "publisher": "인플루엔셜",
+          "publication_year": "2025",
+          "isbn13": "9791168342941",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나의 돈 많은 고등학교 친구 :슈퍼리치와의 대화에서 찾아낸 부자의 길 ",
+          "authors": "송희구 지음",
+          "publisher": "서삼독",
+          "publication_year": "2023",
+          "isbn13": "9791165347161",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

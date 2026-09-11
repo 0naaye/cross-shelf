@@ -1,0 +1,862 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791171712267",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "놓지 마 과학!",
+      "authors": "글·그림: 신태훈,나승훈",
+      "publisher": "위즈덤하우스",
+      "publication_year": "2016",
+      "isbn13": "9791171712267",
+      "addition_symbol": "77400",
+      "vol": "19",
+      "class_no": "408",
+      "class_nm": "자연과학 > 자연과학 > 전집, 총서",
+      "description": "한국에서 137만 부, 일본에서 63부가 넘게 판매된 한일 베스트셀러, &lt;놓지 마 과학!&gt; 19권이 출간되었다. 이번 책은 오랜만에 신태훈, 나승훈 콤비의 유머 센스가 돋보이는 일상 단편 에피소드 구성으로 다시 돌아왔다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/34155/83/cover200/k032931590_1.jpg",
+      "loanCnt": 18642
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1531,
+          "ranking": 183
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1614,
+          "ranking": 162
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1420,
+          "ranking": 164
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1274,
+          "ranking": 150
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1408,
+          "ranking": 144
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1419,
+          "ranking": 142
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1595,
+          "ranking": 155
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1413,
+          "ranking": 124
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1348,
+          "ranking": 172
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1325,
+          "ranking": 176
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1255,
+          "ranking": 189
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1189,
+          "ranking": 183
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 319,
+          "ranking": 220
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 238,
+          "ranking": 31
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 202,
+          "ranking": 53
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 136,
+          "ranking": 339
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 106,
+          "ranking": 36
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 97,
+          "ranking": 65
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 96,
+          "ranking": 726
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 85,
+          "ranking": 81
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 60,
+          "ranking": 299
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 59,
+          "ranking": 9
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 37,
+          "ranking": 170
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 28,
+          "ranking": 566
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 25,
+          "ranking": 550
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 24,
+          "ranking": 791
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 20,
+          "ranking": 98
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 19,
+          "ranking": 305
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 15,
+          "ranking": 679
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 9,
+          "ranking": 665
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "과학",
+          "weight": "30"
+        }
+      },
+      {
+        "keyword": {
+          "word": "놓지 마 과학",
+          "weight": "24"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신문",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "놓지 마 정신줄",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "라면",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주리",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동물",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모기",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지식",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정신",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "반응",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일본",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나승훈",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신태훈",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "눈물",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우울",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교과",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수프",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "끓는점",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "중력",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "철새",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "놓지 마 과학 애니메이션",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지구",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학적",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정신이의 과학 신문",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "햇빛",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2019년",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이번",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "몸무게",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발간-",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방법",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "19권",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "콤비",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비밀",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "홀쭉이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아빠",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "암수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2014년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뿌지직",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "홍훈기  감수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구성",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학 일반",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사슴",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연계표",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에센스",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시즌",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "빨간색",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168126336",
+          "vol": "18"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168122369",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168120266",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190630184",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791191766318",
+          "vol": "15"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190908184",
+          "vol": "14"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190305310",
+          "vol": "12"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190182737",
+          "vol": "11"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791189938208",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9788960867093",
+          "vol": "5"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168126336",
+          "vol": "18"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9791173320385",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934926924",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168122369",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글, 그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2020",
+          "isbn13": "9791168120280",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934908296",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 속담",
+          "authors": "글·그림: 신태훈,정보글: 김지현",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934908760",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글, 그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2020",
+          "isbn13": "9791191766615",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168120266",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글, 그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2020",
+          "isbn13": "9791191425987",
+          "vol": "6"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168126336",
+          "vol": "18"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168122369",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168120266",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190630184",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791191766318",
+          "vol": "15"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190908184",
+          "vol": "14"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190305310",
+          "vol": "12"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190182737",
+          "vol": "11"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791189938208",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9788960867093",
+          "vol": "5"
+        }
+      }
+    ]
+  }
+}

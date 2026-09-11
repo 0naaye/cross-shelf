@@ -1,0 +1,830 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791169851053",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "어른의 행복은 조용하다",
+      "authors": "글: 태수",
+      "publisher": "페이지2북스",
+      "publication_year": "2024",
+      "isbn13": "9791169851053",
+      "addition_symbol": "03810",
+      "vol": "",
+      "class_no": "818",
+      "class_nm": "문학 > 한국문학 > 르포르타주 및 기타",
+      "description": "요란한 세상에서도 흔들리지 않고 내 삶을 사는 현명한 행복에 관하여행복을 찾는 방법이 아니라불행에 대한 수비력을 길러주는 58가지 인생 이야기《1cm 다이빙》, 《홈 in 홈》으로 많은 사랑을 받았던 에세이스트 태수가 2년 만의 신작 《어른의 행복은 조용하다》로 돌아왔다. 이번 신작에서 저자 태수는 그동안 선보였던 이야기보다 한층 성숙하고 현명하게 삶의 행복에 가까워지는 방법에 대해 이야기한다. 새로운 것, 짜릿한 것, 남들보다 높은 곳에서 행복하고 싶어 발버둥치는 사람들에게 행복은 꼭 그런 데에만 있는 게 아니라 불행해지지 않는 것에서부터 출발한다고 조용히 알려준다.《어른의 행복은 조용하다》는 요란한 세상에서도 흔들리지 않고 내 삶을 살아가는 튼튼하고 단단한 태도에 대해 말한다. 시끌벅적 기쁜 일을 찾아다니기보다도, 울 일이 없고 별다른 나쁜 일이 없는 하루를 만들어야 한다고 강조한다. 그랬을 때에야 진정한 행복이 우리 곁에 온다는 사실을 다시 한번 일깨워준다.이 책을 먼저 읽은 독자들의 반응 역시 뜨겁다. “울고 싶어지는 날이면 태수 작가의 글을 찾는다. 충분히 울고 다시 나아가기 위해”, “〈불편한 편의점〉 이후로 오랜만에 끝나지 않길 바라던 책”이라며 극찬하고, SNS에서 선보인 선공개 원고에도 빨리 책으로 출간해달라는 요청이 쇄도했다. 이제 당신 차례다. 《어른의 행복은 조용하다》를 읽고 현명하게 행복해질 수 있다. 혹자는 여전히 의심스러운 목소리로 그토록 조용한 인생에서도 행복을 발견할 수 있냐고 묻지만 저자는 확신에 찬 목소리로 단호하게 답한다. “물론”이라고.",
+      "bookImageURL": "https://image.aladin.co.kr/product/35063/62/cover200/k532934196_1.jpg",
+      "loanCnt": 16256
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 2403,
+          "ranking": 30
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 2446,
+          "ranking": 28
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 2420,
+          "ranking": 10
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 2168,
+          "ranking": 10
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 2191,
+          "ranking": 27
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 2376,
+          "ranking": 8
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 2427,
+          "ranking": 30
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 2014,
+          "ranking": 29
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 2240,
+          "ranking": 17
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 2129,
+          "ranking": 27
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1900,
+          "ranking": 40
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1794,
+          "ranking": 40
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 471,
+          "ranking": 53
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 260,
+          "ranking": 16
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 257,
+          "ranking": 41
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 108,
+          "ranking": 21
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 99,
+          "ranking": 147
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 90,
+          "ranking": 915
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 66,
+          "ranking": 85
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 54,
+          "ranking": 81
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 35,
+          "ranking": 224
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 21,
+          "ranking": 405
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 15,
+          "ranking": 451
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 12,
+          "ranking": 272
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 9,
+          "ranking": 735
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 5,
+          "ranking": 312
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "행복",
+          "weight": "26"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "18"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어른의 행복은 조용하다",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불행",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "능력",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인생",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "홈  in  홈",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1cm  다이빙",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "태수",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어른",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "조용",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "현명",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우린",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "용기",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다정",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "체력",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자신",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "위로",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생각",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방법",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독자",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성공",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "평범",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "필요",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아침",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "매일",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "똑똑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우울증보단",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "순간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성격",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "섬세",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "번아웃",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "응원",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신작",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가혹",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1cm",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감옥",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이름",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아내",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기분",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에세이스트",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원고",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나라",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "의외",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사이코패스",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "어른의 품위 =진짜 어른이 되기 위해 지켜야 할 삶의 태도 /Dignity of adults ",
+          "authors": "최서영 지음",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2025",
+          "isbn13": "9791193937693",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "다정한 사람이 이긴다 ",
+          "authors": "이해인 지음",
+          "publisher": "필름",
+          "publication_year": "2025",
+          "isbn13": "9791193262658",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "너를 아끼며 살아라 :나태주 시인이 들려주는 가장 소중한 말 ",
+          "authors": "나태주 지음",
+          "publisher": "더블북",
+          "publication_year": "2025",
+          "isbn13": "9791193153710",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우리의 낙원에서 만나자 =이 계절을 함께 건너는 당신에게 /Meet me in our paradies ",
+          "authors": "하태완 지음",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2025",
+          "isbn13": "9791193937655",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "행복할 거야 이래도 되나 싶을 정도로 :일홍 에세이 ",
+          "authors": "지은이: 일홍",
+          "publisher": "부크럼",
+          "publication_year": "2024",
+          "isbn13": "9791162145043",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "홈 in 홈 :불안과 걱정은 들어올 수 없는 내 마음속 집 ",
+          "authors": "글: 태수",
+          "publisher": "Fika(피카)",
+          "publication_year": "2022",
+          "isbn13": "9791190299701",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "너를 미워할 시간에 나를 사랑하기로 했다 :관계에 휘둘리지 않고 나를 지키는 방법 ",
+          "authors": "윤서진 지음",
+          "publisher": "스몰빅미디어",
+          "publication_year": "2024",
+          "isbn13": "9791191731712",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나의 완벽한 장례식 :조현선 장편소설 ",
+          "authors": "지은이: 조현선",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2026",
+          "isbn13": "9791124038192",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "외롭다면 잘 살고 있는 것이다 :부아c 에세이 ",
+          "authors": "지은이: 부아c",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2025",
+          "isbn13": "9791169851688",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "다정한 사람이 이긴다 ",
+          "authors": "이해인 지음",
+          "publisher": "필름",
+          "publication_year": "2025",
+          "isbn13": "9791193262658",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나의 완벽한 장례식 :조현선 장편소설 ",
+          "authors": "지은이: 조현선",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2026",
+          "isbn13": "9791124038192",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "첫 여름, 완주 :김금희 장편소설 ",
+          "authors": "저자 : 김금희",
+          "publisher": "무제",
+          "publication_year": "2025",
+          "isbn13": "9791197221989",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

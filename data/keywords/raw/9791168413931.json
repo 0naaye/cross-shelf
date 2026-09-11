@@ -1,0 +1,862 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791168413931",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+      "authors": "원작: 흔한남매 ;그림: 유난희",
+      "publisher": "미래엔",
+      "publication_year": "2020",
+      "isbn13": "9791168413931",
+      "addition_symbol": "77400",
+      "vol": "7",
+      "class_no": "400",
+      "class_nm": "자연과학 > 자연과학 > 자연과학",
+      "description": "‘타이어에는 왜 무늬가 있을까?’, ‘드라이아이스는 왜 연기가 날까?’, ‘열쇠는 어떻게 잠긴 문을 열까?’, ‘거짓말 탐지기는 어떤 원리로 작동할까?’ 등 일상에서 한 번쯤은 궁금증을 느껴 봤을 18개의 호기심을 모았다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/30224/42/cover/k502839203_1.jpg",
+      "loanCnt": 62778
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1972,
+          "ranking": 57
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 2152,
+          "ranking": 48
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1834,
+          "ranking": 54
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1672,
+          "ranking": 47
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1780,
+          "ranking": 54
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1751,
+          "ranking": 55
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 2053,
+          "ranking": 50
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1711,
+          "ranking": 53
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1696,
+          "ranking": 64
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1609,
+          "ranking": 78
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1618,
+          "ranking": 67
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1501,
+          "ranking": 70
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 417,
+          "ranking": 83
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 239,
+          "ranking": 28
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 226,
+          "ranking": 39
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 222,
+          "ranking": 38
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 147,
+          "ranking": 285
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 129,
+          "ranking": 6
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 102,
+          "ranking": 50
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 101,
+          "ranking": 48
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 88,
+          "ranking": 68
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 49,
+          "ranking": 156
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 42,
+          "ranking": 204
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 35,
+          "ranking": 202
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 34,
+          "ranking": 192
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 25,
+          "ranking": 744
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 25,
+          "ranking": 550
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 17,
+          "ranking": 364
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 11,
+          "ranking": 406
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 10,
+          "ranking": 588
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "흔한남매의 흔한 호기심",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "타이어",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "호기심",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "퀴즈",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고기",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흔한남매",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무늬",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정보",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "몸풀기",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "거짓말",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "레이튼 미스터리 탐정사무소",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구름",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소리",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "특별",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "드라이아이스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안녕 나의 사춘기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "학습",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "특별 칭찬 상장",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "먼지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바다",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비린내",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "삐빅",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설탕",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "게임",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김치",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안치현",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에피소드",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노래방",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "7화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래엔아이세움",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흔한컴퍼니  감수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "9화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생선",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "간식",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안전",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "5화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "4화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고소",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "8화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마지막",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411852",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168414822",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168410848",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164138982",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168415409",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137923",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137121",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164136032",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168416598",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168412477",
+          "vol": "11"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168414822",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411852",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168415409",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168410848",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168416598",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164138982",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168414488",
+          "vol": "11"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168419018",
+          "vol": "12"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137923",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791173471780",
+          "vol": "13"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168414822",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411852",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168415409",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168410848",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168416598",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168414488",
+          "vol": "11"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164138982",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137923",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164137121",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168419018",
+          "vol": "12"
+        }
+      }
+    ]
+  }
+}

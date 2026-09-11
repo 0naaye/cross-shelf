@@ -1,0 +1,109 @@
+{
+  "response": {
+    "request": {
+      "region": "11",
+      "startDt": "2024-01-01",
+      "endDt": "2024-12-31",
+      "gender": "0",
+      "from_age": "20",
+      "to_age": "29",
+      "pageNo": 1,
+      "pageSize": 5,
+      "format": "json"
+    },
+    "resultNum": 5,
+    "numFound": 5000,
+    "docs": [
+      {
+        "doc": {
+          "no": 1,
+          "ranking": "1",
+          "bookname": "사피엔스 :유인원에서 사이보그까지, 인간 역사의 대담하고 위대한 질문 ",
+          "authors": "지은이: 유발 하라리 ;옮긴이: 조현욱",
+          "publisher": "김영사",
+          "publication_year": "2015",
+          "isbn13": "9788934972464",
+          "addition_symbol": "03900",
+          "vol": "",
+          "class_no": "909",
+          "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+          "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/097/807/09780781.jpg?type=m1&udate=20180721",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=3027835",
+          "loan_count": "161"
+        }
+      },
+      {
+        "doc": {
+          "no": 2,
+          "ranking": "2",
+          "bookname": "도파민네이션 :쾌락 과잉 시대에서 균형 찾기 ",
+          "authors": "애나 렘키 지음 ;김두완 옮김",
+          "publisher": "흐름출판",
+          "publication_year": "2022",
+          "isbn13": "9788965965046",
+          "addition_symbol": "03180",
+          "vol": "",
+          "class_no": "181.71",
+          "class_nm": "철학 > 심리학 > 각론",
+          "bookImageURL": "https://image.aladin.co.kr/product/29125/5/cover/8965965047_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6428072",
+          "loan_count": "137"
+        }
+      },
+      {
+        "doc": {
+          "no": 3,
+          "ranking": "3",
+          "bookname": "역행자 :돈·시간·운명으로부터 완전한 자유를 얻는 7단계 인생 공략집 ",
+          "authors": "자청 지음",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2022",
+          "isbn13": "9788901260716",
+          "addition_symbol": "03320",
+          "vol": "",
+          "class_no": "325.211",
+          "class_nm": "사회과학 > 경제학 > 경영관리",
+          "bookImageURL": "https://image.aladin.co.kr/product/29521/63/cover/8901260719_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=6468069",
+          "loan_count": "132"
+        }
+      },
+      {
+        "doc": {
+          "no": 4,
+          "ranking": "3",
+          "bookname": "공정하다는 착각 :능력주의는 모두에게 같은 기회를 제공하는가 ",
+          "authors": "마이클 샌델 지음 ;함규진 옮김",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791164136452",
+          "addition_symbol": "03300",
+          "vol": "",
+          "class_no": "332.6",
+          "class_nm": "사회과학 > 사회학, 사회문제 > 사회조직 및 제도",
+          "bookImageURL": "https://image.aladin.co.kr/product/25470/6/cover/k092633826_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=5791228",
+          "loan_count": "132"
+        }
+      },
+      {
+        "doc": {
+          "no": 5,
+          "ranking": "5",
+          "bookname": "나미야 잡화점의 기적 :히가시노 게이고 장편소설 ",
+          "authors": "지은이: 히가시노 게이고 ;옮긴이: 양윤옥",
+          "publisher": "현대문학",
+          "publication_year": "2012",
+          "isbn13": "9788972756194",
+          "addition_symbol": "03830",
+          "vol": "",
+          "class_no": "833.6",
+          "class_nm": "문학 > 일본문학 > 소설",
+          "bookImageURL": "http://image.aladin.co.kr/product/15848/6/cover/k622533431_1.jpg",
+          "bookDtlUrl": "https://data4library.kr/bookV?seq=1902173",
+          "loan_count": "128"
+        }
+      }
+    ]
+  }
+}

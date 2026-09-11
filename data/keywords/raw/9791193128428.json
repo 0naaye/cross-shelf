@@ -1,0 +1,758 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791193128428",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "(펼치는 순간 단숨에 6,000년 역사가 읽히는) 요즘 어른을 위한 최소한의 세계사",
+      "authors": "임소미 지음",
+      "publisher": "빅피시",
+      "publication_year": "2023",
+      "isbn13": "9791193128428",
+      "addition_symbol": "03900",
+      "vol": "",
+      "class_no": "909",
+      "class_nm": "역사 > 역사 > 세계사, 세계문화사",
+      "description": "러시아는 왜 우크라이나와 전쟁을 벌이는 걸까? 미국은 언제부터 전 세계를 호령하는 강대국이 되었을까? 《요즘 어른을 위한 최소한의 세계사》는 오늘날 꼭 알아야 할 세계사의 주요 사건을 핵심만 쏙쏙 정리했다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/32447/45/cover/k152935296_1.jpg",
+      "loanCnt": 19701
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 542,
+          "ranking": 2320
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 543,
+          "ranking": 2570
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 480,
+          "ranking": 2440
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 430,
+          "ranking": 2317
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 441,
+          "ranking": 2556
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 445,
+          "ranking": 2529
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 598,
+          "ranking": 2097
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 502,
+          "ranking": 2025
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 445,
+          "ranking": 2586
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 400,
+          "ranking": 3017
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 413,
+          "ranking": 2649
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 461,
+          "ranking": 2132
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 39,
+          "ranking": 293
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 32,
+          "ranking": 351
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 22,
+          "ranking": 789
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 9,
+          "ranking": 665
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 9,
+          "ranking": 735
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "역사",
+          "weight": "23"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전쟁",
+          "weight": "14"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계사",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미국",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문명",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "PART",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "러시아",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "탄생",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "패권",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교양",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이유",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "중국",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영국",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "차지",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계대전",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "쏨작가의 지식사전",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "쏙쏙",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "핵심",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "초강대국",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최초",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대제국",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사건",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "순간",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스페인",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나라",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전쟁사",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "식민지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "20세기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인류",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고대",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "살기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동남아",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동서양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동슬라브",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김봉중  감수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강대국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리텔러",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흥망",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경계",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나일강",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리텔링",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "빅피시",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구독자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신생국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고대사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계사 일반",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계정세",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비밀",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "(5천년 역사가 단숨에 이해되는) 최소한의 한국사 ",
+          "authors": "최태성 지음",
+          "publisher": "프런트페이지",
+          "publication_year": "2023",
+          "isbn13": "9791198243430",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마흔에 읽는 쇼펜하우어 :마음의 위기를 다스리는 철학 수업 ",
+          "authors": "강용수 지음",
+          "publisher": "유노콘텐츠그룹",
+          "publication_year": "2023",
+          "isbn13": "9791192300818",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "(수천 년 세계사의 흐름이 통째로 이해되는) 요즘 어른을 위한 최소한의 전쟁사 ",
+          "authors": "김봉중 지음",
+          "publisher": "빅피시",
+          "publication_year": "2024",
+          "isbn13": "9791193128787",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "요즘 어른을 위한 최소한의 한국사 ",
+          "authors": "임소미 지음",
+          "publisher": "빅피시",
+          "publication_year": "2024",
+          "isbn13": "9791193128992",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(한 권으로 빠르게 끝내는) 세계사 익스프레스 =World history express ",
+          "authors": "김영석 지음",
+          "publisher": "빅피시",
+          "publication_year": "2025",
+          "isbn13": "9791194033509",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(5천년 역사가 단숨에 이해되는) 최소한의 한국사 ",
+          "authors": "최태성 지음",
+          "publisher": "프런트페이지",
+          "publication_year": "2023",
+          "isbn13": "9791198243430",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역사를 보다 :역사를 뒤흔든 결정적 순간의 재밌고 놀라운 재발견 ",
+          "authors": "박현도,허준",
+          "publisher": "믹스커피",
+          "publication_year": "2024",
+          "isbn13": "9791170435488",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(영화보다,) 세계사 :영화가 새로워지고 역사가 재미있어지는 ",
+          "authors": "송영심 글 ;신병근 그림",
+          "publisher": "풀빛",
+          "publication_year": "2023",
+          "isbn13": "9791161728803",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "한번 시작하면 잠들 수 없는 세계사 :문명의 탄생부터 국제 정세까지 거침없이 내달린다 ",
+          "authors": "김도형 지음",
+          "publisher": "빅피시",
+          "publication_year": "2025",
+          "isbn13": "9791199491755",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "요즘 역사 : 근대 - 당신에게 가장 가까운",
+          "authors": "황현필 (지은이)",
+          "publisher": "역바연",
+          "publication_year": "2024",
+          "isbn13": "9791198593276",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "30개 도시로 읽는 세계사 :세계 문명을 단숨에 독파하는 역사 이야기 ",
+          "authors": "조 지무쇼 편저 ;최미숙 옮김",
+          "publisher": "다산북스",
+          "publication_year": "2020",
+          "isbn13": "9791130630366",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꿰뚫는 한국사 :시대를 뒤흔든 문제적 인물들 ",
+          "authors": "홍장원,배상훈 지음",
+          "publisher": "비욘드날리지",
+          "publication_year": "2024",
+          "isbn13": "9791198496645",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "(5천년 역사가 단숨에 이해되는) 최소한의 한국사 ",
+          "authors": "최태성 지음",
+          "publisher": "프런트페이지",
+          "publication_year": "2023",
+          "isbn13": "9791198243430",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "최소한의 삼국지 :최태성의 삼국지 고전 특강 ",
+          "authors": "최태성 지음",
+          "publisher": "프런트페이지",
+          "publication_year": "2025",
+          "isbn13": "9791193401583",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "다시, 역사의 쓸모 :합리적이고 품위 있는 선택을 위한 20가지 지혜 ",
+          "authors": "최태성 지음",
+          "publisher": "프런트페이지",
+          "publication_year": "2024",
+          "isbn13": "9791193401217",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

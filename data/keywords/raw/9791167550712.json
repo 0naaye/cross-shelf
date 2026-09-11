@@ -1,0 +1,717 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791167550712",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "왜 유명한 거야, 이 그림?",
+      "authors": "이유리 글 ;허현경 그림",
+      "publisher": "우리학교",
+      "publication_year": "2022",
+      "isbn13": "9791167550712",
+      "addition_symbol": "73600",
+      "vol": "",
+      "class_no": "650",
+      "class_nm": "예술 > 회화, 도화 > 회화, 도화",
+      "description": "명화를 둘러싼 놀라운 사건들과 화가의 사연, 미술사를 흥미롭고 깊이 있게 알려 주는 어린이 미술 교양서다. '모나리자', '절규', '별이 빛나는 밤', '기억의 지속', '키스' 등 세계적인 명화 열두 작품을 단번에 이해하고 즐겁게 감상할 수 있도록 돕는다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/30176/95/cover/k202839795_1.jpg",
+      "loanCnt": 16425
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 612,
+          "ranking": 1894
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 561,
+          "ranking": 2421
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 376,
+          "ranking": 3497
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 329,
+          "ranking": 3486
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 344,
+          "ranking": 3644
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 315,
+          "ranking": 4153
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 352,
+          "ranking": 4487
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 267,
+          "ranking": 4904
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 297,
+          "ranking": 4612
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 324,
+          "ranking": 4078
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 458,
+          "ranking": 2249
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 529,
+          "ranking": 1645
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "모나리자",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "키스",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그림",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미술",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기억의 지속",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "빨강 파랑 노랑이 있는 구성",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "별이 빛나는 밤",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "절규",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유명",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이삭줍기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우리학교",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단순",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "명화",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "진주 귀걸이를 한 소녀",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비너스의 탄생",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생각하는 사람",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "왜 유명한 거야 이 그림",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상을 바꾼 예술 작품들",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기울어진 미술관",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "화가의 마지막 그림",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "화가의 출세작",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인상 해돋이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이유리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "허현경",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교과서",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "분야",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "빨강",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "눈썹",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영어",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "음악 미술 예체능",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대신",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "파랑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노랑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구성",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사연",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "깊이",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사회부",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "황금",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "너두",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미셸",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "레오나르도",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음에",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "메시지",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "몬드리안",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "머릿속",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "authors": "어윤정 글 ;해마 그림",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954690690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "긴긴밤 ",
+          "authors": "루리 글·그림",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954677158",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "한성이 서울에게 ",
+          "authors": "이현지 글 ;김규택 그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949122021",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "열세 살의 걷기 클럽 :김혜정 창작동화 ",
+          "authors": "지은이: 김혜정 ;그린이: 김연제",
+          "publisher": "사계절(사계절출판사)",
+          "publication_year": "2023",
+          "isbn13": "9791169811361",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "천하제일 치킨 쇼 ",
+          "authors": "이희정 글 ;김무연 그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949121994",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "5번 레인 ",
+          "authors": "은소홀 글 ;노인경 그림",
+          "publisher": "문학동네",
+          "publication_year": "2020",
+          "isbn13": "9788954674638",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "푸른 사자 와니니 :이현 장편동화",
+          "authors": "지은이: 이현 ;그린이: 오윤화",
+          "publisher": "창비",
+          "publication_year": "2015",
+          "isbn13": "9788936442804",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "기소영의 친구들 :정은주 창작동화 ",
+          "authors": "지은이: 정은주 ;그린이: 해랑",
+          "publisher": "사계절(사계절출판사)",
+          "publication_year": "2022",
+          "isbn13": "9791160949797",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세금 내는 아이들 ",
+          "authors": "옥효진 글 ;김미연 그림",
+          "publisher": "한경BP",
+          "publication_year": "2021",
+          "isbn13": "9788947547260",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "하하 자매 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949162539",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "열두 살, 아무에게도 말하지 못한 비밀 ",
+          "authors": "크리스티나 시군스도터 글 ;김인경 옮김",
+          "publisher": "책과콩나무",
+          "publication_year": "2023",
+          "isbn13": "9791192529417",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왜 유명한 거야, 이 그림? :한국 미술 ",
+          "authors": "이유리 글 ;허현경 그림",
+          "publisher": "우리학교",
+          "publication_year": "2025",
+          "isbn13": "9791167553010",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "열두 달 지구하자 :같이 알자 같이 하자! ",
+          "authors": "정다빈,구희 그림",
+          "publisher": "알에이치코리아",
+          "publication_year": "2023",
+          "isbn13": "9788925576510",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(세상을 따뜻하게 만드는) 착한 디자인 이야기 ",
+          "authors": "정유리 글 ;박선하 그림",
+          "publisher": "팜파스",
+          "publication_year": "2020",
+          "isbn13": "9791170263678",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왜 유명한 거야, 이 도시? ",
+          "authors": "박정은 글 ;시은경 그림",
+          "publisher": "우리학교",
+          "publication_year": "2024",
+          "isbn13": "9791167552372",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "갈림길 ",
+          "authors": "글: 윤슬 ;그림: 양양",
+          "publisher": "웅진주니어",
+          "publication_year": "2023",
+          "isbn13": "9788901272597",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "1795년, 정조의 행복한 행차 :화성원행도를 따라가 보다 ",
+          "authors": "윤민용 지음 ;이화 그림",
+          "publisher": "봄볕",
+          "publication_year": "2023",
+          "isbn13": "9791193150184",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "산타 언니의 디지털 세탁소 ",
+          "authors": "우미옥 글 ;최도은 그림",
+          "publisher": "그레이트 Books(그레이트북스)",
+          "publication_year": "2023",
+          "isbn13": "9788927107255",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "초콜릿이 너무 비싸요! :초콜릿 불매 운동을 벌인 캐나다 어린이들 ",
+          "authors": "글: 미셸 멀더 ;옮김: 김루시아",
+          "publisher": "초록개구리",
+          "publication_year": "2023",
+          "isbn13": "9791157822355",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "꽃 아주머니와 비밀의 방 :색다르게 그림을 보는 법 ",
+          "authors": "김지선 글 ;이해정 그림",
+          "publisher": "시금치",
+          "publication_year": "2021",
+          "isbn13": "9788992371872",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "authors": "어윤정 글 ;해마 그림",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954690690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왜 유명한 거야, 이 그림? :한국 미술 ",
+          "authors": "이유리 글 ;허현경 그림",
+          "publisher": "우리학교",
+          "publication_year": "2025",
+          "isbn13": "9791167553010",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "한성이 서울에게 ",
+          "authors": "이현지 글 ;김규택 그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949122021",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "시간 유전자 ",
+          "authors": "김혜정 글 ;인디고 그림",
+          "publisher": "라임",
+          "publication_year": "2024",
+          "isbn13": "9791194028185",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어느 날 문이 사라졌다 ",
+          "authors": "김은영 글 ;메 그림",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141608880",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "열세 살의 걷기 클럽 :김혜정 창작동화 ",
+          "authors": "지은이: 김혜정 ;그린이: 김연제",
+          "publisher": "사계절(사계절출판사)",
+          "publication_year": "2023",
+          "isbn13": "9791169811361",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "언제나 다정 죽집 ",
+          "authors": "우신영 글 ;서영 그림",
+          "publisher": "비룡소",
+          "publication_year": "2024",
+          "isbn13": "9788949122076",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "행운이 구르는 속도 :김성운 창작동화 ",
+          "authors": "지은이: 김성운 ;그린이: 김성라",
+          "publisher": "사계절(사계절출판사)",
+          "publication_year": "2024",
+          "isbn13": "9791169813341",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "긴긴밤 ",
+          "authors": "루리 글·그림",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954677158",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "호랑이를 부탁해 :설상록 장편동화 ",
+          "authors": "글쓴이: 설상록 ;그린이: 메",
+          "publisher": "비룡소",
+          "publication_year": "2025",
+          "isbn13": "9788949122083",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,846 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791141602376",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "안녕이라 그랬어 :김애란 소설",
+      "authors": "지은이: 김애란",
+      "publisher": "문학동네",
+      "publication_year": "2025",
+      "isbn13": "9791141602376",
+      "addition_symbol": "03810",
+      "vol": "",
+      "class_no": "813.7",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "소설가 김애란이 『바깥은 여름』 이후 팔 년 만에 새 소설집으로 돌아왔다. 2022 김승옥문학상 우수상을 수상한 「홈 파티」와 2022 오영수문학상 수상작인 「좋은 이웃」을 비롯해 총 일곱 편의 단편이 수록되어 있다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/36566/52/cover200/k462039240_1.jpg",
+      "loanCnt": 3422
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1341,
+          "ranking": 285
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1982,
+          "ranking": 70
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 2341,
+          "ranking": 18
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 2247,
+          "ranking": 6
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 2347,
+          "ranking": 10
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 2603,
+          "ranking": 6
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 2875,
+          "ranking": 5
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 2476,
+          "ranking": 5
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 2892,
+          "ranking": 5
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 3370,
+          "ranking": 3
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 3538,
+          "ranking": 2
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 3485,
+          "ranking": 1
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 981,
+          "ranking": 1
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 675,
+          "ranking": 1
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 428,
+          "ranking": 8
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 241,
+          "ranking": 2
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 216,
+          "ranking": 25
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 154,
+          "ranking": 136
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 116,
+          "ranking": 14
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 95,
+          "ranking": 13
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 71,
+          "ranking": 12
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 37,
+          "ranking": 168
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 31,
+          "ranking": 75
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 24,
+          "ranking": 210
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 23,
+          "ranking": 58
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 12,
+          "ranking": 335
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 12,
+          "ranking": 272
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 7,
+          "ranking": 174
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "홈 파티",
+          "weight": "15"
+        }
+      },
+      {
+        "keyword": {
+          "word": "좋은 이웃",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공간",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안녕이라 그랬어",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김애란",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바깥은 여름",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소설집",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수상작",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "레몬케이크",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문학동네",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이번",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오영수문학상",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발휘",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수록",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우수",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김승옥문학상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "숲속 작은 집",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "표현",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사회적",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사건",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "명료",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신형철",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여전",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "딜레마적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문학평론가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2013년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이웃",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부여",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2000년대 이후 한국소설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방문",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정서적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "집주인",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "입자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단편",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가운데",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강력",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주인공",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "장소",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "예리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "쌓아올리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "젊은작가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "중층적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "특유",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "특장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "능력",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "물음",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "첫 여름, 완주 :김금희 장편소설 ",
+          "authors": "저자 : 김금희",
+          "publisher": "무제",
+          "publication_year": "2025",
+          "isbn13": "9791197221989",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "급류 :정대건 장편소설 ",
+          "authors": "지은이: 정대건",
+          "publisher": "민음사",
+          "publication_year": "2022",
+          "isbn13": "9788937473401",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "authors": "지은이: 정해연",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681155",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "authors": "지은이: 김금희",
+          "publisher": "창비",
+          "publication_year": "2024",
+          "isbn13": "9788936439651",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "백지 앞에서 :최은영 산문 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2026",
+          "isbn13": "9791141603373",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나의 완벽한 장례식 :조현선 장편소설 ",
+          "authors": "지은이: 조현선",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2026",
+          "isbn13": "9791124038192",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바다에서 온 소년 :개럿 카 소설 ",
+          "authors": "지은이: 개럿 카 ;옮긴이: 이은선",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2026",
+          "isbn13": "9791124038338",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "노 피플 존 :정이현 소설 ",
+          "authors": "지은이: 정이현",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141613433",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "괴테는 모든 것을 말했다 ",
+          "authors": "스즈키 유이 지음 ;이지수 옮김",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2025",
+          "isbn13": "9791194530701",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "할매 =황석영 장편소설 /Grandma ",
+          "authors": "지은이: 황석영",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439880",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아무도 오지 않는 곳에서",
+          "authors": "천선란 (지은이)",
+          "publisher": "허블",
+          "publication_year": "2025",
+          "isbn13": "9791193078709",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "첫 여름, 완주 :김금희 장편소설 ",
+          "authors": "저자 : 김금희",
+          "publisher": "무제",
+          "publication_year": "2025",
+          "isbn13": "9791197221989",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "첫 여름, 완주 :김금희 장편소설 ",
+          "authors": "저자 : 김금희",
+          "publisher": "무제",
+          "publication_year": "2025",
+          "isbn13": "9791197221989",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "급류 :정대건 장편소설 ",
+          "authors": "지은이: 정대건",
+          "publisher": "민음사",
+          "publication_year": "2022",
+          "isbn13": "9788937473401",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "authors": "지은이: 정해연",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681155",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나의 완벽한 장례식 :조현선 장편소설 ",
+          "authors": "지은이: 조현선",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2026",
+          "isbn13": "9791124038192",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "괴테는 모든 것을 말했다 ",
+          "authors": "스즈키 유이 지음 ;이지수 옮김",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2025",
+          "isbn13": "9791194530701",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

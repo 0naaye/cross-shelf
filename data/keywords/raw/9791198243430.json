@@ -1,0 +1,838 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791198243430",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "(5천년 역사가 단숨에 이해되는) 최소한의 한국사",
+      "authors": "최태성 지음",
+      "publisher": "프런트페이지",
+      "publication_year": "2023",
+      "isbn13": "9791198243430",
+      "addition_symbol": "03910",
+      "vol": "",
+      "class_no": "911",
+      "class_nm": "역사 > 아시아(아세아) > 한국",
+      "description": "‘외워야 할 것 많고 어려운 한국사, 쉽고 빠르고 재미있게 핵심 내용만 알 수는 없을까?’ 많은 사람이 역사 공부에 앞서 마음에 품는 이 질문에 답하기 위해 대한민국 대표 역사 강사 최태성이 나섰다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/31888/53/cover/k452833633_1.jpg",
+      "loanCnt": 28747
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 928,
+          "ranking": 804
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 975,
+          "ranking": 814
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 828,
+          "ranking": 849
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 692,
+          "ranking": 954
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 650,
+          "ranking": 1313
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 980,
+          "ranking": 456
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1187,
+          "ranking": 391
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1033,
+          "ranking": 335
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1134,
+          "ranking": 303
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 959,
+          "ranking": 479
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 903,
+          "ranking": 492
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 842,
+          "ranking": 528
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 244,
+          "ranking": 431
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 117,
+          "ranking": 476
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 70,
+          "ranking": 264
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 60,
+          "ranking": 437
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 41,
+          "ranking": 135
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 36,
+          "ranking": 351
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 30,
+          "ranking": 152
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 26,
+          "ranking": 603
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 23,
+          "ranking": 58
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 23,
+          "ranking": 712
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 22,
+          "ranking": 372
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 18,
+          "ranking": 121
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 14,
+          "ranking": 339
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 9,
+          "ranking": 403
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 5,
+          "ranking": 312
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "역사",
+          "weight": "25"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한국사",
+          "weight": "20"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최소한의 한국사",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "조선",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강국",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최태성",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이해",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고조선",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강사",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대한민국",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "핵심",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대표",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "건국",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문화",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수강생",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "외교",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정치사",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "반만년",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고려",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "누적",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고구려",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "통일",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사가",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단숨",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개혁",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "벌거벗은 한국사",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한반도",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공부",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교과서",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국가",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교양",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사저널 그날",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "분기점",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "5천",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "혼란",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "질문",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사건",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일제강점기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "몰락",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "등장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문벌",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공민왕",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "맥락",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2000년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2333년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "6 15",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무신시대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무역",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문화유산",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "(펼치는 순간 단숨에 6,000년 역사가 읽히는) 요즘 어른을 위한 최소한의 세계사 ",
+          "authors": "임소미 지음",
+          "publisher": "빅피시",
+          "publication_year": "2023",
+          "isbn13": "9791193128428",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "역사의 쓸모 :자유롭고 떳떳한 삶을 위한 22가지 통찰 ",
+          "authors": "최태성 지음",
+          "publisher": "다산북스",
+          "publication_year": "2019",
+          "isbn13": "9791130621968",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "다시, 역사의 쓸모 :합리적이고 품위 있는 선택을 위한 20가지 지혜 ",
+          "authors": "최태성 지음",
+          "publisher": "프런트페이지",
+          "publication_year": "2024",
+          "isbn13": "9791193401217",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "(역사멘토 최태성의) 한국사",
+          "authors": "지은이: 최태성",
+          "publisher": "푸른들녘",
+          "publication_year": "2018",
+          "isbn13": "9791159253379",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "최태성 한국사 수업 :한국사 강의가 책에서 들린다 ",
+          "authors": "지은이: 최태성 ;그린이: 신동민",
+          "publisher": "메가스터디",
+          "publication_year": "2018",
+          "isbn13": "9791129701855",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(역사멘토 최태성의) 한국사",
+          "authors": "지은이: 최태성",
+          "publisher": "푸른들녘",
+          "publication_year": "2018",
+          "isbn13": "9791159253294",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(펼치는 순간 단숨에 6,000년 역사가 읽히는) 요즘 어른을 위한 최소한의 세계사 ",
+          "authors": "임소미 지음",
+          "publisher": "빅피시",
+          "publication_year": "2023",
+          "isbn13": "9791193128428",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "요즘 어른을 위한 최소한의 한국사 ",
+          "authors": "임소미 지음",
+          "publisher": "빅피시",
+          "publication_year": "2024",
+          "isbn13": "9791193128992",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "벌거벗은 한국사 :격동의 500년이 단숨에 이해되는 스토리텔링 고려사",
+          "authors": "지은이: tvN story <벌거벗은 한국사> 제작팀,전덕재",
+          "publisher": "프런트페이지",
+          "publication_year": "2024",
+          "isbn13": "9791193401125",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "벌거벗은 한국사 :본격 우리 역사 스토리텔링쇼",
+          "authors": "지은이: tvN story <벌거벗은 한국사> 제작팀,조재철",
+          "publisher": "프런트페이지",
+          "publication_year": "2023",
+          "isbn13": "9791193401057",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "다시, 역사의 쓸모 :합리적이고 품위 있는 선택을 위한 20가지 지혜 ",
+          "authors": "최태성 지음",
+          "publisher": "프런트페이지",
+          "publication_year": "2024",
+          "isbn13": "9791193401217",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "벌거벗은 한국사 :본격 우리 역사 스토리텔링쇼",
+          "authors": "tvN story <벌거벗은 한국사> 제작팀,홍문기 지음",
+          "publisher": "프런트페이지",
+          "publication_year": "2023",
+          "isbn13": "9791198243409",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "벌거벗은 한국사 :500년 역사가 눈앞에 펼쳐지는 스토리텔링 조선사",
+          "authors": "지은이: tvN story <벌거벗은 한국사> 제작팀,홍문기",
+          "publisher": "프런트페이지",
+          "publication_year": "2024",
+          "isbn13": "9791193401095",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "최소한의 삼국지 :최태성의 삼국지 고전 특강 ",
+          "authors": "최태성 지음",
+          "publisher": "프런트페이지",
+          "publication_year": "2025",
+          "isbn13": "9791193401583",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(펼치는 순간 단숨에 6,000년 역사가 읽히는) 요즘 어른을 위한 최소한의 세계사 ",
+          "authors": "임소미 지음",
+          "publisher": "빅피시",
+          "publication_year": "2023",
+          "isbn13": "9791193128428",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "다시, 역사의 쓸모 :합리적이고 품위 있는 선택을 위한 20가지 지혜 ",
+          "authors": "최태성 지음",
+          "publisher": "프런트페이지",
+          "publication_year": "2024",
+          "isbn13": "9791193401217",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      }
+    ]
+  }
+}

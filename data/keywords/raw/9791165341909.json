@@ -1,0 +1,854 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791165341909",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "달러구트 꿈 백화점 :주문하신 꿈은 매진입니다",
+      "authors": "지은이: 이미예",
+      "publisher": "팩토리나인",
+      "publication_year": "2020",
+      "isbn13": "9791165341909",
+      "addition_symbol": "03810",
+      "vol": "1-2 :",
+      "class_no": "813.7",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "이미예 장편소설. 잠들어야만 입장할 수 있는 독특한 마을. 그곳에 들어온 잠든 손님들에게 가장 인기 있는 곳은, 온갖 꿈을 한데 모아 판매하는 '달러구트의 꿈 백화점'이다. 긴 잠을 자는 사람들은 물론이고, 짧은 낮잠을 자는 사람들과 동물들로 매일매일 대성황을 이룬다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/24512/70/cover/k392630952_1.jpg",
+      "loanCnt": 163900
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 2133,
+          "ranking": 39
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1989,
+          "ranking": 68
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1605,
+          "ranking": 101
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1418,
+          "ranking": 108
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1504,
+          "ranking": 107
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1618,
+          "ranking": 81
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 2051,
+          "ranking": 51
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1579,
+          "ranking": 76
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1594,
+          "ranking": 91
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1494,
+          "ranking": 108
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1457,
+          "ranking": 113
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1295,
+          "ranking": 139
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 434,
+          "ranking": 72
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 209,
+          "ranking": 92
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 178,
+          "ranking": 49
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 117,
+          "ranking": 390
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 115,
+          "ranking": 131
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 71,
+          "ranking": 47
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 62,
+          "ranking": 34
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 58,
+          "ranking": 46
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 49,
+          "ranking": 63
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 49,
+          "ranking": 170
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 45,
+          "ranking": 6
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 39,
+          "ranking": 17
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 34,
+          "ranking": 318
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 31,
+          "ranking": 264
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 24,
+          "ranking": 120
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 23,
+          "ranking": 100
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 10,
+          "ranking": 73
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "달러구트 꿈 백화점",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "종이책",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베스트셀러",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "펀딩",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전자책",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "별점",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독자",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "달러구트의 꿈 백화점",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "매진",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이미예",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "달러구트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "페니",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주문",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기록",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아가넵 코코",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "요청",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마이어스",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "팩토리나인",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "판타지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "달성",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사례",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "눈물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자고",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "종합",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "텀블벅",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비고",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한국판타지 환상소설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "벤젠고리",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베일",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "면접",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모아",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "범상치",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무의식",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발표",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "반도체",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동물",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3주간",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가게",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "갈등",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공개",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공부",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국내",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "환불",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "5점",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대성황",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대소동",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독특",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "달러구트 꿈 백화점 :이미예 장편소설",
+          "authors": "지은이: 이미예",
+          "publisher": "팩토리나인",
+          "publication_year": "2021",
+          "isbn13": "9791165343729",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아몬드 :손원평 장편소설 ",
+          "authors": "지은이: 손원평",
+          "publisher": "창비",
+          "publication_year": "2017",
+          "isbn13": "9788936434267",
+          "vol": "22"
+        }
+      },
+      {
+        "book": {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "authors": "지은이: 유은실",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949123493",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세상의 마지막 기차역 ",
+          "authors": "무라세 다케시 지음 ;김지연 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2022",
+          "isbn13": "9791191043754",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "지구 끝의 온실 :김초엽 장편소설 ",
+          "authors": "지은이: 김초엽",
+          "publisher": "Giant Books(자이언트북스)",
+          "publication_year": "2021",
+          "isbn13": "9791191824001",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "달러구트 꿈 백화점 :이미예 장편소설",
+          "authors": "지은이: 이미예",
+          "publisher": "팩토리나인",
+          "publication_year": "2021",
+          "isbn13": "9791165343729",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "달러구트 꿈 백화점 :이미예 장편소설",
+          "authors": "지은이: 이미예",
+          "publisher": "팩토리나인",
+          "publication_year": "2022",
+          "isbn13": "9791165345686",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 사진관 =윤정은 장편소설 /Marigold mind photo studio ",
+          "authors": "글: 윤정은",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2024",
+          "isbn13": "9791198530325",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "미드나잇 라이브러리 ",
+          "authors": "매트 헤이그 지음 ;노진선 옮김",
+          "publisher": "인플루엔셜",
+          "publication_year": "2021",
+          "isbn13": "9791191056556",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "달러구트 꿈 백화점 :이미예 장편소설 ",
+          "authors": "지은이: 이미예",
+          "publisher": "팩토리나인",
+          "publication_year": "2021",
+          "isbn13": "9791165344252",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "비가 오면 열리는 상점 =유영광 장편소설 /The rainbow goblin store ",
+          "authors": "지은이: 유영광",
+          "publisher": "클레이하우스",
+          "publication_year": "2023",
+          "isbn13": "9791198173898",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "달러구트 꿈 백화점 :이미예 장편소설",
+          "authors": "지은이: 이미예",
+          "publisher": "팩토리나인",
+          "publication_year": "2021",
+          "isbn13": "9791165343729",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바다가 들리는 편의점 ",
+          "authors": "마치다 소노코 지음 ;황국영 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2023",
+          "isbn13": "9791192579504",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나의 돈키호테 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2024",
+          "isbn13": "9791161571768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세상의 마지막 기차역 ",
+          "authors": "무라세 다케시 지음 ;김지연 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2022",
+          "isbn13": "9791191043754",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 사진관 =윤정은 장편소설 /Marigold mind photo studio ",
+          "authors": "글: 윤정은",
+          "publisher": "책읽어주는남자",
+          "publication_year": "2024",
+          "isbn13": "9791198530325",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

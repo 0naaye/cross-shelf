@@ -1,0 +1,734 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791193506981",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "아이의 뇌 =뇌과학에서 찾아낸 4가지 양육 원칙 /A child's brain",
+      "authors": "김붕년 지음",
+      "publisher": "콘텐츠그룹 포레스트",
+      "publication_year": "2024",
+      "isbn13": "9791193506981",
+      "addition_symbol": "03590",
+      "vol": "",
+      "class_no": "598.1",
+      "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+      "description": "뇌 발달의 결정적 시기에 맞추어 사고력, 공감력, 실행력을 고루 성장시킬 수 있는 실질적이고 구체적인 양육 지침이 담겨 있다. 김붕년 교수는 30여 년 동안 발달뇌과학자로 살아온 학자의 통찰력과 두 아이를 키워낸 아빠의 경험을 넘나들며 때로는 날카롭게, 때로는 따뜻하게 진심 어린 조언을 건넨다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/35358/34/cover200/k692035892_1.jpg",
+      "loanCnt": 5948
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 924,
+          "ranking": 813
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 892,
+          "ranking": 1026
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 825,
+          "ranking": 854
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 630,
+          "ranking": 1154
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 631,
+          "ranking": 1378
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 561,
+          "ranking": 1718
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 560,
+          "ranking": 2321
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 434,
+          "ranking": 2527
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 526,
+          "ranking": 1929
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 528,
+          "ranking": 1893
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 441,
+          "ranking": 2383
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 506,
+          "ranking": 1800
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 168,
+          "ranking": 195
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 28,
+          "ranking": 412
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "아이",
+          "weight": "16"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이들",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부모",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아들의 뇌",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소아청소년정신과",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교수",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Part",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최고",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "행복",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김붕년",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뇌과학",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정서",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "행동",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "육아",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지능",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발달",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국내",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "양육",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "진료",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "필요",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부모 클래스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "곽윤정",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소개",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제시",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발달뇌과학",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이의 뇌",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유퀴즈 온 더 블럭",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문제",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "권위자",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "4가지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "ADHD",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서울대",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지침",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원칙",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이유",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3년",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "탁월",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "솔루션",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상상력",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "tvN",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경보",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서울대학교",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "결정적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고치",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생각",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "천 번을 흔들리며 아이는 어른이 됩니다 :사춘기 성장 근육을 키우는 뇌·마음 만들기 ",
+          "authors": "김붕년 지음",
+          "publisher": "21세기북스(북이십일 21세기북스)",
+          "publication_year": "2024",
+          "isbn13": "9791171178636",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+          "authors": "나민애 지음",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934965404",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "최민준의 아들코칭 백과 :기질 파악부터 말공부, 사회성, 감정코칭까지 ",
+          "authors": "최민준 글 ;신예원 그림",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2023",
+          "isbn13": "9791168127531",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부모의 어휘력 :정확히 말할수록 아이의 세상이 커지는 필수 어휘 126 ",
+          "authors": "김종원 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2024",
+          "isbn13": "9791168271999",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "4~7세 조절하는 뇌 흔들리고 회복하는 뇌 :조절 능력·정서 지능으로 키우는 '공부 뇌' 발달 골든타임 육아 ",
+          "authors": "김붕년 지음",
+          "publisher": "대성 Korea.com",
+          "publication_year": "2023",
+          "isbn13": "9791190488471",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 다정한 관찰자가 되기로 했다 :불안에 휘둘리지 않는 단단한 태도에 관하여 ",
+          "authors": "이은경 지음",
+          "publisher": "서교책방",
+          "publication_year": "2024",
+          "isbn13": "9791198752406",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+          "authors": "지나영 지음",
+          "publisher": "21세기북스(북이십일 21세기북스)",
+          "publication_year": "2022",
+          "isbn13": "9788950941819",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아이에게 딱 하나만 가르친다면, 자기 조절 :7세부터 13세까지 성취하는 아이로 성장하게 하는 가장 강력한 무기 ",
+          "authors": "김효원 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2025",
+          "isbn13": "9791192097954",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "스스로 해내는 아이의 비밀 :스탠퍼드대 박사 엄마의 뇌과학 컨설팅 ",
+          "authors": "김보경 지음",
+          "publisher": "J포럼(제이포럼)",
+          "publication_year": "2024",
+          "isbn13": "9791198710444",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "조선미의 현실 육아 상담소 ",
+          "authors": "조선미 지음",
+          "publisher": "북하우스",
+          "publication_year": "2023",
+          "isbn13": "9791164052035",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "나보다 똑똑하게 키우고 싶어요 :0~12세 두뇌 & 행복 발달 육아법 ",
+          "authors": "김붕년 지음",
+          "publisher": "Designhouse(디자인하우스)",
+          "publication_year": "2019",
+          "isbn13": "9788970417332",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아이의 친구 관계 :뇌과학이 알려 주는 사회성 발달의 황금 법칙 ",
+          "authors": "김붕년 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2026",
+          "isbn13": "9791168274297",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(아이의 행동이 저절로 바뀌는) 훈육의 정석 :뇌과학이 알려주는 세상에서 가장 쉬운 육아법 ",
+          "authors": "김보경 지음",
+          "publisher": "빅피시",
+          "publication_year": "2025",
+          "isbn13": "9791194033523",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "천 번을 흔들리며 아이는 어른이 됩니다 :사춘기 성장 근육을 키우는 뇌·마음 만들기 ",
+          "authors": "김붕년 지음",
+          "publisher": "21세기북스(북이십일 21세기북스)",
+          "publication_year": "2024",
+          "isbn13": "9791171178636",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "4~7세 조절하는 뇌 흔들리고 회복하는 뇌 :조절 능력·정서 지능으로 키우는 '공부 뇌' 발달 골든타임 육아 ",
+          "authors": "김붕년 지음",
+          "publisher": "대성 Korea.com",
+          "publication_year": "2023",
+          "isbn13": "9791190488471",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아이에게 딱 하나만 가르친다면, 자기 조절 :7세부터 13세까지 성취하는 아이로 성장하게 하는 가장 강력한 무기 ",
+          "authors": "김효원 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2025",
+          "isbn13": "9791192097954",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부모의 내면이 아이의 세상이 된다 :소아정신과 최고 권위자 대니얼 J. 시겔의 40년 연구 결실을 담은 9가지 육아 원칙 ",
+          "authors": "대니얼 J. 시겔,신유희 옮김",
+          "publisher": "Page2(페이지2북스)",
+          "publication_year": "2025",
+          "isbn13": "9791169851305",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "베싸의 말문이 트이는 영어 육아 :일상에서 자연스럽게 익히는 우리 아이 진짜 영어 ",
+          "authors": "박정은 지음",
+          "publisher": "사이다경제",
+          "publication_year": "2025",
+          "isbn13": "9791194508038",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "완벽한 부모가 아이를 망친다 :부모가 깨어나는 시간, 0교시 부모영역 ",
+          "authors": "김성곤 지음",
+          "publisher": "글의온도",
+          "publication_year": "2024",
+          "isbn13": "9791192005591",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(천근아의) 느린 아이 부모 수업 :단순 발달 지연부터 빠른 개입이 필요한 아이까지, 0~12세 '느린 아이' 키우기의 모든 것 ",
+          "authors": "지은이: 천근아 ;일러스트: 김홰",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2025",
+          "isbn13": "9788901293714",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "아이의 친구 관계 :뇌과학이 알려 주는 사회성 발달의 황금 법칙 ",
+          "authors": "김붕년 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2026",
+          "isbn13": "9791168274297",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "천 번을 흔들리며 아이는 어른이 됩니다 :사춘기 성장 근육을 키우는 뇌·마음 만들기 ",
+          "authors": "김붕년 지음",
+          "publisher": "21세기북스(북이십일 21세기북스)",
+          "publication_year": "2024",
+          "isbn13": "9791171178636",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+          "authors": "나민애 지음",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934965404",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "최민준의 아들코칭 백과 :기질 파악부터 말공부, 사회성, 감정코칭까지 ",
+          "authors": "최민준 글 ;신예원 그림",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2023",
+          "isbn13": "9791168127531",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부모의 어휘력 :정확히 말할수록 아이의 세상이 커지는 필수 어휘 126 ",
+          "authors": "김종원 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2024",
+          "isbn13": "9791168271999",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "4~7세 조절하는 뇌 흔들리고 회복하는 뇌 :조절 능력·정서 지능으로 키우는 '공부 뇌' 발달 골든타임 육아 ",
+          "authors": "김붕년 지음",
+          "publisher": "대성 Korea.com",
+          "publication_year": "2023",
+          "isbn13": "9791190488471",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 다정한 관찰자가 되기로 했다 :불안에 휘둘리지 않는 단단한 태도에 관하여 ",
+          "authors": "이은경 지음",
+          "publisher": "서교책방",
+          "publication_year": "2024",
+          "isbn13": "9791198752406",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아이에게 딱 하나만 가르친다면, 자기 조절 :7세부터 13세까지 성취하는 아이로 성장하게 하는 가장 강력한 무기 ",
+          "authors": "김효원 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2025",
+          "isbn13": "9791192097954",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(아이의 행동이 저절로 바뀌는) 훈육의 정석 :뇌과학이 알려주는 세상에서 가장 쉬운 육아법 ",
+          "authors": "김보경 지음",
+          "publisher": "빅피시",
+          "publication_year": "2025",
+          "isbn13": "9791194033523",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이 ",
+          "authors": "지나영 지음",
+          "publisher": "21세기북스(북이십일 21세기북스)",
+          "publication_year": "2022",
+          "isbn13": "9788950941819",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

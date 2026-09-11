@@ -1,0 +1,822 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791158682798",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "(읽으면서 바로 써먹는) 어린이 세계 여행",
+      "authors": "글·그림: 한날",
+      "publisher": "파란정원",
+      "publication_year": "2023",
+      "isbn13": "9791158682798",
+      "addition_symbol": "73900",
+      "vol": "",
+      "class_no": "980",
+      "class_nm": "역사 > 지리 > 지리",
+      "description": "세계 230여 개 나라 중 100개국을 선정하여 대륙별로 나누어 그 나라의 위치와 국기, 수도, 인구와 같은 기본 정보와 함께 랜드마크와 그 나라만의 독특한 문화·자연환경과 관련된 다양한 정보를 담았다. 세계를 배우고 세상을 보는 눈을 넓혀 세계를 향해 한 발짝 다가가 보자.",
+      "bookImageURL": "https://image.aladin.co.kr/product/33144/36/cover/k282937938_1.jpg",
+      "loanCnt": 26063
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1421,
+          "ranking": 241
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1399,
+          "ranking": 270
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1245,
+          "ranking": 270
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1053,
+          "ranking": 294
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1150,
+          "ranking": 285
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1114,
+          "ranking": 318
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1259,
+          "ranking": 336
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1066,
+          "ranking": 300
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1037,
+          "ranking": 402
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1014,
+          "ranking": 400
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 983,
+          "ranking": 377
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 900,
+          "ranking": 425
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 249,
+          "ranking": 413
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 129,
+          "ranking": 328
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 128,
+          "ranking": 271
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 112,
+          "ranking": 563
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 111,
+          "ranking": 530
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 76,
+          "ranking": 144
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 68,
+          "ranking": 161
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 48,
+          "ranking": 479
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 40,
+          "ranking": 884
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 38,
+          "ranking": 269
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 31,
+          "ranking": 264
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 23,
+          "ranking": 695
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 22,
+          "ranking": 914
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대한민국",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나라",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아시아",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지구",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대륙",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스리랑카",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사우디아라비아",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "브라질",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베트남",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "네팔",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아메리카",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "멕시코",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "말레이시아",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "레바논",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한날",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "태평양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "캐릭터",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인생다반사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "육대주",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유럽",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베네수엘라",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "몽골",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과테말라",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아프리카",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "방글라데시",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "30개국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "배우",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "볼리비아",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기준",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미얀마",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오세아니아",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "17개국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "파란정원",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정보",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "활동",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "루마니아",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마다가스카르",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "구성",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "남수단",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "남아프리카",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "넓이",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "네덜란드",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "노르웨이",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "남아메리카",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국토",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국기",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계사 퀴즈",
+          "authors": "글·그림 : 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682637",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 감정 표현 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2024",
+          "isbn13": "9791158682842",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682538",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계사 퀴즈",
+          "authors": "글·그림 : 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682712",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 한국사 퀴즈",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2021",
+          "isbn13": "9791158682248",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 한국사 퀴즈",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2021",
+          "isbn13": "9791158682309",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2019",
+          "isbn13": "9791158681647",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2021",
+          "isbn13": "9791158681999",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2018",
+          "isbn13": "9791158681531",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 속담 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2017",
+          "isbn13": "9791158681258",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 감정 표현 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2024",
+          "isbn13": "9791158682842",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계사 퀴즈",
+          "authors": "글·그림 : 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682712",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계사 퀴즈",
+          "authors": "글·그림 : 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682637",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 스도쿠 :학교 괴담 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2024",
+          "isbn13": "9791158682880",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 OX 퀴즈 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2024",
+          "isbn13": "9791158682934",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 초등 교과 어휘 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2025",
+          "isbn13": "9791158682965",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 공포의 수학 퍼즐",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2025",
+          "isbn13": "9791158683054",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 급수 한자 :6·7·8급 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2022",
+          "isbn13": "9791158682477",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682538",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽다 보면 저절로 알게 되는) 신비한 끈기·집중·성취 사전 ",
+          "authors": "글·그림: 양작가",
+          "publisher": "파란정원",
+          "publication_year": "2024",
+          "isbn13": "9791158682873",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 감정 표현 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2024",
+          "isbn13": "9791158682842",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계사 퀴즈",
+          "authors": "글·그림 : 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682637",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 행성 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682538",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 세계사 퀴즈",
+          "authors": "글·그림 : 한날",
+          "publisher": "파란정원",
+          "publication_year": "2023",
+          "isbn13": "9791158682712",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 한국사 퀴즈",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2021",
+          "isbn13": "9791158682248",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 한국사 퀴즈",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2021",
+          "isbn13": "9791158682309",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 맞춤법 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2019",
+          "isbn13": "9791158681647",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 신체 관용구 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2021",
+          "isbn13": "9791158681999",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 초등 교과 어휘 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2025",
+          "isbn13": "9791158682965",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(읽으면서 바로 써먹는) 어린이 고사성어 ",
+          "authors": "글·그림: 한날",
+          "publisher": "파란정원",
+          "publication_year": "2018",
+          "isbn13": "9791158681531",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

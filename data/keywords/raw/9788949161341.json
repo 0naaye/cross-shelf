@@ -1,0 +1,798 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788949161341",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "만복이네 떡집",
+      "authors": "김리리 글 ;이승현 그림",
+      "publisher": "비룡소",
+      "publication_year": "2010",
+      "isbn13": "9788949161341",
+      "addition_symbol": "74800",
+      "vol": "",
+      "class_no": "813.7",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "아이들의 일상을 재치와 풍부한 상상력으로 풀어내는 동화작가 김리리의 신작. 이번 동화는 집에서 부족함 없이 자랐지만 자기도 모르게 나쁜 말과 행동을 툭툭 내뱉고 마는 만복이가 신비한 떡집을 만나 겪는 따듯하고 흥겨운 변화를 담고 있다.",
+      "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/062/895/06289560.jpg?type=m1&udate=20180324",
+      "loanCnt": 153245
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1767,
+          "ranking": 107
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1912,
+          "ranking": 87
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1328,
+          "ranking": 217
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1209,
+          "ranking": 194
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1184,
+          "ranking": 264
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1126,
+          "ranking": 302
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1615,
+          "ranking": 146
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1213,
+          "ranking": 219
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1845,
+          "ranking": 45
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1722,
+          "ranking": 60
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1494,
+          "ranking": 102
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1336,
+          "ranking": 123
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 416,
+          "ranking": 85
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 179,
+          "ranking": 161
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 138,
+          "ranking": 254
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 134,
+          "ranking": 222
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 125,
+          "ranking": 428
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 106,
+          "ranking": 39
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 74,
+          "ranking": 160
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 48,
+          "ranking": 166
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 47,
+          "ranking": 125
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 28,
+          "ranking": 412
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "변화",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만복",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만복이가",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만복이네 떡집",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "행동",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "떡집",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "씨름",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김리리",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "판타지",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이들",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동화",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이승현",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "풍부",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비룡소",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "욕쟁이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마법",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "쥐똥 선물",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모습",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "심술쟁이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "화장실에 사는 두꺼비",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신비",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "웃음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개성",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "글맛",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "표정",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "싸움꾼",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "달콤",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바람떡을",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "결국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우리나라",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일러스트레이션",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부문",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상상력",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이번",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동화작가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문체",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동화 명작 고전",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "느낌",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "재치",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "재미",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자신",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "요소",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그림",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "맛깔",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독특",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "장군이네 떡집 ",
+          "authors": "김리리 글 ;이승현 그림",
+          "publisher": "비룡소",
+          "publication_year": "2020",
+          "isbn13": "9788949162041",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소원 떡집 ",
+          "authors": "김리리 글 ;이승현 그림",
+          "publisher": "비룡소",
+          "publication_year": "2020",
+          "isbn13": "9788949162058",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "양순이네 떡집",
+          "authors": "김리리 (지은이), 김이랑 (그림)",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949162102",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "달콩이네 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949162126",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "둥실이네 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2022",
+          "isbn13": "9788949162188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "랑랑 형제 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2022",
+          "isbn13": "9788949162485",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "하하 자매 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949162539",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447694",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "해님 달님 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949162546",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고양이 해결사 깜냥",
+          "authors": "홍민정 동화 ;김재희 그림",
+          "publisher": "창비",
+          "publication_year": "2020",
+          "isbn13": "9788936447861",
+          "vol": "2"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "장군이네 떡집 ",
+          "authors": "김리리 글 ;이승현 그림",
+          "publisher": "비룡소",
+          "publication_year": "2020",
+          "isbn13": "9788949162041",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소원 떡집 ",
+          "authors": "김리리 글 ;이승현 그림",
+          "publisher": "비룡소",
+          "publication_year": "2020",
+          "isbn13": "9788949162058",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "양순이네 떡집",
+          "authors": "김리리 (지은이), 김이랑 (그림)",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949162102",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "달콩이네 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949162126",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "둥실이네 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2022",
+          "isbn13": "9788949162188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "랑랑 형제 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2022",
+          "isbn13": "9788949162485",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "행복한 비밀 하나 :박성배 동화집 ",
+          "authors": "지은이: 박성배 ;그린이: 성영란",
+          "publisher": "푸른책들",
+          "publication_year": "2012",
+          "isbn13": "9788957983065",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "하하 자매 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949162539",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "해님 달님 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949162546",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왕구리네 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2024",
+          "isbn13": "9788949162607",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "장군이네 떡집 ",
+          "authors": "김리리 글 ;이승현 그림",
+          "publisher": "비룡소",
+          "publication_year": "2020",
+          "isbn13": "9788949162041",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "양순이네 떡집",
+          "authors": "김리리 (지은이), 김이랑 (그림)",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949162102",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소원 떡집 ",
+          "authors": "김리리 글 ;이승현 그림",
+          "publisher": "비룡소",
+          "publication_year": "2020",
+          "isbn13": "9788949162058",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "달콩이네 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949162126",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "둥실이네 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2022",
+          "isbn13": "9788949162188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "랑랑 형제 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2022",
+          "isbn13": "9788949162485",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "하하 자매 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949162539",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "해님 달님 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949162546",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "왕구리네 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2024",
+          "isbn13": "9788949162607",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "장돌이네 떡집 ",
+          "authors": "김리리 글 ;김이랑 그림",
+          "publisher": "비룡소",
+          "publication_year": "2025",
+          "isbn13": "9788949162652",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

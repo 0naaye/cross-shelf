@@ -1,0 +1,783 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791162544327",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "렛뎀 이론 :인생이 '나'로 충만해지는 내버려두기의 기술",
+      "authors": "멜 로빈스,윤효원 옮김",
+      "publisher": "비즈니스북스",
+      "publication_year": "2025",
+      "isbn13": "9791162544327",
+      "addition_symbol": "03190",
+      "vol": "",
+      "class_no": "189.1",
+      "class_nm": "철학 > 심리학 > 응용심리학 일반",
+      "description": "중요하지도 않은 것들을 신경 쓰느라 나를 소모하는 싸움에서 벗어나, 진정 중요한 것?즉 자기 자신, 자기 행복, 목표, 인생?에 집중하는 방법을 알려준다. 수백만 독자의 공감과 열렬한 지지를 얻으며 출간 즉시 아마존 베스트셀러 종합 1위에 오른 《렛뎀 이론》은, 오롯이 ‘나’로 충만한 인생을 살고 싶어진 모든 이에게 행복의 잠재력을 열어줄 가장 쉽고 심플한 도구를 선물할 것이다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/36949/35/cover200/k532030618_1.jpg",
+      "loanCnt": 7
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 5,
+          "ranking": 218832
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 531,
+          "ranking": 2057
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1022,
+          "ranking": 327
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1388,
+          "ranking": 153
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1596,
+          "ranking": 87
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1624,
+          "ranking": 139
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1440,
+          "ranking": 113
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1498,
+          "ranking": 117
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1428,
+          "ranking": 130
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1282,
+          "ranking": 177
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1229,
+          "ranking": 166
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 308,
+          "ranking": 16
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 282,
+          "ranking": 284
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 161,
+          "ranking": 59
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 99,
+          "ranking": 175
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 51,
+          "ranking": 157
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 36,
+          "ranking": 205
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 22,
+          "ranking": 779
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 22,
+          "ranking": 141
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 9,
+          "ranking": 742
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "인생",
+          "weight": "16"
+        }
+      },
+      {
+        "keyword": {
+          "word": "타인",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이론",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "로빈스",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스트레스",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "낭비",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감정",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기술",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "행동",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "관리",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비교",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "극복",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뉴욕 타임스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간관계",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베스트셀러",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "행복",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "멜 로빈스 팟캐스트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "통제",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교육",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "THEM",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1위",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생각",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "평가",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "LET",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기대",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에너지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우정",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "변화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "답답",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "분야",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아마존",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대처",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성공학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "반응",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서론",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문제",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감정적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강력",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신경",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "것들",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영향력",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원래",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "위버멘쉬 :누구의 시선도 아닌, 내 의지대로 살겠다는 선언 ",
+          "authors": "프리디리히 니체 지음 ;어나니머스 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2025",
+          "isbn13": "9791192372730",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "편안함의 습격 :편리와 효율, 멸균과 풍족의 시대가 우리에게서 앗아간 것들에 관하여 ",
+          "authors": "지은이: 마이클 이스터 ;옮긴이: 김원진",
+          "publisher": "수오서재",
+          "publication_year": "2025",
+          "isbn13": "9791193238691",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(2500년 동안 사랑받은) 초역 부처의 말 :행복으로 가는 길은 없다 행복이 곧 길이다 ",
+          "authors": "코이케 류노스케 지음 ;박재현 옮김",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506516",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "내면 근력 :결국 멘탈 게임이다 ",
+          "authors": "짐 머피 지음 ;지여울 옮김",
+          "publisher": "윌북",
+          "publication_year": "2026",
+          "isbn13": "9791155819227",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "무례한 세상에서 나를 지키는 법",
+          "authors": "발타사르 그라시안 (지은이), 하와이 대저택 (편역)",
+          "publisher": "논픽션",
+          "publication_year": "2026",
+          "isbn13": "9791199489530",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "그만 배우기의 기술 :딱 필요한 만큼만 배워서 바로 써먹는 실행의 법칙 ",
+          "authors": "팻 플린 지음 ;김지혜 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2026",
+          "isbn13": "9791167742698",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마일리지 아워 =삶의 격을 높이는 인생 설계의 기술 /Mileage hour ",
+          "authors": "최유나 지음",
+          "publisher": "책 읽어주는 남자",
+          "publication_year": "2025",
+          "isbn13": "9791124038093",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "돈의 방정식 :돈을 지위와 성공의 기준, 그 이상으로 다루기 위한 21가지 이야기 ",
+          "authors": "지은이: 모건 하우절 ;옮긴이: 박영준",
+          "publisher": "서삼독",
+          "publication_year": "2026",
+          "isbn13": "9791193904671",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이향인 :대범하고 섬세한 개인주의자를 위한 심리학 수업 ",
+          "authors": "라미 카민스키 지음 ;최지숙 옮김",
+          "publisher": "21세기북스(북이십일 21세기북스)",
+          "publication_year": "2026",
+          "isbn13": "9791173578601",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "더블 클릭 =진짜 '나'를 선택하고 실행하는 법 /Double click ",
+          "authors": "지은이: 알간지",
+          "publisher": "생각정원",
+          "publication_year": "2026",
+          "isbn13": "9791193811665",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "실패를 통과하는 일 - 비전, 사람, 돈을 둘러싼 어느 창업자의 기록",
+          "authors": "박소령 (지은이)",
+          "publisher": "북스톤",
+          "publication_year": "2025",
+          "isbn13": "9791175230088",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부처님 말씀대로 살아보니 :인생이 가벼워지는 15가지 불교 수업 ",
+          "authors": "토니 페르난도 지음 ;강정선 옮김",
+          "publisher": "Wilma(윌마)",
+          "publication_year": "2026",
+          "isbn13": "9791199496651",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "완벽한 원시인 =10만 년을 되돌려 되찾는 뇌 설계도 /Perfect caveman ",
+          "authors": "자청 지음",
+          "publisher": "라이브해킹",
+          "publication_year": "2026",
+          "isbn13": "9791199383074",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "위버멘쉬 :누구의 시선도 아닌, 내 의지대로 살겠다는 선언 ",
+          "authors": "프리디리히 니체 지음 ;어나니머스 옮김",
+          "publisher": "Rise(떠오름코퍼레이션)",
+          "publication_year": "2025",
+          "isbn13": "9791192372730",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "모순 :양귀자 장편소설 ",
+          "authors": "지은이: 양귀자",
+          "publisher": "쓰다",
+          "publication_year": "2013",
+          "isbn13": "9788998441012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어른의 행복은 조용하다 ",
+          "authors": "글: 태수",
+          "publisher": "페이지2북스",
+          "publication_year": "2024",
+          "isbn13": "9791169851053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "편안함의 습격 :편리와 효율, 멸균과 풍족의 시대가 우리에게서 앗아간 것들에 관하여 ",
+          "authors": "지은이: 마이클 이스터 ;옮긴이: 김원진",
+          "publisher": "수오서재",
+          "publication_year": "2025",
+          "isbn13": "9791193238691",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

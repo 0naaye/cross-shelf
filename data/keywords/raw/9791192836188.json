@@ -1,0 +1,742 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791192836188",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "문과 남자의 과학 공부 :나는 무엇이고 왜 존재하며 어디로 가는가?",
+      "authors": "유시민 지음",
+      "publisher": "돌베개",
+      "publication_year": "2023",
+      "isbn13": "9791192836188",
+      "addition_symbol": "03400",
+      "vol": "",
+      "class_no": "404",
+      "class_nm": "자연과학 > 자연과학 > 강연집, 수필집, 연설문집",
+      "description": "작가 유시민이 과학 책으로 돌아왔다. 스스로 밝히기를 ‘글 쓰는 문과 남자’인 저자는 역사부터 경제·정치·독서·여행·글쓰기까지 분야를 가리지 않고 글을 썼지만 인문학의 영역을 벗어나지는 않았다. 이 책은 10여 년이 넘는 시간 동안 과학 책을 읽으며 인간과 사회, 생명과 우주에 대해 배운 바를 정리하고, 이를 바탕으로 인문학적 해석과 견해를 덧붙이고 발전시킨다. 『문과 남자의 과학 공부』는 우리에게 가까운, 우리가 가장 관심을 둔 과학 분야에서 시작해 더 근본적인 과학 분야로 나아간다. 현대인들의 ‘최애과학’인 뇌과학으로부터 생물학, 화학, 물리학(우주론), 수학 순으로 전개하면서 이를 인문학의 언어로 풀어낸다. 기존의 과학 책은 물질 현상의 기본을 다루는 물리학에서 화학, 생물학 순서로 나아가지만, 물리학자도 어려워하는 양자역학을 먼저 공부하는 것은 ‘문과 학대’일 수 있다고 저자는 말한다. 그래서 우리 삶과 밀접한 관련이 있고 독자의 관심이 높은 뇌과학에서 출발해 다른 과학 분야로 호기심을 넓혀간다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/31877/37/cover/k982833431_2.jpg",
+      "loanCnt": 31877
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 804,
+          "ranking": 1132
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 707,
+          "ranking": 1633
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 556,
+          "ranking": 1895
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 439,
+          "ranking": 2224
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 411,
+          "ranking": 2838
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 428,
+          "ranking": 2698
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 478,
+          "ranking": 2938
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 381,
+          "ranking": 3006
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 334,
+          "ranking": 3933
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 337,
+          "ranking": 3879
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 309,
+          "ranking": 4105
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 201,
+          "ranking": 6846
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 37,
+          "ranking": 332
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 23,
+          "ranking": 712
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 7,
+          "ranking": 568
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "과학",
+          "weight": "20"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인문학",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우주",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "화학",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "분야",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생물학",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "물리학",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수학",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문과 남자의 과학 공부",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문과",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "양자역학",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생명",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유시민",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뇌과학",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "누구",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "언어",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "현상",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "천재",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공부",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "존재",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "진실",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "관심",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바보",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사회",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비대칭",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사회주의",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사회생물학과",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설명",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "복잡",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부럽지가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비밀",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불교",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불확정성",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "거울신경세포",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경제 정치 독서 여행 글쓰기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기존",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단순",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기본",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "덧붙이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "근본적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "슬픔",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그럴법",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "묵시록",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "돌베개",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경제법칙",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "상대성이론",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "그의 운명에 대한 아주 개인적인 생각 ",
+          "authors": "지은이: 유시민",
+          "publisher": "아름다운사람들",
+          "publication_year": "2024",
+          "isbn13": "9788965138068",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "하늘과 바람과 별과 인간 :원자에서 인간까지 ",
+          "authors": "지은이: 김상욱",
+          "publisher": "바다출판사",
+          "publication_year": "2023",
+          "isbn13": "9791166891496",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "거꾸로 읽는 세계사 ",
+          "authors": "유시민 지음",
+          "publisher": "돌베개",
+          "publication_year": "2021",
+          "isbn13": "9791191438406",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "authors": "룰루 밀러 지음 ;정지인 옮김",
+          "publisher": "곰출판",
+          "publication_year": "2021",
+          "isbn13": "9791189327156",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "원더풀 사이언스 :아름다운 기초과학 산책 ",
+          "authors": "나탈리 앤지어 지음 ;김소정 옮김",
+          "publisher": "지호",
+          "publication_year": "2010",
+          "isbn13": "9788959090532",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "그의 운명에 대한 아주 개인적인 생각 ",
+          "authors": "지은이: 유시민",
+          "publisher": "아름다운사람들",
+          "publication_year": "2024",
+          "isbn13": "9788965138068",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "디케의 눈물 :대한검국에 맞선 조국의 호소 ",
+          "authors": "조국 지음",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130645469",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "역사의 역사 =History of writing history ",
+          "authors": "유시민 지음",
+          "publisher": "돌베개",
+          "publication_year": "2018",
+          "isbn13": "9788971998557",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "공감필법 ",
+          "authors": "지은이: 유시민",
+          "publisher": "창비",
+          "publication_year": "2024",
+          "isbn13": "9788936480271",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "유시민의 공감필법 ",
+          "authors": "지은이: 유시민",
+          "publisher": "창비",
+          "publication_year": "2016",
+          "isbn13": "9788936472979",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "사는 게 정답이 있으려나? :당신과 나누는 이야기 대화의 희열 ",
+          "authors": "아이유,KBS <대화의 희열> 제작진 지음",
+          "publisher": "포르체",
+          "publication_year": "2021",
+          "isbn13": "9791191393156",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "미스터 프레지던트 =국가 기념식과 대통령 행사 이야기 /Mr. president ",
+          "authors": "탁현민 지음",
+          "publisher": "메디치(메디치미디어)",
+          "publication_year": "2023",
+          "isbn13": "9791157062805",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "하늘과 바람과 별과 인간 :원자에서 인간까지 ",
+          "authors": "지은이: 김상욱",
+          "publisher": "바다출판사",
+          "publication_year": "2023",
+          "isbn13": "9791166891496",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이로운 보수 의로운 진보 :최강형제가 들려주는 최소한의 정치 교양 ",
+          "authors": "최강욱,최강혁 지음",
+          "publisher": "한겨레엔",
+          "publication_year": "2025",
+          "isbn13": "9791172132477",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "그의 운명에 대한 아주 개인적인 생각 ",
+          "authors": "지은이: 유시민",
+          "publisher": "아름다운사람들",
+          "publication_year": "2024",
+          "isbn13": "9788965138068",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "청춘의 독서 :세상을 바꾼 위험하고 위대한 생각들 ",
+          "authors": "지은이: 유시민",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2025",
+          "isbn13": "9788901294742",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "하늘과 바람과 별과 인간 :원자에서 인간까지 ",
+          "authors": "지은이: 김상욱",
+          "publisher": "바다출판사",
+          "publication_year": "2023",
+          "isbn13": "9791166891496",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "도둑맞은 집중력 :집중력 위기의 시대, 삶의 주도권을 되찾는 법 ",
+          "authors": "요한 하리 지음 ;김하현 옮김",
+          "publisher": "어크로스(어크로스출판그룹)",
+          "publication_year": "2023",
+          "isbn13": "9791167740984",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

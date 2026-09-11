@@ -1,0 +1,934 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788954677158",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "긴긴밤",
+      "authors": "루리 글·그림",
+      "publisher": "문학동네",
+      "publication_year": "2021",
+      "isbn13": "9788954677158",
+      "addition_symbol": "73810",
+      "vol": "",
+      "class_no": "813.7",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "제21회 문학동네어린이문학상 대상 수상작. 지구상의 마지막 하나가 된 흰바위코뿔소 노든과 버려진 알에서 태어난 어린 펭귄이 수없는 긴긴밤을 함께하며, 바다를 찾아가는 이야기이다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/26302/71/cover/8954677150_1.jpg",
+      "loanCnt": 122903
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 2631,
+          "ranking": 7
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 2667,
+          "ranking": 19
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 2397,
+          "ranking": 13
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 2215,
+          "ranking": 8
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 2221,
+          "ranking": 25
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 2260,
+          "ranking": 17
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 2854,
+          "ranking": 6
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 2353,
+          "ranking": 9
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 2976,
+          "ranking": 4
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 2805,
+          "ranking": 5
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 2715,
+          "ranking": 6
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 2481,
+          "ranking": 6
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 822,
+          "ranking": 3
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 289,
+          "ranking": 21
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 231,
+          "ranking": 31
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 226,
+          "ranking": 37
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 224,
+          "ranking": 36
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 138,
+          "ranking": 85
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 99,
+          "ranking": 41
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 92,
+          "ranking": 62
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 67,
+          "ranking": 283
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 61,
+          "ranking": 41
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 51,
+          "ranking": 157
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 50,
+          "ranking": 440
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 44,
+          "ranking": 65
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 43,
+          "ranking": 149
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 38,
+          "ranking": 814
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "영유아",
+          "gender": "여성",
+          "loanCnt": 38,
+          "ranking": 40
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 34,
+          "ranking": 318
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 30,
+          "ranking": 347
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 29,
+          "ranking": 251
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 24,
+          "ranking": 210
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 23,
+          "ranking": 58
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 22,
+          "ranking": 898
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 22,
+          "ranking": 64
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 20,
+          "ranking": 122
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "영유아",
+          "gender": "남성",
+          "loanCnt": 13,
+          "ranking": 658
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 12,
+          "ranking": 450
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 8,
+          "ranking": 126
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "긴긴밤",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마지막",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문학동네어린이문학상",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "코뿔소",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제21회",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대상",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "코끼리",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수상작",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "펭귄",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "5번 레인",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문학동네",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흰바위코뿔소",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소중",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "존재",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "황금도깨비상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생명",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "치쿠",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부탁",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "무게",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2020년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오른쪽",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국내창작동화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영혼",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "루리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감당",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "친구",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "심사평",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아내",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아동문학평론가",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안전",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "압도적",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "앙가부가",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "엄숙",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "엉망",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모습",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과정",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "멸종",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "머리",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미술",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발끝",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발로",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부문",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "깊이",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기적",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "5번 레인 ",
+          "authors": "은소홀 글 ;노인경 그림",
+          "publisher": "문학동네",
+          "publication_year": "2020",
+          "isbn13": "9788954674638",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "푸른 사자 와니니 :이현 장편동화",
+          "authors": "지은이: 이현 ;그린이: 오윤화",
+          "publisher": "창비",
+          "publication_year": "2015",
+          "isbn13": "9788936442804",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "순례 주택 :유은실 소설 ",
+          "authors": "지은이: 유은실",
+          "publisher": "비룡소",
+          "publication_year": "2021",
+          "isbn13": "9788949123493",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681179",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "체리새우 :황영미 장편소설 ",
+          "authors": "지은이: 황영미",
+          "publisher": "문학동네",
+          "publication_year": "2019",
+          "isbn13": "9788954654753",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "authors": "어윤정 글 ;해마 그림",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954690690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세계를 건너 너에게 갈게 :이꽃님 장편소설 ",
+          "authors": "글쓴이: 이꽃님",
+          "publisher": "문학동네",
+          "publication_year": "2018",
+          "isbn13": "9788954650212",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "5번 레인 ",
+          "authors": "은소홀 글 ;노인경 그림",
+          "publisher": "문학동네",
+          "publication_year": "2020",
+          "isbn13": "9788954674638",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나나 올리브에게 ",
+          "authors": "루리 글·그림",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141614072",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "여름이 반짝 ",
+          "authors": "김수빈 글 ;김정은 그림",
+          "publisher": "문학동네",
+          "publication_year": "2015",
+          "isbn13": "9788954638111",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "해리엇 =175년 동안 바다를 품고 살았던 갈라파고스 거북 이야기 /Harriet ",
+          "authors": "한윤섭 글 ;서영아 그림",
+          "publisher": "문학동네",
+          "publication_year": "2011",
+          "isbn13": "9788954615044",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우주의 속삭임 ",
+          "authors": "하신하 글 ;안경미 그림",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9788954697705",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "authors": "어윤정 글 ;해마 그림",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954690690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "순재와 키완 :두 아이가 만난 괴물에 대한 기록 ",
+          "authors": "오하림 글 ;애슝 그림",
+          "publisher": "문학동네",
+          "publication_year": "2018",
+          "isbn13": "9788954653503",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "시간 가게 ",
+          "authors": "이나영 글 ;윤정주 그림",
+          "publisher": "문학동네",
+          "publication_year": "2013",
+          "isbn13": "9788954620260",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "동희의 오늘 ",
+          "authors": "임은하 글 ;임나운 그림",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954683029",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메피스토 ",
+          "authors": "루리 글·그림",
+          "publisher": "비룡소",
+          "publication_year": "2023",
+          "isbn13": "9788949108315",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "5번 레인 ",
+          "authors": "은소홀 글 ;노인경 그림",
+          "publisher": "문학동네",
+          "publication_year": "2020",
+          "isbn13": "9788954674638",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나나 올리브에게 ",
+          "authors": "루리 글·그림",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141614072",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "리보와 앤 :아무도 오지 않는 도서관의 두 로봇 ",
+          "authors": "어윤정 글 ;해마 그림",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954690690",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "첫 여름, 완주 :김금희 장편소설 ",
+          "authors": "저자 : 김금희",
+          "publisher": "무제",
+          "publication_year": "2025",
+          "isbn13": "9791197221989",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "언제나 다정 죽집 ",
+          "authors": "우신영 글 ;서영 그림",
+          "publisher": "비룡소",
+          "publication_year": "2024",
+          "isbn13": "9788949122076",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

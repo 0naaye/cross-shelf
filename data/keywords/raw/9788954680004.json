@@ -1,0 +1,766 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788954680004",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "이토록 평범한 미래 :김연수 소설",
+      "authors": "지은이: 김연수",
+      "publisher": "문학동네",
+      "publication_year": "2022",
+      "isbn13": "9788954680004",
+      "addition_symbol": "03810",
+      "vol": "",
+      "class_no": "813.62",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "모든 게 끝났다고 생각하는 시점에 이르러가장 좋은 미래, 그러니까 이토록 평범한 미래를 상상할 수 있다면김연수 9년 만의 신작 소설집종말 이후의 사랑에 대한 여덟 편의 이야기작가 김연수가 짧지 않은 침묵을 깨고 신작 소설집 『이토록 평범한 미래』를 출간한다. 『사월의 미, 칠월의 솔』(2013) 이후 9년 만에 펴내는 여섯번째 소설집이다. 그전까지 2~4년 간격으로 꾸준히 소설집을 펴내며 ‘다작 작가’로 알려져온 그에게 지난 9년은 “바뀌어야 한다는 내적인 욕구”가 강하게 작동하는 동시에 “외적으로도 바뀔 수밖에 없는 일들이 벌어진”(특별 소책자 『어텐션 북』 수록 인터뷰에서) 시간이었다. 안팎으로 변화를 추동하는 일들이 계속되는 상황에서 김연수는 소설 외의 다른 글쓰기에 몰두하며 그 시간을 신중하게 지나왔다. 변화에 대한 내적인 욕구와 외적인 요구는 작가를 어떤 자리로 옮겨오게 했을까.",
+      "bookImageURL": "https://image.aladin.co.kr/product/30211/80/cover/8954680003_1.jpg",
+      "loanCnt": 34816
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 533,
+          "ranking": 2396
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 533,
+          "ranking": 2635
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 460,
+          "ranking": 2602
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 406,
+          "ranking": 2551
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 365,
+          "ranking": 3367
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 485,
+          "ranking": 2208
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 669,
+          "ranking": 1708
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 496,
+          "ranking": 2067
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 434,
+          "ranking": 2699
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 442,
+          "ranking": 2547
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 391,
+          "ranking": 2922
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 422,
+          "ranking": 2459
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 52,
+          "ranking": 569
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 44,
+          "ranking": 476
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 23,
+          "ranking": 882
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 22,
+          "ranking": 779
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 7,
+          "ranking": 174
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 5,
+          "ranking": 858
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "김연수",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사월의 미 칠월의 솔",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소설집",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이토록 평범한 미래",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어텐션 북",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "변화",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "욕구",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일들",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "내적",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나는 유령작가입니다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "꾿빠이 이상",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여행할 권리",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "내가 아직 아이였을 때",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "네가 누구든 얼마나 외롭든",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일곱 해의 마지막",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "작가세계",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "특별",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "파도가 바다의 일이라면",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대책 없이 해피엔딩",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스무 살",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "언젠가 아마도",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계의 끝 여자친구",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "7번국도  Revisited",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사월",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원더보이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "밤은 노래한다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시절일기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "청춘의 문장들",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "9년",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑이라니 선영아",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가면을 가리키며 걷기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "칠월",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소설가의 일",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지지 않는다는 말",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우리가 보낸 순간",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신중",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "몰두",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "안팎",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2000년대 이후 한국소설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신작",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동인문학상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그전",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "4년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여섯번째",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "9년은",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "글쓰기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문학동네",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954695053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별인사 :김영하 장편소설 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2022",
+          "isbn13": "9791191114225",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "밝은 밤 :최은영 장편소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681179",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "눈부신 안부 :백수린 장편소설 ",
+          "authors": "지은이: 백수린",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954699372",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698199",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "너무나 많은 여름이 ",
+          "authors": "김연수 지음",
+          "publisher": "레제",
+          "publication_year": "2023",
+          "isbn13": "9791196722012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "각각의 계절 :권여선 소설 ",
+          "authors": "지은이: 권여선",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954692526",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "일곱 해의 마지막 :김연수 장편소설 ",
+          "authors": "지은이: 김연수",
+          "publisher": "문학동네",
+          "publication_year": "2020",
+          "isbn13": "9788954672771",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "사월의 미, 칠월의 솔 :김연수 소설 ",
+          "authors": "지은이: 김연수",
+          "publisher": "문학동네",
+          "publication_year": "2013",
+          "isbn13": "9788954622905",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "네가 누구든 얼마나 외롭든:김연수 장편소설",
+          "authors": "김연수",
+          "publisher": "문학동네",
+          "publication_year": "2007",
+          "isbn13": "9788954603980",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "원더보이 :김연수 장편소설 ",
+          "authors": "지은이: 김연수",
+          "publisher": "문학동네",
+          "publication_year": "2012",
+          "isbn13": "9788954617482",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "시절일기 :우리가 함께 지나온 밤 ",
+          "authors": "김연수 지음",
+          "publisher": "레제",
+          "publication_year": "2019",
+          "isbn13": "9791196722005",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "세계의 끝 여자친구 :김연수 소설 ",
+          "authors": "지은이: 김연수",
+          "publisher": "문학동네",
+          "publication_year": "2009",
+          "isbn13": "9788954608824",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "너무나 많은 여름이 ",
+          "authors": "김연수 지음",
+          "publisher": "레제",
+          "publication_year": "2023",
+          "isbn13": "9791196722012",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마음에 없는 소리 :김지연 소설 ",
+          "authors": "지은이: 김지연",
+          "publisher": "문학동네",
+          "publication_year": "2022",
+          "isbn13": "9788954685436",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "파도가 바다의 일이라면 :김연수 장편소설 ",
+          "authors": "지은이: 김연수",
+          "publisher": "문학동네",
+          "publication_year": "2015",
+          "isbn13": "9788954637800",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "언젠가, 아마도 :김연수 여행 산문집 ",
+          "authors": "지은이: 김연수 ;일러스트: 엄유정",
+          "publisher": "안그라픽스",
+          "publication_year": "2018",
+          "isbn13": "9788970599694",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954695053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "절창 :구병모 장편소설 ",
+          "authors": "지은이: 구병모",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602451",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "authors": "지은이: 김금희",
+          "publisher": "창비",
+          "publication_year": "2024",
+          "isbn13": "9788936439651",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "authors": "지은이: 김기태",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9788954697941",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "단 한 번의 삶 ",
+          "authors": "지은이: 김영하",
+          "publisher": "복복서가",
+          "publication_year": "2025",
+          "isbn13": "9791191114768",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

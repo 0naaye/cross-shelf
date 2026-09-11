@@ -1,0 +1,726 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788950941819",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "(세상에서 가장 쉬운) 본질육아 :삶의 근본을 보여주는 부모, 삶을 스스로 개척하는 아이",
+      "authors": "지나영 지음",
+      "publisher": "21세기북스(북이십일 21세기북스)",
+      "publication_year": "2022",
+      "isbn13": "9788950941819",
+      "addition_symbol": "13590",
+      "vol": "",
+      "class_no": "598.1",
+      "class_nm": "기술과학 > 가정학 및 가정생활 > 육아",
+      "description": "삶을 스스로 개척하는 내면이 단단한 아이로 키우는 ‘본질육아법’을 소개한다. 왜 열심히 아이를 키우고 있는데도 불안한지, 왜 잘못된 방향인 줄 알면서도 남들 하는 대로 따라 하는지, 왜 공든 육아가 한순간에 무너져내리는지, 대한민국 부모들의 육아 고충을 근본적으로 해결해줄 명쾌한 해법과 쉬운 실천법을 담았다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/30177/32/cover/8950941813_1.jpg",
+      "loanCnt": 27099
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 389,
+          "ranking": 3852
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 346,
+          "ranking": 4924
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 351,
+          "ranking": 3836
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 374,
+          "ranking": 2896
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 677,
+          "ranking": 1225
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 547,
+          "ranking": 1789
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 477,
+          "ranking": 2945
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 327,
+          "ranking": 3701
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 463,
+          "ranking": 2413
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 390,
+          "ranking": 3154
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 329,
+          "ranking": 3772
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 287,
+          "ranking": 4324
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 111,
+          "ranking": 530
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "아이",
+          "weight": "77"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부모",
+          "weight": "25"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부모연습",
+          "weight": "24"
+        }
+      },
+      {
+        "keyword": {
+          "word": "육아",
+          "weight": "17"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동기",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "요법",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상에서 가장 쉬운 본질육아",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지나영",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개척",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자기조절력",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자신",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기본",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단단",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "내적",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "실패",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "행복",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교수",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "열심",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원칙",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자존감",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소아정신과",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "현실",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "내면",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불안",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "PART",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "필요",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "목적지",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "루틴",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최종",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "핵심",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공부",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "존스홉킨스",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "의과대학",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가족",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가치",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감사",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단점",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "의사",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "누구",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성장",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교육",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아침마당",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "메시지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신사임당",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "EBS 부모클래스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "본질육아법",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "본질육아",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "3"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "조선미의 현실 육아 상담소 ",
+          "authors": "조선미 지음",
+          "publisher": "북하우스",
+          "publication_year": "2023",
+          "isbn13": "9791164052035",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마음이 흐르는 대로 =삶이 흔들릴 때 우리가 바라봐야 할 단 한 가지 /Follow your heart ",
+          "authors": "지나영 지음",
+          "publisher": "다산북스",
+          "publication_year": "2020",
+          "isbn13": "9791130632506",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "최민준의 아들코칭 백과 :기질 파악부터 말공부, 사회성, 감정코칭까지 ",
+          "authors": "최민준 글 ;신예원 그림",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2023",
+          "isbn13": "9791168127531",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "authors": "김미경 지음",
+          "publisher": "엠케이유니버스",
+          "publication_year": "2023",
+          "isbn13": "9791198013026",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어떻게 말해줘야 할까 :오은영의 현실밀착 육아회화 ",
+          "authors": "글: 오은영 ;그림: 차상미",
+          "publisher": "김영사",
+          "publication_year": "2020",
+          "isbn13": "9788934986652",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "엄마의 말 연습 :화내지 않고 사랑하는 마음을 오롯이 전하는 39가지 존중어 수업 ",
+          "authors": "윤지영 지음",
+          "publisher": "카시오페아(카시오페아 출판사)",
+          "publication_year": "2022",
+          "isbn13": "9791168270749",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "들숨에x긍정 날숨에x용기 ",
+          "authors": "지나영 지음",
+          "publisher": "자음과모음",
+          "publication_year": "2023",
+          "isbn13": "9788954448727",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "4~7세보다 중요한 시기는 없습니다 :아이의 정서와 인지 발달을 키우는 결정적 시기 ",
+          "authors": "이임숙 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2021",
+          "isbn13": "9791190776820",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "마음이 흐르는 대로 =삶이 흔들릴 때 우리가 바라봐야 할 단 한 가지 /Follow your heart ",
+          "authors": "지나영 지음",
+          "publisher": "다산북스",
+          "publication_year": "2020",
+          "isbn13": "9791130632506",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(산만한 아이를 위한) 본질육아 :주의력결핍을 몰입력으로 바꾸는 지나영의 육아 특훈 ",
+          "authors": "지나영 지음",
+          "publisher": "21세기북스(북이십일 21세기북스)",
+          "publication_year": "2025",
+          "isbn13": "9791173575259",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "코어 마인드 =내 마음대로 살 수 있는 내면의 힘 /Core mind ",
+          "authors": "지나영 지음",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2023",
+          "isbn13": "9791168126909",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "들숨에x긍정 날숨에x용기 ",
+          "authors": "지나영 지음",
+          "publisher": "자음과모음",
+          "publication_year": "2023",
+          "isbn13": "9788954448727",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "푸름아빠 거울육아 :엄마의 감정을 거울처럼 비추는 아이 ",
+          "authors": "최희수 지음",
+          "publisher": "한경BP",
+          "publication_year": "2020",
+          "isbn13": "9788947545945",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(지랄발랄 x 하은맘의) 불량육아 ",
+          "authors": "김선미 지음",
+          "publisher": "RHK(알에이치코리아)",
+          "publication_year": "2020",
+          "isbn13": "9788925536781",
+          "vol": "141"
+        }
+      },
+      {
+        "book": {
+          "bookname": "조선미의 현실 육아 상담소 ",
+          "authors": "조선미 지음",
+          "publisher": "북하우스",
+          "publication_year": "2023",
+          "isbn13": "9791164052035",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "베싸육아 :0~4세 알기만 해도 차이를 만드는 육아 대원칙 6 ",
+          "authors": "박정은 지음",
+          "publisher": "래디시",
+          "publication_year": "2023",
+          "isbn13": "9791198129109",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "0~5세 골든 브레인 육아법 :스탠퍼드대 박사 엄마가 알려 주는 영유아 두뇌 발달 컨설팅 ",
+          "authors": "김보경 지음",
+          "publisher": "Whale Books(웨일북)",
+          "publication_year": "2023",
+          "isbn13": "9791192097497",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아이의 떼 거부 고집을 다루다 ",
+          "authors": "정유진 글·그림",
+          "publisher": "엔세임",
+          "publication_year": "2019",
+          "isbn13": "9791196630706",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "조선미의 현실 육아 상담소 ",
+          "authors": "조선미 지음",
+          "publisher": "북하우스",
+          "publication_year": "2023",
+          "isbn13": "9791164052035",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(산만한 아이를 위한) 본질육아 :주의력결핍을 몰입력으로 바꾸는 지나영의 육아 특훈 ",
+          "authors": "지나영 지음",
+          "publisher": "21세기북스(북이십일 21세기북스)",
+          "publication_year": "2025",
+          "isbn13": "9791173575259",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "최민준의 아들코칭 백과 :기질 파악부터 말공부, 사회성, 감정코칭까지 ",
+          "authors": "최민준 글 ;신예원 그림",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2023",
+          "isbn13": "9791168127531",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 다정한 관찰자가 되기로 했다 :불안에 휘둘리지 않는 단단한 태도에 관하여 ",
+          "authors": "이은경 지음",
+          "publisher": "서교책방",
+          "publication_year": "2024",
+          "isbn13": "9791198752406",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아이의 뇌 =뇌과학에서 찾아낸 4가지 양육 원칙 /A child's brain ",
+          "authors": "김붕년 지음",
+          "publisher": "콘텐츠그룹 포레스트",
+          "publication_year": "2024",
+          "isbn13": "9791193506981",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "마음이 흐르는 대로 =삶이 흔들릴 때 우리가 바라봐야 할 단 한 가지 /Follow your heart ",
+          "authors": "지나영 지음",
+          "publisher": "다산북스",
+          "publication_year": "2020",
+          "isbn13": "9791130632506",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+          "authors": "나민애 지음",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934965404",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(이미 늦었다고 생각하는 당신을 위한) 김미경의 마흔 수업 ",
+          "authors": "김미경 지음",
+          "publisher": "엠케이유니버스",
+          "publication_year": "2023",
+          "isbn13": "9791198013026",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "들숨에x긍정 날숨에x용기 ",
+          "authors": "지나영 지음",
+          "publisher": "자음과모음",
+          "publication_year": "2023",
+          "isbn13": "9788954448727",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "부모의 어휘력 :정확히 말할수록 아이의 세상이 커지는 필수 어휘 126 ",
+          "authors": "김종원 지음",
+          "publisher": "카시오페아",
+          "publication_year": "2024",
+          "isbn13": "9791168271999",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,717 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791169254069",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+      "authors": "케이트 헤일,조은영 옮김",
+      "publisher": "시공사",
+      "publication_year": "2022",
+      "isbn13": "9791169254069",
+      "addition_symbol": "74030",
+      "vol": "1",
+      "class_no": "034",
+      "class_nm": "총류 > 백과사전 > 영어",
+      "description": "세상 모든 지식을 꼬리에 꼬리를 무는 형식으로 엮어 사진이나 그림과 함께 보여 주는 쉽고 재미있는 지식 책으로, 세상의 모든 지식의 연결을 통해, 세상이 우리와 연결되어 있다는 것을 보여 주는 초등 지식 백과 시리즈이다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/29747/62/cover/k952830140_1.jpg",
+      "loanCnt": 17725
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 486,
+          "ranking": 2802
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 498,
+          "ranking": 2912
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 431,
+          "ranking": 2892
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 367,
+          "ranking": 2992
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 411,
+          "ranking": 2838
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 391,
+          "ranking": 3100
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 459,
+          "ranking": 3103
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 433,
+          "ranking": 2538
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 387,
+          "ranking": 3226
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 401,
+          "ranking": 3009
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 341,
+          "ranking": 3582
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 341,
+          "ranking": 3421
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "꼬리",
+          "weight": "15"
+        }
+      },
+      {
+        "keyword": {
+          "word": "팩트",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사실",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "팩토피아",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지식",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동물",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "물기",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우주",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "식물",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "브리태니커",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "400가지",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "검증",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사진",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영국영어협회",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영국학교독서목록",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미래",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "점선",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가디언",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "호기심",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이미지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시작",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스포츠",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "통통",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "케이트 헤일",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시공주니어",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "앤디 스미스",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "조합",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "조은영  옮긴이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "음악",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "예상치",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자랑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "절묘",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "엽기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "삽화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공룡",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과거",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학 일반",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정거장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국제",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "권위",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "학문",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "과학",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미국",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254076",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254083",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254106",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254090",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254113",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254120",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254137",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168413955",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415034",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578410",
+          "vol": "1"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254076",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254083",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254090",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254106",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254113",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254120",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254137",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(초등학생이 알아야 할) 세상의 비밀 100가지 ",
+          "authors": "제롬 마틴,신인수 옮김",
+          "publisher": "비룡소인터내셔널",
+          "publication_year": "2023",
+          "isbn13": "9791190896979",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "생각의 탄생 :생각이 번쩍, 미래가 반짝!",
+          "authors": "글: 예병일,이창우",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2022",
+          "isbn13": "9788950942762",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팜 :기발한 상상력이 가득한 판타지 코딩과학동화",
+          "authors": "글: 홍지연 ;그림: 지문",
+          "publisher": "길벗",
+          "publication_year": "2019",
+          "isbn13": "9791160509441",
+          "vol": "1"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254076",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254083",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254106",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254090",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254113",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254120",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "팩토피아 :꼬리에 꼬리를 무는 400가지 사실들",
+          "authors": "케이트 헤일,조은영 옮김",
+          "publisher": "시공사",
+          "publication_year": "2022",
+          "isbn13": "9791169254137",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415034",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "물리박사 김상욱의 수상한 연구실 :어린이를 위한 세상의 모든 과학",
+          "authors": "글: 김하연 ;그림: 정순규",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2023",
+          "isbn13": "9791171171019",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매 이상한 나라의 고전 읽기",
+          "authors": "최재훈 글 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168416314",
+          "vol": "4"
+        }
+      }
+    ]
+  }
+}

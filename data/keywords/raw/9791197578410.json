@@ -1,0 +1,782 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791197578410",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+      "authors": "글: 채사장,그림: 정용환",
+      "publisher": "Dolphin Books(돌핀북)",
+      "publication_year": "2021",
+      "isbn13": "9791197578410",
+      "addition_symbol": "74900",
+      "vol": "1",
+      "class_no": "001",
+      "class_nm": "총류 > 총류 > 지식, 학문 일반",
+      "description": "인문학 분야 신기록, 트리플 밀리언셀러, ‘국민 교양서’ 《지적 대화를 위한 넓고 얕은 지식》이 드디어 어린이를 위한 책으로 나온다!지난 몇 년간 국내 인문학 열풍의 핵심은 《지적 대화를 위한 넓고 얕은 지식》 시리즈, 그리고 작가 채사장이었다. 그 어떤 이론보다 쉽고 재미있는 설명, 방대하고 복잡한... ",
+      "bookImageURL": "https://image.aladin.co.kr/product/27944/7/cover/k332734114_1.jpg",
+      "loanCnt": 52300
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1010,
+          "ranking": 626
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1106,
+          "ranking": 538
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 958,
+          "ranking": 558
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 832,
+          "ranking": 588
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 883,
+          "ranking": 623
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 931,
+          "ranking": 555
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1107,
+          "ranking": 509
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 864,
+          "ranking": 611
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 936,
+          "ranking": 514
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 885,
+          "ranking": 606
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 956,
+          "ranking": 397
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 905,
+          "ranking": 419
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 299,
+          "ranking": 250
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 148,
+          "ranking": 161
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 137,
+          "ranking": 260
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 109,
+          "ranking": 605
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 62,
+          "ranking": 225
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 36,
+          "ranking": 892
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 29,
+          "ranking": 328
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 23,
+          "ranking": 634
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "인문학",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지식",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대화",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지대넓얕",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "채사장의 지대넓얕",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스토리",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국내",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "팟캐스트",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "핵심",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지적",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주제",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우리는 언젠가 만난다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "열한 계단",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1위를",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사회",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "밀리언셀러",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "분야",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시민의 교양",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "재미",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "습득",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "트리플",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인문교양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단순",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최초",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정용환",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인문학적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "현실",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "Dolphin Books 돌핀북",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이해",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "채사장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강렬",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이들",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정보",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "중이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기록",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "근대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2015년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국민",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흐름",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "글쓰기",
+          "weight": "1"
+        }
+      },
+      {
+        "keyword": {
+          "word": "거의",
+          "weight": "1"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578427",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578434",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578441",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578458",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578465",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578472",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487006",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487013",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487037",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "정재승의 인간 탐구 보고서",
+          "authors": "글: 정재은,특대호 원고: 오경은",
+          "publisher": "아울북(북이십일 아울북)",
+          "publication_year": "2019",
+          "isbn13": "9788950983079",
+          "vol": "1"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578427",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578434",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578441",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578458",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578465",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578472",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487006",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487013",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487037",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487051",
+          "vol": "11"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578427",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578434",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578441",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578458",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578465",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791197578472",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487013",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487006",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487037",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "채사장의 지대넓얕 :지적 대화를 위한 넓고 얕은 지식",
+          "authors": "글: 채사장,그림: 정용환",
+          "publisher": "Dolphin Books(돌핀북)",
+          "publication_year": "2021",
+          "isbn13": "9791193487051",
+          "vol": "11"
+        }
+      }
+    ]
+  }
+}

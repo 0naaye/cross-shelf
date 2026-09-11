@@ -1,0 +1,726 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788954691673",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "트러스트 :에르난 디아스 장편소설",
+      "authors": "지은이: 에르난 디아스 ;옮긴이: 강동혁",
+      "publisher": "문학동네",
+      "publication_year": "2023",
+      "isbn13": "9788954691673",
+      "addition_symbol": "03840",
+      "vol": "",
+      "class_no": "843.6",
+      "class_nm": "문학 > 영미문학 > 소설",
+      "description": "1920년대 월 스트리트를 주요 배경으로 한 『트러스트』는 금융계에서 전설적인 성공을 거두며 어마어마한 부를 쌓은 앤드루 베벨과 밀드레드 베벨 부부에 대해 네 가지 서로 다른 이야기를 펼쳐나가면서 경제, 금융, 돈, 권력, 계급 등 오늘날 가장 시급하고 중요한 문제를 다룬다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/31180/30/cover/8954691676_1.jpg",
+      "loanCnt": 21571
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 541,
+          "ranking": 2330
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 517,
+          "ranking": 2762
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 368,
+          "ranking": 3572
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 334,
+          "ranking": 3419
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 317,
+          "ranking": 4063
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 296,
+          "ranking": 4505
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 499,
+          "ranking": 2773
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 337,
+          "ranking": 3550
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 285,
+          "ranking": 4886
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 302,
+          "ranking": 4454
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 256,
+          "ranking": 5206
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 216,
+          "ranking": 6219
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 36,
+          "ranking": 624
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "트러스트",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "먼 곳에서",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베벨",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "올해",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "타임",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "믿음",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "성공",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부부",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선정",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "앤드루",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에르난",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "권력",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "워싱턴 포스트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "밀드레드",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가디언",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미국",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신뢰",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보그",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "매체",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뉴욕 타임스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뉴요커",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "디아스",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "스트리트",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에르난 디아스",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "버락",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "금융",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어워드",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "부커상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "뉴욕",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "금융계",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단숨",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문학동네",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문제",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1920년대",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "오바마",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역할",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "HBO",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "전설적",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "후보",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강동혁  옮긴이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영미소설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "예정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "계급",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문단",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698199",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954695053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "authors": "지은이: 김기태",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9788954697941",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "홍학의 자리 :정해연 장편소설 ",
+          "authors": "지은이: 정해연",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954681155",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "물고기는 존재하지 않는다 :상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기 ",
+          "authors": "룰루 밀러 지음 ;정지인 옮김",
+          "publisher": "곰출판",
+          "publication_year": "2021",
+          "isbn13": "9791189327156",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "authors": "지은이: 김금희",
+          "publisher": "창비",
+          "publication_year": "2024",
+          "isbn13": "9788936439651",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "부처스 크로싱 ",
+          "authors": "지은이: 존 윌리엄스 ;옮긴이: 정세윤",
+          "publisher": "구픽",
+          "publication_year": "2023",
+          "isbn13": "9791187886921",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "먼 곳에서 :에르난 디아스 장편소설 ",
+          "authors": "지은이: 에르난 디아스 ;옮긴이: 강동혁",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9788954698733",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아우구스투스 :존 윌리엄스 장편소설 ",
+          "authors": "지은이: 존 윌리엄스 ;옮긴이: 조영학",
+          "publisher": "구픽",
+          "publication_year": "2016",
+          "isbn13": "9791195651474",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우리가 작별 인사를 할 때마다 ",
+          "authors": "마거릿 렌클 지음 ;최정수 옮김",
+          "publisher": "을유문화사",
+          "publication_year": "2023",
+          "isbn13": "9788932475011",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "레퓨테이션: 명예 :세라 본 장편소설 ",
+          "authors": "지은이: 세라 본 ;옮긴이: 신솔잎",
+          "publisher": "M창비(미디어창비)",
+          "publication_year": "2023",
+          "isbn13": "9791193022283",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "말리의 일곱 개의 달 :셰한 카루나틸라카 장편소설 ",
+          "authors": "지은이: 셰한 카루나틸라카 ;옮긴이: 유소영",
+          "publisher": "인플루엔셜",
+          "publication_year": "2023",
+          "isbn13": "9791168341289",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "견딜 수 없는 사랑 :이언 매큐언 장편소설 ",
+          "authors": "지은이: 이언 매큐언 ;옮긴이: 한정아",
+          "publisher": "복복서가",
+          "publication_year": "2023",
+          "isbn13": "9791191114430",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "밤의 경비원 ",
+          "authors": "루이스 어드리크 지음 ;이지예 옮김",
+          "publisher": "프시케의숲",
+          "publication_year": "2023",
+          "isbn13": "9791189336592",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "내 이름은 데몬 코퍼헤드 :바버라 킹솔버 장편소설 ",
+          "authors": "지은이: 바버라 킹솔버 ;옮긴이: 강동혁",
+          "publisher": "은행나무",
+          "publication_year": "2024",
+          "isbn13": "9791167371683",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우리 슬픔의 거울 :피에르 르메트르 장편소설 ",
+          "authors": "지은이: 피에르 르메트르 ;옮긴이: 임호경",
+          "publisher": "열린책들",
+          "publication_year": "2023",
+          "isbn13": "9788932923086",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "맡겨진 소녀 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 허진",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130698199",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아주 희미한 빛으로도 :최은영 소설 ",
+          "authors": "지은이: 최은영",
+          "publisher": "문학동네",
+          "publication_year": "2023",
+          "isbn13": "9788954695053",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "대온실 수리 보고서 :김금희 장편소설 ",
+          "authors": "지은이: 김금희",
+          "publisher": "창비",
+          "publication_year": "2024",
+          "isbn13": "9788936439651",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이처럼 사소한 것들 :클레어 키건 소설 ",
+          "authors": "지은이: 클레어 키건 ;옮긴이: 홍한별",
+          "publisher": "다산북스",
+          "publication_year": "2023",
+          "isbn13": "9791130646381",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "두 사람의 인터내셔널 :김기태 소설 ",
+          "authors": "지은이: 김기태",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9788954697941",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "나는 메트로폴리탄 미술관의 경비원입니다 :가장 경이로운 세계 속으로 숨어버린 한 남자의 이야기 ",
+          "authors": "패트릭 브링리 지음 ;조현주 옮김",
+          "publisher": "웅진씽크빅",
+          "publication_year": "2023",
+          "isbn13": "9788901276533",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "우연은 비켜 가지 않는다 :줄리언 반스 장편소설 ",
+          "authors": "지은이: 줄리언 반스 ;옮긴이: 정영목",
+          "publisher": "다산북스",
+          "publication_year": "2024",
+          "isbn13": "9791130655925",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

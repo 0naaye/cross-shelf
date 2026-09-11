@@ -1,0 +1,717 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788932023533",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "노랑무늬영원 :한강 소설집",
+      "authors": "지은이: 한강",
+      "publisher": "문학과지성사",
+      "publication_year": "2012",
+      "isbn13": "9788932023533",
+      "addition_symbol": "03810",
+      "vol": "",
+      "class_no": "813.62",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "1993년 등단한 이래 줄곧, 삶의 근원에 자리한 인간 본연의 고독과 고통, 그럼에도 불구하고 진실에의 추구와 삶을 향한 의지를 특유의 단단하고 시정 어린 문체로 그려온 작가 한강이 &lt;내 여자의 열매&gt; 이후 12년 만에 출간한 세번째 소설집.",
+      "bookImageURL": "http://image.aladin.co.kr/product/2058/16/cover/8932023530_1.jpg",
+      "loanCnt": 23713
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 304,
+          "ranking": 5455
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 270,
+          "ranking": 6855
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 208,
+          "ranking": 8088
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 155,
+          "ranking": 9657
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 149,
+          "ranking": 11445
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 155,
+          "ranking": 10922
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 195,
+          "ranking": 10104
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 126,
+          "ranking": 13309
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 122,
+          "ranking": 15132
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 124,
+          "ranking": 14586
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 97,
+          "ranking": 17951
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 106,
+          "ranking": 15534
+        }
+      }
+    ],
+    "loanGrps": [],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "노랑무늬영원",
+          "weight": "21"
+        }
+      },
+      {
+        "keyword": {
+          "word": "채식주의자",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한강",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고통",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "에우로파",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소설집",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "훈자",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바람이 분다 가라",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소년이 온다",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "내 여자의 열매",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "희랍어 시간",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그대의 차가운 손",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "근원",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "중편",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인간",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "질문",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여름",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고독",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자리",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문학과사회",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "파란 돌",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "회복하는 인간",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "붉은 닻",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바람",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서랍에 저녁을 넣어 두었다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "실재",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여수의 사랑",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세번째",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단단",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "싶어진다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "왼손",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "태양",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문학과지성사",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "검은 사슴",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1993년",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발표",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "의지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "장편소설",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기억",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2002년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "긴밀",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "본연",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감각",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "결국",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "경계",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "계절",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바람이 분다, 가라 :한강 장편소설 ",
+          "authors": "한강",
+          "publisher": "문학과지성사",
+          "publication_year": "2010",
+          "isbn13": "9788932020006",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "희랍어 시간 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2011",
+          "isbn13": "9788954616515",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "채식주의자:한강 연작소설",
+          "authors": "한강",
+          "publisher": "창비",
+          "publication_year": "2007",
+          "isbn13": "9788936433598",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흰 :한강 소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2016",
+          "isbn13": "9788954640718",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "그대의 차가운 손:한강 장편소설",
+          "authors": "한강 지음",
+          "publisher": "문학과지성사",
+          "publication_year": "2002",
+          "isbn13": "9788932013046",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "내 여자의 열매 :한강 소설집 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학과지성사",
+          "publication_year": "2018",
+          "isbn13": "9788932034829",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흰 :한강 소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2018",
+          "isbn13": "9788954651134",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "서랍에 저녁을 넣어 두었다 :한강 시집 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학과지성사",
+          "publication_year": "2013",
+          "isbn13": "9788932024639",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "내 여자의 열매:한강 소설",
+          "authors": "한강 지음",
+          "publisher": "창작과비평사",
+          "publication_year": "2000",
+          "isbn13": "9788936436575",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "붉은 꽃 이야기 ",
+          "authors": "지은이: 한강 ;그린이: 우승우",
+          "publisher": "열림원",
+          "publication_year": "2003",
+          "isbn13": "9788970633336",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "여수의 사랑 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학과지성사",
+          "publication_year": "2012",
+          "isbn13": "9788932022802",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "검은 사슴:한강 장편소설",
+          "authors": "한강 지음",
+          "publisher": "문학동네",
+          "publication_year": "1998",
+          "isbn13": "9788982811333",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(한강 산문집)사랑과, 사랑을 둘러싼 것들",
+          "authors": "한강 지음",
+          "publisher": "열림원",
+          "publication_year": "2003",
+          "isbn13": "9788970633695",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "(한강 소설집)여수의 사랑",
+          "authors": "한강 지음",
+          "publisher": "문학과 지성사",
+          "publication_year": "1995",
+          "isbn13": "9788932007502",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "여수의 사랑 :한강 소설집 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학과지성사",
+          "publication_year": "2017",
+          "isbn13": "9788932029993",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "가만가만 부르는 노래:한강 산문집",
+          "authors": "한강",
+          "publisher": "비채",
+          "publication_year": "2007",
+          "isbn13": "9788992036276",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "그대의 차가운 손:한강 장편소설",
+          "authors": "한강 지음",
+          "publisher": "문학과지성사",
+          "publication_year": "2002",
+          "isbn13": "9788932013046",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흰 :한강 소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2016",
+          "isbn13": "9788954640718",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "작별하지 않는다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2021",
+          "isbn13": "9788954682152",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "빛과 실 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학과지성사",
+          "publication_year": "2025",
+          "isbn13": "9788932043562",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바람이 분다, 가라 :한강 장편소설 ",
+          "authors": "한강",
+          "publisher": "문학과지성사",
+          "publication_year": "2010",
+          "isbn13": "9788932020006",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "소년이 온다 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "창비",
+          "publication_year": "2014",
+          "isbn13": "9788936434120",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "희랍어 시간 :한강 장편소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2011",
+          "isbn13": "9788954616515",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "채식주의자:한강 연작소설",
+          "authors": "한강",
+          "publisher": "창비",
+          "publication_year": "2007",
+          "isbn13": "9788936433598",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "흰 :한강 소설 ",
+          "authors": "지은이: 한강",
+          "publisher": "문학동네",
+          "publication_year": "2016",
+          "isbn13": "9788954640718",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "혼모노 :성해나 소설집 ",
+          "authors": "지은이: 성해나",
+          "publisher": "창비",
+          "publication_year": "2025",
+          "isbn13": "9788936439743",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

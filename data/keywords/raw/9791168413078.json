@@ -1,0 +1,846 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791168413078",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+      "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+      "publisher": "미래엔",
+      "publication_year": "2022",
+      "isbn13": "9791168413078",
+      "addition_symbol": "77030",
+      "vol": "1",
+      "class_no": "388",
+      "class_nm": "사회과학 > 풍속, 민속학 > 민간전승",
+      "description": "유튜브 크리에이터 ‘흔한남매’와 함께 수수께끼를 풀며 교과 지식을 배우는 학습 만화이다. 흔한남매와 함께 어드벤처 곳곳에 담긴 알쏭달쏭한 수수께끼를 풀다 보면 웃음은 물론이고, 교과와 연계된 지식을 쉽고 재미있게 익힐 수 있다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/30112/78/cover/k402839980_1.jpg",
+      "loanCnt": 51400
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1603,
+          "ranking": 152
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1715,
+          "ranking": 134
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1486,
+          "ranking": 133
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1287,
+          "ranking": 142
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1469,
+          "ranking": 119
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1413,
+          "ranking": 146
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1615,
+          "ranking": 146
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1383,
+          "ranking": 135
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1335,
+          "ranking": 183
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1344,
+          "ranking": 166
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1318,
+          "ranking": 161
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1211,
+          "ranking": 173
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 356,
+          "ranking": 156
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 202,
+          "ranking": 53
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 152,
+          "ranking": 174
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 138,
+          "ranking": 327
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 120,
+          "ranking": 480
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 104,
+          "ranking": 44
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 96,
+          "ranking": 69
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 74,
+          "ranking": 117
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 61,
+          "ranking": 293
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 42,
+          "ranking": 204
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 32,
+          "ranking": 292
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 27,
+          "ranking": 631
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 21,
+          "ranking": 783
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 21,
+          "ranking": 771
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 19,
+          "ranking": 105
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 13,
+          "ranking": 845
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "수수께끼",
+          "weight": "26"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교과",
+          "weight": "15"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지식",
+          "weight": "15"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흔한남매",
+          "weight": "13"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바다",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "크리에이터",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "웃음",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "유튜브",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "해적선",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "똑똑",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수상",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어드벤처",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "놀이공원",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "탈출",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "배우",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흔한남매 수수께끼 어드벤처",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "학습",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흔한컴퍼니",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "기구",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "놀이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제1화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "습격",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "추억",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "바닷속",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사랑",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제4화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소금",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선실",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "밀물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연계",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "갯벌",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "곳곳",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교통수단",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제2화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "제5화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "공간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "코미디",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정재형  감수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "도니패밀리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화 일반",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "목적지",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "문어",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "물결",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "물질",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "으뜸이와",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168414921",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415591",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168417656",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168412477",
+          "vol": "11"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168411685",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168413931",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164138197",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168414471",
+          "vol": "12"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164139897",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791164137527",
+          "vol": "7"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168414921",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415591",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168417656",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791173113444",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 별난 세계 여행",
+          "authors": "흔한남매 원작 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791168415355",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 흔한 게임",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2024",
+          "isbn13": "9791168418905",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 별난 세계 여행",
+          "authors": "흔한남매 원작 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791168416628",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 별난 세계 여행",
+          "authors": "흔한남매 원작 ;정주연 그림",
+          "publisher": "미래엔",
+          "publication_year": "2023",
+          "isbn13": "9791168418424",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 흔한 게임",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2024",
+          "isbn13": "9791173470660",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 별난 방탈출 :탈출 미션 스토리북",
+          "authors": "흔한남매 원작 ;차차 그림",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168411692",
+          "vol": "5"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168414921",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168415591",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+          "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+          "publisher": "미래엔",
+          "publication_year": "2022",
+          "isbn13": "9791168417656",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168416369",
+          "vol": "14"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168417199",
+          "vol": "15"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168415232",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418011",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168415409",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2019",
+          "isbn13": "9791168418844",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "흔한남매의 흔한 호기심 :일상에서 만나는 과학 상식",
+          "authors": "원작: 흔한남매 ;그림: 유난희",
+          "publisher": "미래엔",
+          "publication_year": "2020",
+          "isbn13": "9791168416598",
+          "vol": "10"
+        }
+      }
+    ]
+  }
+}

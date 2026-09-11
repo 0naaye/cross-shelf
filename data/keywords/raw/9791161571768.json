@@ -1,0 +1,846 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791161571768",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "나의 돈키호테 :김호연 장편소설",
+      "authors": "지은이: 김호연",
+      "publisher": "나무옆의자",
+      "publication_year": "2024",
+      "isbn13": "9791161571768",
+      "addition_symbol": "03810",
+      "vol": "",
+      "class_no": "813.7",
+      "class_nm": "문학 > 한국문학 > 소설",
+      "description": "150만 독자가 애독하며 수만 개의 입소문 리뷰를 탄생시킨 국민 힐링소설 『불편한 편의점』의 작가 김호연이 소설 『나의 돈키호테』로 돌아왔다. 이제는 사라진 옛날 동네 비디오 가게에서 시작되는 꿈과 모험의 여정을 담은 소설이다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/33798/94/cover/k852930477_1.jpg",
+      "loanCnt": 30812
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 2033,
+          "ranking": 50
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1988,
+          "ranking": 69
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1616,
+          "ranking": 98
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 1528,
+          "ranking": 70
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 1457,
+          "ranking": 123
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 1388,
+          "ranking": 154
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1618,
+          "ranking": 143
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 1306,
+          "ranking": 175
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 1231,
+          "ranking": 237
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 1177,
+          "ranking": 258
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 1092,
+          "ranking": 286
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 1002,
+          "ranking": 315
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 345,
+          "ranking": 175
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "여성",
+          "loanCnt": 110,
+          "ranking": 142
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 94,
+          "ranking": 755
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 57,
+          "ranking": 41
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "여성",
+          "loanCnt": 54,
+          "ranking": 92
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 47,
+          "ranking": 82
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "50대",
+          "gender": "남성",
+          "loanCnt": 39,
+          "ranking": 293
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "여성",
+          "loanCnt": 39,
+          "ranking": 566
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "여성",
+          "loanCnt": 36,
+          "ranking": 282
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 30,
+          "ranking": 28
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "60대이상",
+          "gender": "남성",
+          "loanCnt": 22,
+          "ranking": 847
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "청소년",
+          "gender": "남성",
+          "loanCnt": 21,
+          "ranking": 80
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 19,
+          "ranking": 942
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 15,
+          "ranking": 198
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "20대",
+          "gender": "남성",
+          "loanCnt": 12,
+          "ranking": 450
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 10,
+          "ranking": 73
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "불편한 편의점",
+          "weight": "18"
+        }
+      },
+      {
+        "keyword": {
+          "word": "비디오",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "불편한 편의점 2",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "망원동 브라더스",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나의 돈키호테",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "돈키호테",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "독자",
+          "weight": "7"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가게",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이중간첩",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김호연",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "동네",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아저씨",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한빈",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "자리",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신작",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "연적",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "남한산성",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인기",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "고스트라이터즈",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "태양을 쏴라",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "파우스터",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시나리오",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2024년",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김호연의 작업실",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2021년",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대전",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "실험인간지대",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "옛날",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2000년대 이후 한국소설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "관심",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "세계문학상",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "국민",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "열렬",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "영화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "베일",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "모험",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2013년",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "4월",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "애독",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "리뷰",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감동",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "개의",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "입소문",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "위로",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "힐링소설",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "보장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나무옆의자",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바다가 들리는 편의점 ",
+          "authors": "마치다 소노코 지음 ;황국영 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2023",
+          "isbn13": "9791192579504",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "망원동 브라더스 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2013",
+          "isbn13": "9788997962129",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "연남동 빙굴빙굴 빨래방 :김지윤 장편소설 ",
+          "authors": "지은이: 김지윤",
+          "publisher": "팩토리나인",
+          "publication_year": "2023",
+          "isbn13": "9791165347734",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "비가 오면 열리는 상점 =유영광 장편소설 /The rainbow goblin store ",
+          "authors": "지은이: 유영광",
+          "publisher": "클레이하우스",
+          "publication_year": "2023",
+          "isbn13": "9791198173898",
+          "vol": ""
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "나의 돈키호테를 찾아서 :포기하지 않으면 만나는 것들 ",
+          "authors": "김호연 지음",
+          "publisher": "푸른숲",
+          "publication_year": "2025",
+          "isbn13": "9791172540500",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "고스트라이터즈 =김호연 장편소설 /Ghost writers ",
+          "authors": "지은이: 김호연",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2017",
+          "isbn13": "9788959134953",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "망원동 브라더스 - 제9회 세계문학상 우수상",
+          "authors": "김호연 (지은이)",
+          "publisher": "나무옆의자",
+          "publication_year": "2024",
+          "isbn13": "9791161571829",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "연적 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2015",
+          "isbn13": "9791186748138",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "파우스터 =김호연 장편소설 /Fauster ",
+          "authors": "지은이: 김호연",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2019",
+          "isbn13": "9791189938642",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "씨 유 어게인 =김지윤 장편소설 /See you again ",
+          "authors": "지은이: 김지윤",
+          "publisher": "클레이하우스",
+          "publication_year": "2024",
+          "isbn13": "9791193235195",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "분실물이 돌아왔습니다 :김혜정 장편소설 ",
+          "authors": "지은이: 김혜정",
+          "publisher": "밀리의서재",
+          "publication_year": "2024",
+          "isbn13": "9791169083812",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바다가 들리는 편의점",
+          "authors": "마치다 소노코 지음 ;황국영 옮김",
+          "publisher": "오팬하우스",
+          "publication_year": "2023",
+          "isbn13": "9791193358849",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "중고나라 선녀님 :허태연 장편소설 ",
+          "authors": "지은이: 허태연",
+          "publisher": "다산북스",
+          "publication_year": "2024",
+          "isbn13": "9791130648590",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "까멜리아 싸롱 :고수리 장편소설 ",
+          "authors": "지은이: 고수리 ;일러스트: 하이쑤",
+          "publisher": "클레이하우스",
+          "publication_year": "2024",
+          "isbn13": "9791193235263",
+          "vol": ""
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2022",
+          "isbn13": "9791161571379",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "불편한 편의점 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2021",
+          "isbn13": "9791161571188",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "메리골드 마음 세탁소 =윤정은 장편소설 /Marigold mind laundry ",
+          "authors": "글: 윤정은",
+          "publisher": "북로망스",
+          "publication_year": "2023",
+          "isbn13": "9791191891287",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "바다가 들리는 편의점 ",
+          "authors": "마치다 소노코 지음 ;황국영 옮김",
+          "publisher": "바이포엠 스튜디오",
+          "publication_year": "2023",
+          "isbn13": "9791192579504",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "아버지의 해방일지 :정지아 장편소설 ",
+          "authors": "지은이: 정지아",
+          "publisher": "창비",
+          "publication_year": "2022",
+          "isbn13": "9788936438838",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "이중 하나는 거짓말 :김애란 장편소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2024",
+          "isbn13": "9791141601300",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "어서오세요, 휴남동 서점입니다 :황보름 장편소설 ",
+          "authors": "지은이: 황보름",
+          "publisher": "클레이하우스",
+          "publication_year": "2022",
+          "isbn13": "9791197377143",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "안녕이라 그랬어 :김애란 소설 ",
+          "authors": "지은이: 김애란",
+          "publisher": "문학동네",
+          "publication_year": "2025",
+          "isbn13": "9791141602376",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "망원동 브라더스 :김호연 장편소설 ",
+          "authors": "지은이: 김호연",
+          "publisher": "나무옆의자",
+          "publication_year": "2013",
+          "isbn13": "9788997962129",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "연남동 빙굴빙굴 빨래방 :김지윤 장편소설 ",
+          "authors": "지은이: 김지윤",
+          "publisher": "팩토리나인",
+          "publication_year": "2023",
+          "isbn13": "9791165347734",
+          "vol": ""
+        }
+      }
+    ]
+  }
+}

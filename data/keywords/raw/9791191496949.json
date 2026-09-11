@@ -1,0 +1,822 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9791191496949",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "(설민석의) 그리스 로마 신화 대모험",
+      "authors": "글: 설민석,스튜디오 담",
+      "publisher": "Dankkum i(단꿈아이)",
+      "publication_year": "2022",
+      "isbn13": "9791191496949",
+      "addition_symbol": "77890",
+      "vol": "2",
+      "class_no": "219",
+      "class_nm": "종교 > 비교종교학 > 신화, 신화학",
+      "description": "오랜 시간 그 가치를 인정받은 그리스 로마 신화에 설쌤의 풍부한 상상력을 더한 새로운 대모험 시리즈다. &lt;설민석의 그리스 로마 신화 대모험&gt;은 낯설고 어려운 그리스 로마 신화를 어린이의 눈높이에 맞춰 아주 쉽게, 흥미진진한 만화로 재구성했다.",
+      "bookImageURL": "https://image.aladin.co.kr/product/30841/64/cover/k382831374_1.jpg",
+      "loanCnt": 31385
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1144,
+          "ranking": 445
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1221,
+          "ranking": 401
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1016,
+          "ranking": 468
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 908,
+          "ranking": 452
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 984,
+          "ranking": 462
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 965,
+          "ranking": 483
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1151,
+          "ranking": 440
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 918,
+          "ranking": 497
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 907,
+          "ranking": 569
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 913,
+          "ranking": 551
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 839,
+          "ranking": 625
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 863,
+          "ranking": 487
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 231,
+          "ranking": 513
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 132,
+          "ranking": 241
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 130,
+          "ranking": 385
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "여성",
+          "loanCnt": 104,
+          "ranking": 617
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 102,
+          "ranking": 669
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 75,
+          "ranking": 168
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 49,
+          "ranking": 555
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 47,
+          "ranking": 597
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 42,
+          "ranking": 686
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "여성",
+          "loanCnt": 39,
+          "ranking": 300
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 24,
+          "ranking": 761
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 23,
+          "ranking": 634
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 12,
+          "ranking": 687
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "신화",
+          "weight": "15"
+        }
+      },
+      {
+        "keyword": {
+          "word": "그리스",
+          "weight": "11"
+        }
+      },
+      {
+        "keyword": {
+          "word": "로마",
+          "weight": "9"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설쌤",
+          "weight": "8"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시리즈",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대한민국",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "퀴즈",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "수상",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "여신",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "생생",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "누구",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석의 책 읽어드립니다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석의 조선왕조실록",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "최고",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석의 삼국지 대모험",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "어린이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "지식",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "단꿈아이",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석의 한국사 대모험",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석의 세계사 대모험",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역사교육부문",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석의 삼국지",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "한국사",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대모험",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석의 무도 한국사 특강",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석의 첫출발 한국사",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "강의",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "설민석의 한국사는 살아있다",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "소개",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "등장인물",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대중",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만남",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "만화",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "마음속",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사람",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "시간",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가치",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감동",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "감수자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "선생님",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "김헌  감수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신화 종교",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "남이담",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이들",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아주",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신전",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2017년",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791191496628",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791198179982",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031209",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031278",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031377",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031612",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031667",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031711",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031940",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "설민석의 한국사 대모험",
+          "authors": "글: 설민석,그림: 정현희",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791198179913",
+          "vol": "24"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791191496628",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791198179982",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031209",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031278",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031377",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031612",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031667",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031711",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031940",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791194616054",
+          "vol": "11"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791191496628",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791198179982",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031209",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031278",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031377",
+          "vol": "6"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031612",
+          "vol": "7"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031667",
+          "vol": "8"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031711",
+          "vol": "9"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791193031940",
+          "vol": "10"
+        }
+      },
+      {
+        "book": {
+          "bookname": "(설민석의) 그리스 로마 신화 대모험",
+          "authors": "글: 설민석,스튜디오 담",
+          "publisher": "Dankkum i(단꿈아이)",
+          "publication_year": "2022",
+          "isbn13": "9791194616054",
+          "vol": "11"
+        }
+      }
+    ]
+  }
+}

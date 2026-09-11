@@ -1,0 +1,822 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788934942641",
+      "format": "json"
+    },
+    "book": {
+      "bookname": "놓지 마 맞춤법",
+      "authors": "신태훈,나승훈 글·그림",
+      "publisher": "김영사",
+      "publication_year": "2023",
+      "isbn13": "9788934942641",
+      "addition_symbol": "77700",
+      "vol": "1",
+      "class_no": "711",
+      "class_nm": "언어 > 한국어 > 음운, 음성, 문자",
+      "description": "아이들을 위한 우리말 맞춤법 학습만화이다. 초등학생 교과서와 참고서는 물론, 일상생활에서 헷갈리기 쉬운 맞춤법 사례 100여 개를 골고루 담았다. ‘한국어 맞춤법 규정’을 아이들의 눈높이 맞게 풀이해, 맞춤법의 원리까지 이해할 수 있도록 했다. 또 O/X 퀴즈, 가로세로 퍼즐, 미로 찾기 등 다양한 퀴즈를 통해 맞춤법에 더욱 흥미를 붙일 수 있도록 구성하였다. 정신이 가족과 함께 기막히고 긴장감 넘치는 서바이벌 게임에 참가하여 헷갈리는 맞춤법을 단숨에 정복해 보자.오늘도 인생 역전을 노리는 세계인에게 어느 날 날아온 한 통의 초대장. 이들은 10년에 한 번 열리는 서바이벌 대회 ‘정신줄 월드컵’에 참가하여 치열한 대결을 펼치게 된다. 이번 대회의 주제는 맞춤법! 맞춤법을 정복한 최후의 1인에게는 세상을 지배할 ‘황금 정신줄’이, 맞춤법을 틀려 중간에 탈락하면 무시무시한(!) 벌칙이 기다리고 있는데… 수많은 경쟁자를 물리치고 황금 정신줄을 차지하여 인생 역전에 성공할 자는 과연 누구인가?",
+      "bookImageURL": "https://image.aladin.co.kr/product/31745/74/cover/8934942649_1.jpg",
+      "loanCnt": 23879
+    },
+    "loanHistory": [
+      {
+        "loan": {
+          "month": "2025년 07월",
+          "loanCnt": 1173,
+          "ranking": 407
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 08월",
+          "loanCnt": 1185,
+          "ranking": 442
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 09월",
+          "loanCnt": 1071,
+          "ranking": 409
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 10월",
+          "loanCnt": 947,
+          "ranking": 393
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 11월",
+          "loanCnt": 992,
+          "ranking": 451
+        }
+      },
+      {
+        "loan": {
+          "month": "2025년 12월",
+          "loanCnt": 968,
+          "ranking": 475
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 01월",
+          "loanCnt": 1175,
+          "ranking": 402
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 02월",
+          "loanCnt": 968,
+          "ranking": 407
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 03월",
+          "loanCnt": 924,
+          "ranking": 536
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 04월",
+          "loanCnt": 909,
+          "ranking": 560
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 05월",
+          "loanCnt": 871,
+          "ranking": 555
+        }
+      },
+      {
+        "loan": {
+          "month": "2026년 06월",
+          "loanCnt": 829,
+          "ranking": 567
+        }
+      }
+    ],
+    "loanGrps": [
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "여성",
+          "loanCnt": 194,
+          "ranking": 819
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "남성",
+          "loanCnt": 163,
+          "ranking": 127
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "40대",
+          "gender": "남성",
+          "loanCnt": 127,
+          "ranking": 281
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "초등",
+          "gender": "여성",
+          "loanCnt": 103,
+          "ranking": 690
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 81,
+          "ranking": 124
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 80,
+          "ranking": 90
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 49,
+          "ranking": 555
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 41,
+          "ranking": 91
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 34,
+          "ranking": 955
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "유아",
+          "gender": "남성",
+          "loanCnt": 23,
+          "ranking": 832
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "여성",
+          "loanCnt": 23,
+          "ranking": 634
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "30대",
+          "gender": "남성",
+          "loanCnt": 20,
+          "ranking": 958
+        }
+      },
+      {
+        "loanGrp": {
+          "age": "",
+          "gender": "남성",
+          "loanCnt": 3,
+          "ranking": 727
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "keyword": {
+          "word": "맞춤법",
+          "weight": "34"
+        }
+      },
+      {
+        "keyword": {
+          "word": "알쏭달쏭",
+          "weight": "12"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정신",
+          "weight": "10"
+        }
+      },
+      {
+        "keyword": {
+          "word": "월드컵",
+          "weight": "6"
+        }
+      },
+      {
+        "keyword": {
+          "word": "아이들",
+          "weight": "5"
+        }
+      },
+      {
+        "keyword": {
+          "word": "멘탈스톤",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정복",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "퀴즈",
+          "weight": "4"
+        }
+      },
+      {
+        "keyword": {
+          "word": "놓지 마 맞춤법",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주제",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "인생",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "우리말",
+          "weight": "3"
+        }
+      },
+      {
+        "keyword": {
+          "word": "다양",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "눈높이",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "이해",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "놀이터",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "발생",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "원리",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "미로",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "초등학생",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "주니어김영사",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "위기",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정상은  감수",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "정구",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "일상생활",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대회",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "대활약",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "흥미",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "나승훈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "6장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "5장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "역전",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "4장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "3장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "2장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "1장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "서바이벌",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "사례",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "7장",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "참가",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "O X",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "탈락자",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "글쓰기 일반",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "규정",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "참고서",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교실",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "교과서",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가족",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "신태훈",
+          "weight": "2"
+        }
+      },
+      {
+        "keyword": {
+          "word": "가로세로",
+          "weight": "2"
+        }
+      }
+    ],
+    "coLoanBooks": [
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법 2 - 불꽃 튀는 본선 속으로",
+          "authors": "신태훈 (지은이), 나승훈 (그림), 정상은 (감수)",
+          "publisher": "주니어김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934946601",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934908296",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934926924",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 어휘 :한자어",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934990987",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168122369",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168126336",
+          "vol": "18"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190630184",
+          "vol": "13"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 어휘 :한자어",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934989882",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168120266",
+          "vol": "16"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190305310",
+          "vol": "12"
+        }
+      }
+    ],
+    "maniaRecBooks": [
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법 2 - 불꽃 튀는 본선 속으로",
+          "authors": "신태훈 (지은이), 나승훈 (그림), 정상은 (감수)",
+          "publisher": "주니어김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934946601",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934908296",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934926924",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9791173320385",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 속담",
+          "authors": "글·그림: 신태훈,정보글: 김지현",
+          "publisher": "김영사",
+          "publication_year": "2024",
+          "isbn13": "9788934908760",
+          "vol": "2"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 속담 1 - 일상생활",
+          "authors": "신태훈 (지은이), 나승훈 (그림), 정상은 (감수)",
+          "publisher": "주니어김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934946786",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 어휘 한자어 4",
+          "authors": "신태훈 (지은이), 나승훈 (그림), 정상은 (감수)",
+          "publisher": "주니어김영사",
+          "publication_year": "2022",
+          "isbn13": "9788934979968",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 어휘 :한자어",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934980056",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 어휘 :한자어",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934990987",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 어휘 :한자어",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934989882",
+          "vol": "2"
+        }
+      }
+    ],
+    "readerRecBooks": [
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법 2 - 불꽃 튀는 본선 속으로",
+          "authors": "신태훈 (지은이), 나승훈 (그림), 정상은 (감수)",
+          "publisher": "주니어김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934946601",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934926924",
+          "vol": "4"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9791173320385",
+          "vol": "5"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 맞춤법",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934908296",
+          "vol": "3"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791171712267",
+          "vol": "19"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 어휘 :한자어",
+          "authors": "신태훈,나승훈 글·그림",
+          "publisher": "김영사",
+          "publication_year": "2021",
+          "isbn13": "9788934990987",
+          "vol": "1"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168122369",
+          "vol": "17"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791168126336",
+          "vol": "18"
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 속담 1 - 일상생활",
+          "authors": "신태훈 (지은이), 나승훈 (그림), 정상은 (감수)",
+          "publisher": "주니어김영사",
+          "publication_year": "2023",
+          "isbn13": "9788934946786",
+          "vol": ""
+        }
+      },
+      {
+        "book": {
+          "bookname": "놓지 마 과학!",
+          "authors": "글·그림: 신태훈,나승훈",
+          "publisher": "위즈덤하우스",
+          "publication_year": "2016",
+          "isbn13": "9791190630184",
+          "vol": "13"
+        }
+      }
+    ]
+  }
+}

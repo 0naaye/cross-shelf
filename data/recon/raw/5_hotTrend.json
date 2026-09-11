@@ -1,0 +1,314 @@
+{
+  "response": {
+    "request": {
+      "searchDt": "2024-12-01",
+      "format": "json"
+    },
+    "results": [
+      {
+        "result": {
+          "date": "2024-12-01",
+          "docs": [
+            {
+              "doc": {
+                "no": 1,
+                "difference": 81,
+                "baseWeekRank": 76,
+                "pastWeekRank": 157,
+                "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+                "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+                "publisher": "미래엔",
+                "publication_year": "2022",
+                "isbn13": "9791168414921",
+                "addition_symbol": "77030",
+                "vol": "2",
+                "class_no": "388",
+                "class_nm": "사회과학 > 풍속, 민속학 > 민간전승",
+                "bookImageURL": "https://image.aladin.co.kr/product/31033/55/cover/k112831415_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6635456"
+              }
+            },
+            {
+              "doc": {
+                "no": 2,
+                "difference": 78,
+                "baseWeekRank": 81,
+                "pastWeekRank": 159,
+                "bookname": "(흔한남매) 별난 세계 여행",
+                "authors": "흔한남매 원작 ;정주연 그림",
+                "publisher": "미래엔",
+                "publication_year": "2023",
+                "isbn13": "9791168415355",
+                "addition_symbol": "74810",
+                "vol": "1",
+                "class_no": "980.2",
+                "class_nm": "역사 > 지리 > 지리",
+                "bookImageURL": "https://image.aladin.co.kr/product/31704/70/cover/k952833687_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6695722"
+              }
+            },
+            {
+              "doc": {
+                "no": 3,
+                "difference": 71,
+                "baseWeekRank": 52,
+                "pastWeekRank": 123,
+                "bookname": "고전이 답했다 :마땅히 살아야 할 삶에 대하여 ",
+                "authors": "고명환 지음",
+                "publisher": "라곰",
+                "publication_year": "2024",
+                "isbn13": "9791193939130",
+                "addition_symbol": "03320",
+                "vol": "",
+                "class_no": "199.1",
+                "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+                "bookImageURL": "https://image.aladin.co.kr/product/34526/60/cover200/k622932853_2.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6935936"
+              }
+            },
+            {
+              "doc": {
+                "no": 4,
+                "difference": 51,
+                "baseWeekRank": 97,
+                "pastWeekRank": 148,
+                "bookname": "국어 잘하는 아이가 이깁니다 :'갓민애' 교수의 초등 국어 달인 만들기 ",
+                "authors": "나민애 지음",
+                "publisher": "김영사",
+                "publication_year": "2024",
+                "isbn13": "9788934965404",
+                "addition_symbol": "13590",
+                "vol": "",
+                "class_no": "375.471",
+                "class_nm": "사회과학 > 교육학 > 유아 및 초등교육",
+                "bookImageURL": "https://image.aladin.co.kr/product/33600/46/cover/8934965401_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6843539"
+              }
+            },
+            {
+              "doc": {
+                "no": 5,
+                "difference": 50,
+                "baseWeekRank": 100,
+                "pastWeekRank": 150,
+                "bookname": "불안 세대 :디지털 세계는 우리 아이들을 어떻게 병들게 하는가 ",
+                "authors": "조너선 하이트 지음 ;이충호 옮김",
+                "publisher": "웅진씽크빅",
+                "publication_year": "2024",
+                "isbn13": "9788901285894",
+                "addition_symbol": "03180",
+                "vol": "",
+                "class_no": "334.3",
+                "class_nm": "사회과학 > 사회학, 사회문제 > 사회문제",
+                "bookImageURL": "https://image.aladin.co.kr/product/34372/90/cover200/8901285894_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6922788"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "result": {
+          "date": "2024-11-30",
+          "docs": [
+            {
+              "doc": {
+                "no": 1,
+                "difference": 71,
+                "baseWeekRank": 88,
+                "pastWeekRank": 159,
+                "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+                "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+                "publisher": "미래엔",
+                "publication_year": "2022",
+                "isbn13": "9791168414921",
+                "addition_symbol": "77030",
+                "vol": "2",
+                "class_no": "388",
+                "class_nm": "사회과학 > 풍속, 민속학 > 민간전승",
+                "bookImageURL": "https://image.aladin.co.kr/product/31033/55/cover/k112831415_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6635456"
+              }
+            },
+            {
+              "doc": {
+                "no": 2,
+                "difference": 46,
+                "baseWeekRank": 69,
+                "pastWeekRank": 115,
+                "bookname": "고전이 답했다 :마땅히 살아야 할 삶에 대하여 ",
+                "authors": "고명환 지음",
+                "publisher": "라곰",
+                "publication_year": "2024",
+                "isbn13": "9791193939130",
+                "addition_symbol": "03320",
+                "vol": "",
+                "class_no": "199.1",
+                "class_nm": "철학 > 윤리학, 도덕철학 > 도덕훈, 교훈",
+                "bookImageURL": "https://image.aladin.co.kr/product/34526/60/cover200/k622932853_2.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6935936"
+              }
+            },
+            {
+              "doc": {
+                "no": 3,
+                "difference": 44,
+                "baseWeekRank": 45,
+                "pastWeekRank": 89,
+                "bookname": "죽이고 싶은 아이 :이꽃님 장편소설",
+                "authors": "지은이: 이꽃님",
+                "publisher": "우리학교",
+                "publication_year": "2024",
+                "isbn13": "9791167552723",
+                "addition_symbol": "44810",
+                "vol": "2",
+                "class_no": "813.7",
+                "class_nm": "문학 > 한국문학 > 소설",
+                "bookImageURL": "https://image.aladin.co.kr/product/34179/34/cover200/k122931213_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6893936"
+              }
+            },
+            {
+              "doc": {
+                "no": 4,
+                "difference": 44,
+                "baseWeekRank": 82,
+                "pastWeekRank": 126,
+                "bookname": "흔한남매 불꽃 튀는 우리말 1 - 초등 국어 고수 되기 프로젝트",
+                "authors": "흔한남매 (원작)|한은호",
+                "publisher": "다산어린이",
+                "publication_year": "2021",
+                "isbn13": "9791130635712",
+                "addition_symbol": "",
+                "vol": "",
+                "class_no": "",
+                "class_nm": "null > null > null",
+                "bookImageURL": "https://bookthumb-phinf.pstatic.net/cover/180/044/18004469.jpg?type=m1&udate=20210218",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=5918291"
+              }
+            },
+            {
+              "doc": {
+                "no": 5,
+                "difference": 39,
+                "baseWeekRank": 81,
+                "pastWeekRank": 120,
+                "bookname": "에그박사 :Egg&bugs",
+                "authors": "원작: 에그박사 ;그림: 홍종현",
+                "publisher": "미래엔",
+                "publication_year": "2020",
+                "isbn13": "9791164138425",
+                "addition_symbol": "77490",
+                "vol": "4",
+                "class_no": "472",
+                "class_nm": "자연과학 > 생물과학 > 생물학",
+                "bookImageURL": "https://image.aladin.co.kr/product/27643/74/cover/k052733229_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6063450"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "result": {
+          "date": "2024-11-29",
+          "docs": [
+            {
+              "doc": {
+                "no": 1,
+                "difference": 155,
+                "baseWeekRank": 84,
+                "pastWeekRank": 239,
+                "bookname": "야옹이 수영 교실 ",
+                "authors": "신현경 글 ;노예지 그림",
+                "publisher": "인플루엔셜",
+                "publication_year": "2023",
+                "isbn13": "9791168341180",
+                "addition_symbol": "77810",
+                "vol": "",
+                "class_no": "813.7",
+                "class_nm": "문학 > 한국문학 > 소설",
+                "bookImageURL": "https://image.aladin.co.kr/product/32130/71/cover/k662834301_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6738249"
+              }
+            },
+            {
+              "doc": {
+                "no": 2,
+                "difference": 83,
+                "baseWeekRank": 97,
+                "pastWeekRank": 180,
+                "bookname": "흔한남매 불꽃 튀는 우리말 5 - 초등 국어 고수 되기 프로젝트",
+                "authors": "한은호 (지은이), 흔한남매 (원작), 유희석 (그림), 흔한컴퍼니 (감수)",
+                "publisher": "다산어린이",
+                "publication_year": "2022",
+                "isbn13": "9791130679266",
+                "vol": "",
+                "class_nm": "null > null > null",
+                "bookImageURL": "https://image.aladin.co.kr/product/29168/59/cover/k962837473_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6431746"
+              }
+            },
+            {
+              "doc": {
+                "no": 3,
+                "difference": 76,
+                "baseWeekRank": 100,
+                "pastWeekRank": 176,
+                "bookname": "에그박사 :Egg&bugs",
+                "authors": "원작: 에그박사 ;그림: 홍종현",
+                "publisher": "미래엔",
+                "publication_year": "2020",
+                "isbn13": "9791168412279",
+                "addition_symbol": "77490",
+                "vol": "7",
+                "class_no": "472",
+                "class_nm": "자연과학 > 생물과학 > 생물학",
+                "bookImageURL": "https://image.aladin.co.kr/product/29691/86/cover/k742838586_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6491579"
+              }
+            },
+            {
+              "doc": {
+                "no": 4,
+                "difference": 68,
+                "baseWeekRank": 87,
+                "pastWeekRank": 155,
+                "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+                "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+                "publisher": "미래엔",
+                "publication_year": "2022",
+                "isbn13": "9791168417656",
+                "addition_symbol": "77030",
+                "vol": "4",
+                "class_no": "388",
+                "class_nm": "사회과학 > 풍속, 민속학 > 민간전승",
+                "bookImageURL": "https://image.aladin.co.kr/product/33188/45/cover/k742937532_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6814802"
+              }
+            },
+            {
+              "doc": {
+                "no": 5,
+                "difference": 57,
+                "baseWeekRank": 96,
+                "pastWeekRank": 153,
+                "bookname": "(흔한남매) 수수께끼 어드벤처 :수수께끼로 배우는 교과 지식",
+                "authors": "원작: 흔한남매 ;그림: 도니패밀리",
+                "publisher": "미래엔",
+                "publication_year": "2022",
+                "isbn13": "9791168415591",
+                "addition_symbol": "77030",
+                "vol": "3",
+                "class_no": "388",
+                "class_nm": "사회과학 > 풍속, 민속학 > 민간전승",
+                "bookImageURL": "https://image.aladin.co.kr/product/31966/80/cover/k562834162_1.jpg",
+                "bookDtlUrl": "https://data4library.kr/bookV?seq=6718946"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

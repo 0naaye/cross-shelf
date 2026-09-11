@@ -1,0 +1,13 @@
+{
+  "response": {
+    "request": {
+      "isbn13": "9788936447014",
+      "libCode": "111035",
+      "format": "json"
+    },
+    "result": {
+      "hasBook": "Y",
+      "loanAvailable": "Y"
+    }
+  }
+}
